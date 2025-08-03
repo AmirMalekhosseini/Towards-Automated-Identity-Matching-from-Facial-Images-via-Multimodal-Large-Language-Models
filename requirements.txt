@@ -1,0 +1,26 @@
+# AI & Image Processing Libraries
+
+torch
+torchvision
+gfpgan
+realesrgan
+basicsr
+opencv-python
+rembg
+pillow
+matplotlib
+
+# Web Automation & API Libraries
+requests
+httpx
+selenium
+openai
+together
+serpapi
+
+# Other Utilities
+tqdm
+onnxruntime
+rembg
+facenet-pytorch
+google-search-results

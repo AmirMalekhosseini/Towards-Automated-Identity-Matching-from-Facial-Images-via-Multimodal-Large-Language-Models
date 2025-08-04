@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Pedro Alonso (Pedro González Alonso)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Writer",
+                "Film Director",
+                "Television Actor",
+                "Artist",
+                "Painter",
+                "Stage Actor"
+            ],
+            "background": "Born June 21, 1971, in Vigo, Spain, Pedro Alonso began his career in 1994. He is a graduate of RESAD (Royal School of Dramatic Arts) and Teatro de la Danza, and is multilingual in Spanish, Catalan, and English. He is known for his roles in *Money Heist* (Berlin) and *Gran Hotel* (Diego Murquía), among other television series."
+        },
+        "summary": "Pedro Alonso is a Spanish actor, writer, and film director best known for portraying Berlin in *Money Heist*. He has a long-standing career in Spanish television and film since 1994 and is also an accomplished artist and painter.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Jose Manuel Villalonga",
+        "structured_info": {
+            "roles_affiliations": [],
+            "background": "Jose Manuel Villalonga is a citizen of Spain. Currently, little is known about his profession or significance beyond this."
+        },
+        "summary": "Jose Manuel Villalonga is a Spanish citizen whose profession and wider significance are currently unknown, as the available information appears to be limited to metadata.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Tatiana Djordjevic",
+        "structured_info": {
+            "roles_affiliations": [
+                "Hypnotherapist",
+                "Artist"
+            ],
+            "background": "Tatiana Djordjevic is based in Paris and works as both a hypnotherapist and an artist. She is currently in a relationship with actor Pedro Alonso."
+        },
+        "summary": "Tatiana Djordjevic is a Paris-based hypnotherapist and artist who is known for being in a relationship with actor Pedro Alonso.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Brad Pitt",
+        "structured_info": {
+            "roles_affiliations": [
+                "Celebrity"
+            ],
+            "background": "Brad Pitt shares an astrological Venus conjunction with Pedro Alonso."
+        },
+        "summary": "Brad Pitt is a celebrity noted for sharing a Venus conjunction with actor Pedro Alonso.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Rihanna",
+        "structured_info": {
+            "roles_affiliations": [
+                "Celebrity"
+            ],
+            "background": "Rihanna shares an astrological Venus conjunction with Pedro Alonso."
+        },
+        "summary": "Rihanna is a celebrity notable for sharing a Venus conjunction with actor Pedro Alonso.",
+        "appearance_count": 1
+    }
+]

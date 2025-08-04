@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Álvaro Morte",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Businessman",
+                "Entertainment Industry",
+                "*Money Heist* production",
+                "*The Wheel of Time*",
+                "*Hospital Central*",
+                "*Amar en tiempos revueltos*",
+                "*Mirage*",
+                "*Immaculate*"
+            ],
+            "background": "Álvaro Morte is a Spanish actor born February 23, 1975, in Algeciras, Spain. He studied at the School of Cinematography and the Community of Madrid and began working in 2002. He is known for playing 'The Professor' in *Money Heist* and Logan in *The Wheel of Time*, and underwent treatment for a cancerous tumor in his left thigh."
+        },
+        "summary": "Álvaro Morte is a prominent Spanish actor internationally recognized for his leading role as 'The Professor' in the Netflix series *Money Heist*. He has a diverse acting career spanning various television series and films, and also has experience as a businessman.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Pedro J. Pacheco",
+        "structured_info": {
+            "roles_affiliations": [
+                "Contributor (Wikipedia)",
+                "Uploader (Wikipedia)",
+                "Author (of image 'File:Álvaro Morte, 2020 (cropped).jpg') "
+            ],
+            "background": "Pedro J. Pacheco is a Wikipedia contributor who authored and uploaded the image 'File:Álvaro Morte, 2020 (cropped).jpg' using UploadWizard. His contributions can be viewed at https://en.wikipedia.org/wiki/Special:Contributions/Pedro_J_Pacheco."
+        },
+        "summary": "Pedro J. Pacheco is a Wikipedia contributor known for authoring and uploading an image of Álvaro Morte from 2020.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Úrsula Corberó",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Úrsula Corberó is an actress recognized for prominent roles in several popular Spanish television series including *Money Heist* (as Tokyo), *Elite* (as Serena), and *El secreto de Puente Viejo* (as Margarita/Lucas). She has collaborated with actor Eduardo Noriega."
+        },
+        "summary": "Úrsula Corberó is a Spanish actress best known for her roles in hit series *Money Heist* and *Elite*.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Eduardo Noriega",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Eduardo Noriega is an actor known for his roles in *El embarcadero* (as Óscar) and *The Wheel of Time*, and for collaborating with Úrsula Corberó on various films."
+        },
+        "summary": "Eduardo Noriega is an actor with experience in both television and film, notably recognized for his role as Óscar in *El embarcadero* and his appearance in *The Wheel of Time*.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Miguel Ángel Silvestre",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Silvestre is known for his role in *The Wheel of Time*, where he portrayed a character leading a double life. He has worked alongside Úrsula Corberó and other cast members from the series."
+        },
+        "summary": "Miguel Ángel Silvestre is an actor recognized for his work in *The Wheel of Time*, notably a role involving a character with a hidden identity, and his association with other actors from the show.",
+        "appearance_count": 1
+    }
+]

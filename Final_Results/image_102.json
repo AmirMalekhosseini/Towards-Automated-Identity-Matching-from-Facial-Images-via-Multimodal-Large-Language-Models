@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Sayed Ali Malek Hosseini",
+        "structured_info": {
+            "roles_affiliations": [
+                "Surgeon",
+                "Liver Transplant Pioneer",
+                "Board Member",
+                "Shiraz University of Medical Sciences",
+                "Namazi Hospital"
+            ],
+            "background": "Dr. Hosseini is a highly accomplished surgeon specializing in liver transplantation. He completed his general surgery residency at Shiraz University of Medical Sciences and pursued further training with fellowships in kidney and liver transplantation in Iran and the US. He is a prolific researcher with numerous publications. He is also involved in the development of a 1000-bed cancer hospital in Shiraz."
+        },
+        "summary": "Sayed Ali Malek Hosseini is a pioneering Iranian surgeon renowned as the 'father of liver transplant' in Iran, having performed the country's first liver transplant from a living donor in 1993-1994. He is affiliated with Shiraz University of Medical Sciences and Namazi Hospital, and is actively involved in medical research and the creation of new medical facilities.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Ali Hosseini",
+        "structured_info": {
+            "roles_affiliations": [
+                "Researcher",
+                "Physician",
+                "Shahid Beheshti University of Medical Sciences"
+            ],
+            "background": "Dr. Hosseini is an Iranian physician specializing in thyroid diseases. He is a prolific author and researcher in the field, with numerous publications and authored books to his name, as well as expertise in medical education."
+        },
+        "summary": "Ali Hosseini is an Iranian physician and researcher affiliated with Shahid Beheshti University of Medical Sciences, specializing in thyroid diseases and known for his extensive publications in the field.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Zahra Parsa",
+        "structured_info": {
+            "roles_affiliations": [
+                "Associate Professor",
+                "Shahid Beheshti University of Medical Sciences"
+            ],
+            "background": "Dr. Parsa is a specialist in medical education with a focus on curriculum development and assessment methods."
+        },
+        "summary": "Zahra Parsa is an Associate Professor at Shahid Beheshti University of Medical Sciences specializing in medical education, particularly curriculum development and assessment.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Seyed Ali Salim",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professor",
+                "Shahid Beheshti University of Medical Sciences"
+            ],
+            "background": "Professor Salim specializes in the study and treatment of thyroid diseases."
+        },
+        "summary": "Seyed Ali Salim is a professor at Shahid Beheshti University of Medical Sciences with a specialisation in thyroid diseases.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sayed Karamatollah Malek Hosseini",
+        "structured_info": {
+            "roles_affiliations": [
+                "Member of the Scientific Board of the Iranian Society for Transplantation"
+            ],
+            "background": "Dr. Hosseini has been recognized with an award and has a record of publications in scholarly journals."
+        },
+        "summary": "Sayed Karamatollah Malek Hosseini is a member of the Iranian Society for Transplantation's Scientific Board and a published researcher who has received recognition for his work.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Alan Turing",
+        "structured_info": {
+            "roles_affiliations": [
+                "Logician",
+                "Pioneering Computer Scientist",
+                "Cryptanalyst",
+                "British Mathematician",
+                "Theoretical Biologist",
+                "Philosopher"
+            ],
+            "background": "Alan Turing was a British-born mathematician and computer scientist central to the development of theoretical computer science and artificial intelligence. He played a crucial role in breaking German ciphers during World War II, notably the Enigma code, and is renowned for his concept of the Turing machine and the Turing test. He was posthumously pardoned for historical convictions related to homosexual acts. His early life included a British Indian upbringing."
+        },
+        "summary": "Alan Turing was a highly influential British mathematician and computer scientist. He is widely considered a father of modern computing and made significant contributions to both theoretical computer science, artificial intelligence and cryptanalysis during WWII, notably in breaking the Enigma code.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Andrew W. Appel",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professor",
+                "Editor",
+                "Author"
+            ],
+            "background": "Andrew W. Appel is a scholar specializing in the history of mechanized formal logic, particularly the work of Alan Turing. He is known for his work with Alan Turing’s ‘Systems of Logic’."
+        },
+        "summary": "Andrew W. Appel is a Professor, Author, and Editor with a focus on the history of formal logic, notably the work of Alan Turing and his ‘Systems of Logic’.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Alan M. Turing",
+        "structured_info": {
+            "roles_affiliations": [
+                "Logician",
+                "Mathematician",
+                "Cryptanalyst",
+                "Author",
+                "Scientist"
+            ],
+            "background": "Alan Turing was a highly influential English scientist known for formalizing the concept of an algorithm and playing a crucial role in breaking German Enigma codes during WWII. He also contributed significantly to theoretical biology and computer science with his work, including 'The Chemical Basis of Morphogenesis'."
+        },
+        "summary": "Alan M. Turing was a pivotal figure in the development of computer science and a vital contributor to Allied efforts during World War II. He is celebrated for his work in logic, mathematics, and cryptography, as well as his groundbreaking research across multiple scientific disciplines.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Gordon Brown",
+        "structured_info": {
+            "roles_affiliations": [
+                "Former British Prime Minister"
+            ],
+            "background": "Gordon Brown issued a posthumous royal pardon to Alan Turing in 2013."
+        },
+        "summary": "Gordon Brown is a former British Prime Minister who is notably known for granting Alan Turing a posthumous royal pardon.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Alonzo Church",
+        "structured_info": {
+            "roles_affiliations": [
+                "Doctoral advisor"
+            ],
+            "background": "He is known for advising Alan Turing during his doctoral studies."
+        },
+        "summary": "Alonzo Church is a notable figure as the doctoral advisor to Alan Turing.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Alireza Faghani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Referee",
+                "FIFA Referee",
+                "FIFA",
+                "AFC",
+                "A-League Official"
+            ],
+            "background": "Alireza Faghani is an Iranian-Australian international football referee who began his FIFA career in 2008. He has officiated in major competitions including the 2014 and 2022 FIFA World Cups, the AFC Champions League, the AFC Cup, the FIFA Club World Cup, and the Olympics, as well as domestic leagues like the Persian Gulf Pro League and the A-League."
+        },
+        "summary": "Alireza Faghani is a prominent international football referee, originally from Iran and now based in Australia. He has been a FIFA referee since 2008 and has officiated numerous high-profile matches globally.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Donald Trump",
+        "structured_info": {
+            "roles_affiliations": [
+                "President of the United States"
+            ],
+            "background": "Attended the FIFA Club World Cup Final between Chelsea and Paris Saint-Germain, as documented in a White House Flickr photograph."
+        },
+        "summary": "Donald Trump is the former President of the United States, and was recently documented attending a Chelsea vs. Paris Saint-Germain soccer match.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Melania Trump",
+        "structured_info": {
+            "roles_affiliations": [
+                "Former First Lady of the United States"
+            ],
+            "background": "She attended the FIFA Club World Cup Final with Donald Trump and was featured in a photograph released by The White House."
+        },
+        "summary": "Melania Trump is a former First Lady of the United States who recently attended a FIFA Club World Cup Final alongside her husband.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Daniel Torok",
+        "structured_info": {
+            "roles_affiliations": [
+                "Photographer",
+                "Official White House Photographer"
+            ],
+            "background": "Daniel Torok is a photographer recognized for his work as the Official White House Photographer and for capturing the featured photograph."
+        },
+        "summary": "Daniel Torok is a professional photographer who notably served as the Official White House Photographer and is known for a featured photograph he took during his tenure.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Mohammad Faghani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football referee"
+            ],
+            "background": "Mohammad Faghani is the brother of fellow football referee Alireza Faghani."
+        },
+        "summary": "Mohammad Faghani is a football referee and the brother of prominent referee Alireza Faghani.",
+        "appearance_count": 1
+    }
+]

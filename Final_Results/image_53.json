@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Matthew Anderson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Volleyball Player",
+                "Lega Pallavolo Serie A",
+                "USA Volleyball",
+                "Legavolley Serie A"
+            ],
+            "background": "Matthew Anderson is an American professional volleyball player currently playing in the Italian Lega Pallavolo Serie A. He also represents the USA Volleyball team."
+        },
+        "summary": "Matthew Anderson is a prominent volleyball player for both the Italian Lega Pallavolo Serie A and the USA Volleyball team. He is recognizable from images associated with both affiliations.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Matthew John Anderson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Zenit Kazan",
+                "Professional Volleyball Player",
+                "United States men's national volleyball team"
+            ],
+            "background": "Born April 18, 1987, in Buffalo, New York, Anderson began playing volleyball at age 15. He is a decorated player, achieving Olympic bronze medals in 2016 and 2024, as well as gold at the 2014 World League and 2015 World Cup."
+        },
+        "summary": "Matt Anderson is an American professional volleyball player currently with Zenit Kazan and the United States men's national team. He is a multiple-time medalist, including Olympic bronze and gold in major international competitions.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Pedro Alves",
+        "structured_info": {
+            "roles_affiliations": [
+                "Uploader"
+            ],
+            "background": "Pedro Alves used UploadWizard to upload an image to Lega Pallavolo Serie A."
+        },
+        "summary": "Pedro Alves is an uploader who contributed to Lega Pallavolo Serie A by uploading an image using UploadWizard.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Matthew Anderson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Player (Lega Pallavolo Serie A)",
+                "Subject of copyrighted image"
+            ],
+            "background": "Matthew Anderson is associated with the Lega Pallavolo Serie A (Italian Volleyball League), featured in an image where the Lega Pallavolo Serie A is likely the copyright holder."
+        },
+        "summary": "Matthew Anderson is a volleyball player affiliated with the Lega Pallavolo Serie A, and is the subject of an image likely owned by the league.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Volunteer Response Team (VRT)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Reviewer",
+                "Licensing Verification (Wikimedia Foundation)"
+            ],
+            "background": "The VRT is a team within the Wikimedia Foundation responsible for reviewing image licensing requests. They approved publication under a CC BY-SA 4.0 license for ticket number 2017071910007048."
+        },
+        "summary": "The Volunteer Response Team (VRT) is a Wikimedia Foundation team that reviews and approves image licenses, as demonstrated by their work on ticket 2017071910007048.",
+        "appearance_count": 1
+    }
+]

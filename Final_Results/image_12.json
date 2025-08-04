@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Randy Orton",
+        "structured_info": {
+            "roles_affiliations": [
+                "Wrestler (WWE)",
+                "Professional wrestler"
+            ],
+            "background": "Randy Orton is a third-generation professional wrestler currently with WWE's SmackDown brand. He is a multi-time champion and holds the record for being the youngest world champion in WWE history. He is currently a key part of the WrestleMania 41 storyline."
+        },
+        "summary": "Randy Orton is a highly accomplished professional wrestler currently signed with WWE, known for his championship wins and current involvement in WrestleMania 41, where his opponent is uncertain due to a recent injury.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Bob Orton",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional wrestler",
+                "Grandfather of Randy Orton"
+            ],
+            "background": "Bob Orton is a professional wrestler and the grandfather of fellow wrestler Randy Orton."
+        },
+        "summary": "Bob Orton is a professional wrestler known for being the grandfather of Randy Orton.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Bob Orton Jr.",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional wrestler",
+                "Father of Randy Orton"
+            ],
+            "background": "Bob Orton Jr. is a professional wrestler and is known as the father of fellow wrestler Randy Orton."
+        },
+        "summary": "Bob Orton Jr. is a professional wrestler recognized for his own career and, notably, as the father of WWE Superstar Randy Orton.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Barry Orton",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional wrestler",
+                "Uncle of Randy Orton"
+            ],
+            "background": "Barry Orton is a professional wrestler and is notable for being the uncle of fellow wrestler Randy Orton."
+        },
+        "summary": "Barry Orton is a professional wrestler primarily known for his familial connection to Randy Orton, serving as his uncle.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Cody Rhodes",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional wrestler"
+            ],
+            "background": "Cody Rhodes previously collaborated with Ted DiBiase Jr. in a professional wrestling group."
+        },
+        "summary": "Cody Rhodes is a professional wrestler known for his past association with Ted DiBiase Jr.",
+        "appearance_count": 1
+    }
+]

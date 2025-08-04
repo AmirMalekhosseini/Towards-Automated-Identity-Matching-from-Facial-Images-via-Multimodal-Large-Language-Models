@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Gerard Piqué",
+        "structured_info": {
+            "roles_affiliations": [
+                "Centre-back",
+                "Barcelona",
+                "Spain national team",
+                "Manchester United",
+                "Spanish former professional footballer"
+            ],
+            "background": "Gerard Piqué is widely regarded as one of the best defenders of his generation, enjoying a successful career at both Manchester United and Barcelona where he won multiple titles. He was a key player for the Spain national team, earning 102 caps."
+        },
+        "summary": "Gerard Piqué is a retired Spanish professional footballer who excelled as a centre-back for clubs like Manchester United and Barcelona, and represented the Spanish national team 102 times. He's renowned as one of the top defenders of his generation.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Marcel Desailly",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Marcel Desailly is a footballer who has played against Gerard Piqué during his career."
+        },
+        "summary": "Marcel Desailly is a footballer notably recognized as a past opponent of Gerard Piqué.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Paulo Sousa",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Known as a player who has competed against Gerard Piqué."
+        },
+        "summary": "Paulo Sousa is a footballer noted for having played against Gerard Piqué.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Samuel Eto'o",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Samuel Eto'o is known as a footballer who has played against Gerard Piqué."
+        },
+        "summary": "Samuel Eto'o is a footballer recognized for having been an opponent of Gerard Piqué during their careers.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Shakira Isabel Mebarak Ripoll",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Songwriter"
+            ],
+            "background": "Shakira recently ended a long-term relationship with Gerard Piqué (since March 2011) and has publicly addressed the separation through her music."
+        },
+        "summary": "Shakira is a globally recognized singer and songwriter who recently gained public attention due to her separation from Gerard Piqué, which has influenced her recent musical work.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Hossein Ronaghi (حسین رونقی)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Activist"
+            ],
+            "background": "Hossein Ronaghi is an Iranian political activist dedicated to promoting democracy and human rights."
+        },
+        "summary": "Hossein Ronaghi is an Iranian activist working to advance democracy and human rights within Iran.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Golrokh Ebrahimi Ara (گلرخ ابراهیمی ارا)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Activist"
+            ],
+            "background": "Golrokh Ebrahimi Ara is politically connected, with associations to Hossein Ronaghi, who is likely a political activist or opposition figure."
+        },
+        "summary": "Golrokh Ebrahimi Ara is an activist with political connections, specifically associated with Hossein Ronaghi.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sepideh Rashidi (سپیده رشیدی)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Sepideh Rashidi is an actress who gained recognition for her work in the series \"Sirush\" (سروش). Information available details her artistic journey and personal life."
+        },
+        "summary": "Sepideh Rashidi is an actress best known for her role in \"Sirush\" (سروش), with available information providing insight into her professional and personal background.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Amir Firouzi (امیر فروزی)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Amir Firouzi has collaborated with actress Sepideh Rashidi in a co-starring role."
+        },
+        "summary": "Amir Firouzi is an actor known for his work alongside Sepideh Rashidi.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jonathan Stallner (جان استالنر)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Associated with Jomhouri Eslami (جمهوری اسلامی) newspaper"
+            ],
+            "background": "Jonathan Stallner has been featured in the Jomhouri Eslami newspaper, and there are questions regarding the rationale for his inclusion."
+        },
+        "summary": "Jonathan Stallner is identified as being associated with the Jomhouri Eslami newspaper, with some questioning the basis for this connection.",
+        "appearance_count": 1
+    }
+]

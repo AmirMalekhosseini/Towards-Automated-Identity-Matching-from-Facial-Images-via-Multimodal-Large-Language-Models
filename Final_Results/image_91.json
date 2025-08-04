@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Morteza Pashaei",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Songwriter",
+                "Musician"
+            ],
+            "background": "Morteza Pashaei is a popular musician with a significant online presence, noted for numerous song downloads."
+        },
+        "summary": "Morteza Pashaei is an Iranian singer, songwriter, and musician widely recognized for his music and strong digital footprint.",
+        "appearance_count": 1
+    },
+    {
+        "name": "جمال وفایی (Jamal Vafaei)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Musician"
+            ],
+            "background": "Jamal Vafaei is a musician and singer who appears to be featured on a platform related to song downloads."
+        },
+        "summary": "Jamal Vafaei is a singer and musician, likely gaining exposure through online music distribution platforms.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Reza Karimi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Musician",
+                "Featured Artist"
+            ],
+            "background": "Reza Karimi is identified as a singer and musician whose music is available for download, suggesting he is a featured artist on a music platform."
+        },
+        "summary": "Reza Karimi is a singer and musician with available music downloads, likely functioning as a featured artist on a relevant site.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Yousof Zamani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Musician",
+                "Featured Artist"
+            ],
+            "background": "Yousof Zamani is a musician whose music is available for download, indicating activity as a recording artist."
+        },
+        "summary": "Yousof Zamani is a singer and musician who appears to be a featured artist with available music downloads.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Saman Jalili",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Musician",
+                "Featured Artist"
+            ],
+            "background": "Saman Jalili is noted as an artist with songs available for download, indicating activity in music distribution."
+        },
+        "summary": "Saman Jalili is a singer and musician whose work is available online, suggesting an active presence in the music industry.",
+        "appearance_count": 1
+    }
+]

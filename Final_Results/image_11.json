@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Neil deGrasse Tyson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director of the Hayden Planetarium",
+                "Astrophysicist",
+                "Science Communicator",
+                "Author",
+                "Princeton University",
+                "American Museum of Natural History"
+            ],
+            "background": "Neil deGrasse Tyson is an astrophysicist educated at Harvard (B.A. in Physics) and Columbia University (Ph.D. in Astrophysics). He is a popularizer of science, known for his work on *StarTalk*, numerous television appearances, and acclaimed books making complex concepts accessible to the public."
+        },
+        "summary": "Neil deGrasse Tyson is a highly influential astrophysicist and science communicator dedicated to making science accessible and engaging for a wide audience. He directs the Hayden Planetarium and is recognized for his books, television appearances, and ability to discuss complex cosmic topics in an understandable way.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Carl Sagan",
+        "structured_info": {
+            "roles_affiliations": [
+                "Cosmologist",
+                "Science Communicator",
+                "Astronomer",
+                "Astrophysicist",
+                "Author"
+            ],
+            "background": "Carl Sagan was a significant influence on Neil deGrasse Tyson, particularly impacting Tyson's teaching style through Sagan's communicative abilities. He also identified Tyson's potential early on, recruiting him in high school."
+        },
+        "summary": "Carl Sagan was a renowned cosmologist, astronomer, and science communicator known for his ability to explain complex scientific ideas in an accessible way. He played a key role in the early development of Neil deGrasse Tyson's career and teaching style.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Cyril deGrasse Tyson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Sociologist",
+                "Human Resource Commissioner for New York City"
+            ],
+            "background": "Cyril deGrasse Tyson is the father of Neil deGrasse Tyson and had a significant influence on his son."
+        },
+        "summary": "Cyril deGrasse Tyson is a sociologist and former New York City Human Resource Commissioner, notably known as the father of astrophysicist Neil deGrasse Tyson.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sunita Maria Tyson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Gerontologist for the U.S. Department of Health, Education and Welfare"
+            ],
+            "background": "She is the mother of Neil deGrasse Tyson and had a significant influence on his life."
+        },
+        "summary": "Sunita Maria Tyson is a gerontologist who worked for the U.S. Department of Health, Education and Welfare, and is best known as the mother of astrophysicist Neil deGrasse Tyson.",
+        "appearance_count": 1
+    },
+    {
+        "name": "R. Michael Rich",
+        "structured_info": {
+            "roles_affiliations": [
+                "Doctoral Advisor"
+            ],
+            "background": "Known for advising Neil deGrasse Tyson's doctoral work."
+        },
+        "summary": "R. Michael Rich is a doctoral advisor, notably having guided the doctoral research of astrophysicist Neil deGrasse Tyson.",
+        "appearance_count": 1
+    }
+]

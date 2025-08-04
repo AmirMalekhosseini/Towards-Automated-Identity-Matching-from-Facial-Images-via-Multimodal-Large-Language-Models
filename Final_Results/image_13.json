@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Stephen Curry",
+        "structured_info": {
+            "roles_affiliations": [
+                "U.S. National Team",
+                "Davidson Wildcats",
+                "Golden State Warriors",
+                "Professional Basketball Player"
+            ],
+            "background": "Stephen Curry is an American point guard considered the greatest shooter in basketball history, known for revolutionizing the game with his three-point shooting. He is a four-time NBA champion and two-time MVP, holding the record for all-time NBA 3-pointers made."
+        },
+        "summary": "Stephen Curry is a highly accomplished professional basketball player for the Golden State Warriors and the U.S. National Team. He is celebrated as one of the greatest shooters in NBA history and has achieved significant success, including four NBA championships and two MVP awards.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Dell Curry",
+        "structured_info": {
+            "roles_affiliations": [
+                "Charlotte Hornets",
+                "Basketball commentator",
+                "Former professional basketball player"
+            ],
+            "background": "Dell Curry is a former NBA player with a 16-year career, renowned for his shooting ability. He is also the father of Stephen Curry."
+        },
+        "summary": "Dell Curry is a former NBA player and current basketball commentator, best known for his successful 16-year basketball career and as the father of Stephen Curry.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sonya Adams",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Stephen Curry"
+            ],
+            "background": "Sonya Adams is known primarily as the mother of Stephen Curry."
+        },
+        "summary": "Sonya Adams is recognized as the mother of NBA star Stephen Curry.",
+        "appearance_count": 1
+    }
+]

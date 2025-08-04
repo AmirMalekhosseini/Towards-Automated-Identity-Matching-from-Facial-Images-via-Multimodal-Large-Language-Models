@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Max Verstappen",
+        "structured_info": {
+            "roles_affiliations": [
+                "Oracle Red Bull Racing",
+                "Formula 1 Driver",
+                "Red Bull Racing Honda RBPT Driver",
+                "Formula One World Champion"
+            ],
+            "background": "Max Verstappen is a four-time Formula One World Champion who debuted with Scuderia Toro Rosso at the 2015 Australian Grand Prix as the youngest driver to do so. He has achieved historical wins, notably being the first driver to win four consecutive races at Imola."
+        },
+        "summary": "Max Verstappen is a highly successful Formula 1 driver currently with Oracle Red Bull Racing and a four-time World Champion. He made a historic debut as the youngest driver and has continued to achieve significant milestones in the sport.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Yuki Tsunoda",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula 1 Driver",
+                "Visa Cash App Racing Bulls Driver",
+                "Oracle Red Bull Racing Driver"
+            ],
+            "background": "Yuki Tsunoda is a Formula One driver entering his 5th season, having achieved a career-best in points, finishes, and Q3 appearances in the previous season. He competed with Visa Cash App Racing Bulls before joining Oracle Red Bull Racing at the Suzuka Grand Prix, scoring points at the Imola Grand Prix."
+        },
+        "summary": "Yuki Tsunoda is a Formula 1 driver with 5 seasons of experience, currently associated with Red Bull Racing after previously driving for Visa Cash App Racing Bulls. He's demonstrated improvement in recent performance and scored points at the Imola Grand Prix.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Kevin Hadjar",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula 1 Driver"
+            ],
+            "background": "Kevin Hadjar is a Formula 1 driver who recently scored points at the Imola Grand Prix."
+        },
+        "summary": "Kevin Hadjar is a Formula 1 driver gaining prominence after achieving a points finish at the Imola Grand Prix.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Liam Lawson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula 1 Driver (Honda-powered)"
+            ],
+            "background": "Liam Lawson achieved a P6 finish at the Austrian Grand Prix, marking his best result of the 2023 Formula 1 season."
+        },
+        "summary": "Liam Lawson is a Formula 1 driver powered by Honda, who demonstrated strong performance during the 2023 season, highlighted by a sixth-place finish in Austria.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Isack Hadjar",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula 1 Driver"
+            ],
+            "background": "Isack Hadjar achieved a P12 finish in a recent race."
+        },
+        "summary": "Isack Hadjar is a Formula 1 driver who recently finished 12th in a competition.",
+        "appearance_count": 1
+    }
+]

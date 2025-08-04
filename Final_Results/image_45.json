@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Ivan Zaytsev",
+        "structured_info": {
+            "roles_affiliations": [
+                "Volleyball Player",
+                "Professional Volleyball Player",
+                "Lube Banca Macerata",
+                "Sir Safety Perugia",
+                "Cucine Lube Civitanova",
+                "Italian national volleyball team",
+                "World Food Programme Ambassador (Italy)"
+            ],
+            "background": "Russian-born Italian professional volleyball player, specializing as an opposite hitter. He's a former captain of the Italian men's national team and has earned multiple Olympic and European Championship medals (including Olympic bronze in 2012 and silver in 2016). Zaytsev is known for his powerful serve and attacking ability, and also had a cameo in the film *Bumblebee*."
+        },
+        "summary": "Ivan Zaytsev is a highly decorated Russian-born Italian professional volleyball player and former captain of the national team, known for his powerful play and success in international competitions. He is also an ambassador for the World Food Programme in Italy and has ventured into acting.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Aleksandr Zaytsev",
+        "structured_info": {
+            "roles_affiliations": [
+                "Volleyball Player",
+                "Modena Volley",
+                "Cuneo Volley",
+                "Volley Lube",
+                "Vero Volley Monza",
+                "Sir Safety Perugia",
+                "Italy National Team",
+                "Galatasaray",
+                "Lube Banca Marche",
+                "Dinamo Moscow",
+                "Umbria Perugia",
+                "Al Arabi",
+                "Kuzbass Kemerovo",
+                "Andrea Zorzi"
+            ],
+            "background": "Olympic champion and highly regarded spiker. Debuted with the Italian national team in 2008 and has garnered multiple 'Best Server' awards. Also secured silver and bronze medals in significant international tournaments."
+        },
+        "summary": "Aleksandr Zaytsev is an Olympic champion volleyball player considered one of the world’s best spikers, with a distinguished career playing for numerous top clubs across Italy, Russia, and internationally, as well as representing the Italy National Team since 2008.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ashling Sirocchi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Ivan Zaytsev",
+                "Supporter of Italian Alimentary Harvest (Banco Alimentare Foundation)"
+            ],
+            "background": "Ashling Sirocchi is a mother to multiple children, including volleyball player Ivan Zaytsev. She is actively involved with food security initiatives in Italy, specifically the Italian Alimentary Harvest promoted by the Banco Alimentare Foundation."
+        },
+        "summary": "Ashling Sirocchi is best known as the mother of volleyball player Ivan Zaytsev, and is dedicated to addressing food insecurity in Italy through her work with the Banco Alimentare Foundation.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sienna Zaytsev",
+        "structured_info": {
+            "roles_affiliations": [
+                "Daughter of Ivan Zaytsev"
+            ],
+            "background": "Sienna Zaytsev is the daughter of Ivan Zaytsev and Ashling Sirocchi."
+        },
+        "summary": "Sienna Zaytsev is known as the daughter of Ivan Zaytsev and Ashling Sirocchi.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Vyacheslav Zaytsev",
+        "structured_info": {
+            "roles_affiliations": [
+                "Former volleyball player",
+                "Father of Ivan Zaytsev",
+                "Former swimmer"
+            ],
+            "background": "Vyacheslav Zaytsev is a former champion volleyball player and Olympian (1988 Summer Olympics). He also has a background in swimming."
+        },
+        "summary": "Vyacheslav Zaytsev is a former athlete with expertise in both volleyball and swimming, and is notably the father of volleyball player Ivan Zaytsev.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Shahab Hosseini",
+        "structured_info": {
+            "roles_affiliations": [
+                "Filmmaker",
+                "Actor",
+                "Founder of Nedaye Haft Aseman film studio"
+            ],
+            "background": "Shahab Hosseini is a highly acclaimed Iranian actor and filmmaker. He is notable for his collaborations with director Asghar Farhadi, particularly in the films *The Salesman* (2016) and *A Separation* (2011)."
+        },
+        "summary": "Shahab Hosseini is an award-winning Iranian actor and filmmaker best known for his roles in critically acclaimed films such as *The Salesman* and *A Separation*, earning him the Cannes Best Actor award in 2016. He is also actively involved in supporting new talent through his film studio, Nedaye Haft Aseman.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Asghar Farhadi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Asghar Farhadi is an Oscar-nominated and winning director recognized for his distinct visual style, specifically his restrained use of colour and texture. He is the director of the Academy Award-winning film 'The Salesman' (2016)."
+        },
+        "summary": "Asghar Farhadi is an internationally acclaimed film director, best known for winning an Oscar for 'The Salesman' and for his carefully constructed cinematic style.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Rana Hosseini",
+        "structured_info": {
+            "roles_affiliations": [
+                "Person of Interest (Wife of Shahab Hosseini)"
+            ],
+            "background": "Rana Hosseini came to prominence recently due to news coverage related to a discovery made by her husband, Shahab Hosseini."
+        },
+        "summary": "Rana Hosseini is known primarily as the wife of Shahab Hosseini and recently gained attention as a person of interest following news of her husband's discovery.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Niousha Noor",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Niousha Noor is recognized for her leading role in Maryam Keshavarzz's critically acclaimed film, \"The Persian Version,\" which has received multiple awards at Sundance."
+        },
+        "summary": "Niousha Noor is an actress best known for starring in the award-winning dramedy \"The Persian Version.\"",
+        "appearance_count": 1
+    },
+    {
+        "name": "Leyla Mohammadi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Iranian American filmmaker",
+                "Subject of the film 'The Persian Version'"
+            ],
+            "background": "Leyla Mohammadi is a filmmaker whose personal story of family reunion during her father's heart transplant in New York City is the basis for the film 'The Persian Version'."
+        },
+        "summary": "Leyla Mohammadi is an Iranian American filmmaker whose life experiences, specifically reuniting with her family during a challenging time, inspired the film 'The Persian Version'.",
+        "appearance_count": 1
+    }
+]

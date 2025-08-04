@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Parinaz Izadyar",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Graphic Designer"
+            ],
+            "background": "Born August 30, 1985, in Babol, Iran, Parinaz Izadyar is an acclaimed Iranian actress active since 2007. She studied graphic design and debuted with 'One Man, One City'. She is recognized for her dramatic roles and has received awards including the Crystal Simorgh, Hafez Awards, and Iran's Film Critics and Writers Association Award."
+        },
+        "summary": "Parinaz Izadyar is a highly regarded Iranian actress and graphic designer who gained prominence after her 2007 debut. She is celebrated for her performances in dramatic roles and has been honored with several prestigious awards for her work in film and television, including a Crystal Simorgh for 'Life and a Day'.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Hossein Hedayat",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Hossein Hedayat is an actor recognized for his performance in the 2007 film 'One Man, One City'."
+        },
+        "summary": "Hossein Hedayat is an actor best known for his role in 'One Man, One City' (2007).",
+        "appearance_count": 1
+    },
+    {
+        "name": "Hassan Fathi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Hassan Fathi is a director with experience in television series production."
+        },
+        "summary": "Hassan Fathi is a director best known for his work directing the popular TV series 'Shahrzad' (2015-2018) and 'Jeyran' (2022-2023).",
+        "appearance_count": 1
+    },
+    {
+        "name": "Saeed Roustae",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Saeed Roustae is a film director with a portfolio including 'Life and a Day' (2016), 'Just 6.5' (2019), and 'Woman and Child' (2023)."
+        },
+        "summary": "Saeed Roustae is a director who has created several films, including 'Life and a Day', 'Just 6.5', and 'Woman and Child'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Shirin Divansalar",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Shirin Divansalar is an actor recognized for her performance in the TV series 'Shahrzad' which aired from 2015 to 2018."
+        },
+        "summary": "Shirin Divansalar is an actor best known for her role in the popular Iranian TV series 'Shahrzad'.",
+        "appearance_count": 1
+    }
+]

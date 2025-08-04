@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Courteney Cox",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Producer"
+            ],
+            "background": "Courteney Cox is an American actress and producer, widely recognized for her roles as Monica Geller in *Friends* (1994–2004) and Gale Weathers in the *Scream* franchise (1996–present). She has received a Screen Actors Guild Award and has been nominated for two Emmy Awards. Her career includes appearances in numerous films and television shows, including *Family Ties*, *Masters of the Universe*, and *Desperate Housewives*."
+        },
+        "summary": "Courteney Cox is a highly accomplished American actress and producer best known for her iconic roles in *Friends* and *Scream*. She has received industry recognition including a Screen Actors Guild Award and Emmy nominations.",
+        "appearance_count": 1
+    },
+    {
+        "name": "David Arquette",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director",
+                "Producer",
+                "Comedian",
+                "Actor"
+            ],
+            "background": "David Arquette is best known for his role as Dewey Riley in the *Scream* film franchise. He has also appeared in films like *Never Been Kissed* and on *Saturday Night Live*. He was previously married to Courteney Cox."
+        },
+        "summary": "David Arquette is a multi-faceted entertainer working as an actor, comedian, director, and producer, widely recognized for his iconic role in the *Scream* movies.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Richard Cox",
+        "structured_info": {
+            "roles_affiliations": [
+                "Businessman"
+            ],
+            "background": "Richard Cox was the father of actress Courteney Cox. He passed away in 1994 and had sisters Virginia and Dorothy, as well as nephews Hunter Copeland and Ian Copeland."
+        },
+        "summary": "Richard Cox was a businessman and is primarily known as the father of actress Courteney Cox. He died in 1994 and was survived by his sisters and nephews.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Hunter Copeland",
+        "structured_info": {
+            "roles_affiliations": [
+                "Businessman"
+            ],
+            "background": "Hunter Copeland is the uncle of actress Courteney Cox."
+        },
+        "summary": "Hunter Copeland is a businessman known for being the uncle of actress Courteney Cox.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ian Copeland",
+        "structured_info": {
+            "roles_affiliations": [
+                "Business Manager"
+            ],
+            "background": "Ian Copeland is the uncle of actress Courteney Cox."
+        },
+        "summary": "Ian Copeland is a Business Manager and is known as the uncle of Courteney Cox.",
+        "appearance_count": 1
+    }
+]

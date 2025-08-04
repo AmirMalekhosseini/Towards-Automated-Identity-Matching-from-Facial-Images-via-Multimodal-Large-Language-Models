@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Joaquin Phoenix",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Star"
+            ],
+            "background": "An American actor renowned for portraying complex and unconventional characters. He has received numerous accolades including an Academy Award, a Grammy Award, and two Golden Globe Awards. He earned significant compensation for his role in the 'Joker' films, receiving $20M for 'Joker 2' and $4.5M for the original 'Joker'."
+        },
+        "summary": "Joaquin Phoenix is a highly acclaimed American actor known for his diverse and impactful roles. He has achieved significant success and recognition throughout his career, indicated by numerous awards and high earnings, while also demonstrating a commitment to his artistic boundaries as shown by his experience on set.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Deirdre O'Connell",
+        "structured_info": {
+            "roles_affiliations": [
+                "Star",
+                "Actor"
+            ],
+            "background": "Deirdre O'Connell is an actor known for her role in the movie 'Eddington'."
+        },
+        "summary": "Deirdre O'Connell is an actor and star, notably appearing in the film 'Eddington'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Emma Stone",
+        "structured_info": {
+            "roles_affiliations": [
+                "Star",
+                "Actor"
+            ],
+            "background": "Emma Stone is known for her role in the movie 'Eddington'."
+        },
+        "summary": "Emma Stone is an actor and star, most notably appearing in the film 'Eddington'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ari Aster",
+        "structured_info": {
+            "roles_affiliations": [
+                "Writer",
+                "Director"
+            ],
+            "background": "Ari Aster directed the movie 'Eddington'."
+        },
+        "summary": "Ari Aster is a writer and director, best known for directing the film 'Eddington'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Harald Krichel",
+        "structured_info": {
+            "roles_affiliations": [
+                "Picture Provider (Wikimedia)",
+                "Contributor (CC BY-SA License)"
+            ],
+            "background": "Harald Krichel is a photographer and image contributor who licensed an image under the Attribution-ShareAlike (CC BY-SA) license for use on a webpage."
+        },
+        "summary": "Harald Krichel is a photographer recognized for providing images to Wikimedia under a Creative Commons license, specifically Attribution-ShareAlike (CC BY-SA).",
+        "appearance_count": 1
+    }
+]

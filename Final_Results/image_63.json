@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Marlon Brando",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Director",
+                "Writer",
+                "Owner of The Brando Resort",
+                "Subject of Documentary 'Marlon Brando: In Paradies'",
+                "Played Mark Antony",
+                "Played Stanley Kowalski",
+                "Played Emiliano Zapata",
+                "Played Terry Malloy",
+                "Played Colonel Kurtz"
+            ],
+            "background": "An American actor born in Omaha, Nebraska on July 3, 1924, and died July 1, 2004. Brando is widely considered one of the greatest and most influential actors in cinematic history, known for bringing the Stanislavski system of acting to mainstream audiences after studying with Stella Adler and Konstantin Stanislavski. He achieved significant success on Broadway before transitioning to film, earning two Academy Awards and numerous other accolades throughout a six-decade career. In 1966, he purchased Tetiaroa, developing it into a research center and resort and championing ecological preservation."
+        },
+        "summary": "Marlon Brando was a highly acclaimed and influential American actor recognized for his method acting and iconic roles in films like 'A Streetcar Named Desire,' 'On the Waterfront,' and 'The Godfather.' Beyond his acting career, he was a director, writer, and owner of a resort in Tetiaroa, French Polynesia, where he focused on ecological preservation.",
+        "appearance_count": 6
+    },
+    {
+        "name": "Elia Kazan",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director",
+                "Associated with 'On the Waterfront'"
+            ],
+            "background": "Directed Marlon Brando in 'A Streetcar Named Desire' and is known for directing 'On the Waterfront'."
+        },
+        "summary": "Elia Kazan is a celebrated director best known for his work on films like 'A Streetcar Named Desire' and 'On the Waterfront', notably having directed Marlon Brando in the former.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Terry Malloy",
+        "structured_info": {
+            "roles_affiliations": [
+                "Character in 'On the Waterfront'",
+                "Portrayed by Marlon Brando"
+            ],
+            "background": "Terry Malloy is a fictional character central to the film *On the Waterfront* (1954), famously portrayed by Marlon Brando."
+        },
+        "summary": "Terry Malloy is a significant character from the 1954 film *On the Waterfront*, known for being brilliantly acted by Marlon Brando.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Stella Adler",
+        "structured_info": {
+            "roles_affiliations": [
+                "Acting Teacher"
+            ],
+            "background": "Influential acting teacher known for her association with and interpretation of the Stanislavski system. She significantly impacted the acting style of Marlon Brando."
+        },
+        "summary": "Stella Adler was a highly influential acting teacher, particularly known for her work with Marlon Brando and her contributions to the understanding and practice of the Stanislavski method.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Konstantin Stanislavski",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director",
+                "Drama Teacher",
+                "Actor"
+            ],
+            "background": "A Russian actor and director, Stanislavski is renowned for developing the Stanislavski system of acting, a highly influential technique impacting performers like Marlon Brando."
+        },
+        "summary": "Konstantin Stanislavski was a Russian actor, director, and drama teacher best known for creating the Stanislavski system, a foundational approach to acting that continues to influence method acting today.",
+        "appearance_count": 1
+    }
+]

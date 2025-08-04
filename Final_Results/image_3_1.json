@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Gerard Piqué",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Barcelona",
+                "Spain national team",
+                "Manchester United",
+                "Zaragoza",
+                "Catalonia",
+                "Public Figure"
+            ],
+            "background": "Gerard Piqué is a Spanish professional footballer who began his career at Manchester United before playing for Zaragoza on loan and achieving prominence at Barcelona. He has represented Spain at both youth and senior levels, typically playing as a centre-back or defensive midfielder. He recently experienced a public separation from Shakira and is prioritizing his children."
+        },
+        "summary": "Gerard Piqué is a well-known Spanish footballer who has played for prominent clubs including Manchester United and Barcelona, as well as the Spain national team. Beyond his sporting career, he is a public figure who recently garnered attention due to his personal life.",
+        "appearance_count": 2
+    },
+    {
+        "name": "John O'Shea",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Played as a footballer for Manchester United, notably being replaced by Gerard Piqué in one match."
+        },
+        "summary": "John O'Shea is a footballer who formerly played for Manchester United.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Gary Neville",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Gary Neville's career was impacted by injuries, which at times created opportunities for other players, such as Gerard Piqué playing at right-back."
+        },
+        "summary": "Gary Neville is a footballer whose career involved periods of unavailability due to injury.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Alex Ferguson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Manager (Manchester United)"
+            ],
+            "background": "Alex Ferguson evaluated Gerard Piqué's performance and held discussions regarding his potential future with Manchester United."
+        },
+        "summary": "Alex Ferguson is a former Manager of Manchester United known for assessing player form and future prospects, as exemplified by his involvement in discussions about Gerard Piqué's career.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Gabriel Milito",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Gabriel Milito is noted for his versatility, being capable of playing as either a centre-back or defensive midfielder, and is often compared to Gerard Piqué."
+        },
+        "summary": "Gabriel Milito is a footballer known for his ability to play multiple defensive positions and is frequently compared to Gerard Piqué.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Lionel Messi",
+        "structured_info": {
+            "roles_affiliations": [
+                "UNICEF Goodwill Ambassador",
+                "Inter Miami CF (Player & Captain)",
+                "Argentina National Football Team (Captain)",
+                "FC Barcelona (Former)",
+                "Paris Saint-Germain (PSG) (Former)",
+                "Professional Footballer"
+            ],
+            "background": "Lionel Messi is an Argentine professional footballer born in Rosario, Argentina in 1987.  He is widely considered one of the greatest players of all time, playing primarily as a forward. He has represented Argentina since 2005 and holds numerous scoring records, including being the highest scorer in CONMEBOL. "
+        },
+        "summary": "Lionel Messi is a highly decorated Argentine footballer currently playing for Inter Miami and captaining the Argentina national team. He is celebrated as one of the greatest players in the history of football, known for his exceptional goalscoring, playmaking, and dribbling abilities, with a record of over 850 senior career goals and eight Ballon d'Or awards.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Lionel Andrés Messi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Paris Saint-Germain",
+                "Barcelona",
+                "Newell's Old Boys",
+                "Argentina national team",
+                "Inter Miami",
+                "Captain",
+                "Forward",
+                "Professional Footballer"
+            ],
+            "background": "Lionel Messi is widely considered one of the greatest football players of all time. He has won a record eight Ballon d’Or awards and 45 team trophies, including leading Argentina to victory in the 2022 FIFA World Cup and the 2021 Copa América. He holds numerous goal-scoring records and has been recognized as the world’s highest-paid athlete."
+        },
+        "summary": "Lionel Messi is a highly decorated professional footballer, renowned as one of the greatest players in history. He has achieved significant success with both club and country, including winning the World Cup and Copa América, and accumulating a record number of individual and team accolades.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer"
+            ],
+            "background": "Widely regarded as one of the most decorated footballers ever, known for exceptional physical ability, goal-scoring record, and playmaking skills. He's had a significant impact across numerous football leagues."
+        },
+        "summary": "Cristiano Ronaldo is a highly acclaimed professional footballer, consistently ranked among the greatest players of all time. He is particularly known for his rivalry with Lionel Messi and his remarkable achievements throughout his career.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Marcelo Bielsa",
+        "structured_info": {
+            "roles_affiliations": [
+                "Coach",
+                "Football Manager",
+                "Newell's Old Boys"
+            ],
+            "background": "Marcelo Bielsa is a retired Football Manager known for his impactful role in Lionel Messi's return to the Argentinian national team in 2005 following injury issues."
+        },
+        "summary": "Marcelo Bielsa is a former Football Manager and Coach, notably associated with Newell's Old Boys, recognized for his influence on players like Lionel Messi and his contribution to Argentinian football.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Emanuel Biancucchi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Emanuel Biancucchi is a footballer who played alongside Lionel Messi during their early careers."
+        },
+        "summary": "Emanuel Biancucchi is a footballer notable for having played with Lionel Messi in their youth.",
+        "appearance_count": 1
+    }
+]

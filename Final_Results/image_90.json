@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Bradley Cooper",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Director",
+                "Producer",
+                "Screenwriter",
+                "Filmmaker",
+                "Musician"
+            ],
+            "background": "Born January 5, 1975, in Abington Township, Pennsylvania, Bradley Cooper began his acting career in 1999, gaining recognition for his role in *Sex and the City* and a breakthrough with *The Hangover*. He has received numerous accolades and is known for starring in and often producing/directing critically acclaimed films such as *A Star is Born* and *Maestro*. His father was a stockbroker and his mother worked in television."
+        },
+        "summary": "Bradley Cooper is a highly acclaimed American actor, director, producer, screenwriter, and musician. He's known for versatile performances in films like *A Star is Born*, *Nightmare Alley*, and *Maestro* (which he also directed), and has a successful career spanning over two decades.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Irina Shayk",
+        "structured_info": {
+            "roles_affiliations": [
+                "Model"
+            ],
+            "background": "Irina Shayk was in a relationship with Bradley Cooper from 2015 to 2019 and is the mother of their daughter."
+        },
+        "summary": "Irina Shayk is a model best known for her relationship with actor Bradley Cooper, with whom she shares a daughter.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Jennifer Esposito",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Jennifer Esposito is known for being a former wife of Bradley Cooper and is the mother of his daughter."
+        },
+        "summary": "Jennifer Esposito is an actress, primarily recognized for her personal connection to Bradley Cooper as his former wife and the mother of their daughter.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Merrill Lynch",
+        "structured_info": {
+            "roles_affiliations": [
+                "Stockbroker (through association with Bradley Cooper's father)"
+            ],
+            "background": "Merrill Lynch is a financial services company where Bradley Cooper's father worked as a stockbroker."
+        },
+        "summary": "Merrill Lynch is a stockbroking firm notable for having employed Bradley Cooper's father.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Gloria Campano",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Bradley Cooper",
+                "Employee at KYW-TV"
+            ],
+            "background": "Gloria Campano is known for her career at KYW-TV, the NBC affiliate in Philadelphia."
+        },
+        "summary": "Gloria Campano is primarily known as the mother of actor Bradley Cooper. She has a professional background in television, having worked at KYW-TV in Philadelphia.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Désiré Nonka-Mahou Doué",
+        "structured_info": {
+            "roles_affiliations": [
+                "Paris Saint-Germain (PSG)",
+                "France national team",
+                "Rennes",
+                "France U21",
+                "France Olympic",
+                "Professional Footballer"
+            ],
+            "background": "A French footballer who plays as an attacking midfielder or winger. He began his senior career with Rennes in 2021 and currently plays for PSG and the France national team. He is recognized for his pace, agility, and passing ability, and has a history of scoring key goals for his clubs and youth teams."
+        },
+        "summary": "Désiré Nonka-Mahou Doué is a rising French professional footballer currently playing for Paris Saint-Germain and the France national team. He began his career at Rennes and is known for his attacking prowess and key contributions to his teams.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Bruno Génésio",
+        "structured_info": {
+            "roles_affiliations": [
+                "Rennes",
+                "Football Manager"
+            ],
+            "background": "Bruno Génésio is currently the manager of Rennes, and has publicly commented on player Désiré Doué, offering both criticism and encouragement."
+        },
+        "summary": "Bruno Génésio is a football manager currently leading Rennes, known for his direct approach to player development, as demonstrated by his feedback towards Désiré Doué.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Nathaël Terrier",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Nathaël Terrier scored a goal against Lyon with an assist from Désiré Doué."
+        },
+        "summary": "Nathaël Terrier is a footballer who recently scored a goal against Lyon, assisted by Désiré Doué.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Samba Diallo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Rennes",
+                "Al-Shabab"
+            ],
+            "background": "Samba Diallo is a footballer previously with Rennes and recently transferred to Al-Shabab."
+        },
+        "summary": "Samba Diallo is a footballer who recently moved from Rennes to Al-Shabab.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Bradley Barcola",
+        "structured_info": {
+            "roles_affiliations": [
+                "PSG",
+                "Footballer",
+                "Soccer Player"
+            ],
+            "background": "Bradley Barcola has demonstrated strong performance for PSG in both Ligue 1 and the Champions League, contributing with goals and assists. He notably scored the decisive penalty in a Champions League match, resulting in him being awarded the UNFP Player of the Month award for both March and April."
+        },
+        "summary": "Bradley Barcola is a footballer for PSG who has recently gained recognition for his crucial goals and consistent performance, earning him back-to-back UNFP Player of the Month awards.",
+        "appearance_count": 1
+    }
+]

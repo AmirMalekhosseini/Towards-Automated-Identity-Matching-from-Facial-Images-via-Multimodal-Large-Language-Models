@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Zlatan Ibrahimović",
+        "structured_info": {
+            "roles_affiliations": [
+                "Sweden National Team",
+                "AC Milan",
+                "Paris Saint-Germain",
+                "Inter Milan",
+                "FC Barcelona",
+                "Manchester United",
+                "Los Angeles Galaxy",
+                "Professional Footballer",
+                "Forward",
+                "Striker"
+            ],
+            "background": "A Swedish professional footballer considered one of the greatest strikers ever. He's known for his technique, acrobatic strikes, and prolific goal-scoring record, having played for numerous high-profile clubs including Malmö FF, Ajax, Juventus, and others. He recently extended his contract with AC Milan and was evaluated for a potential injury."
+        },
+        "summary": "Zlatan Ibrahimović is a highly-regarded Swedish professional footballer, renowned for his skill and goal-scoring ability, who has had a successful career playing for numerous prominent clubs and the Swedish national team. He currently plays for AC Milan.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Johan Cruyff",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer",
+                "Coach"
+            ],
+            "background": "Cruyff is widely regarded as a revolutionary figure in football, known for pioneering 'Total Football'. He excelled as a player for both the Netherlands national team and Ajax, and later achieved success as a coach, notably with Barcelona."
+        },
+        "summary": "Johan Cruyff was a highly influential footballer and coach who revolutionized the game with his 'Total Football' philosophy and achieved significant success as a player and coach for both club and country.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Romário",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer"
+            ],
+            "background": "Romário is a Brazilian footballer widely regarded as one of the greatest strikers in the history of the sport. He achieved significant success with the Brazilian national team, including winning the 1994 FIFA World Cup and being named FIFA World Player of the Year that same year."
+        },
+        "summary": "Romário is a celebrated Brazilian footballer, famous for his prolific goalscoring and skill. He is a World Cup champion and FIFA World Player of the Year, cementing his legacy as a football legend.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ronaldinho",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer"
+            ],
+            "background": "Ronaldinho is a Brazilian footballer widely regarded as one of the greatest players in the history of the sport. He is celebrated for his exceptional skill, particularly his dribbling, and was a two-time FIFA World Player of the Year."
+        },
+        "summary": "Ronaldinho is a highly acclaimed Brazilian professional footballer considered amongst the greatest ever to play the game, recognized for his extraordinary skill and having twice been awarded the FIFA World Player of the Year.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Arsène Wenger",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Manager"
+            ],
+            "background": "Known for his time as a football manager, Wenger notably attempted to sign Zlatan Ibrahimović during his tenure at Arsenal."
+        },
+        "summary": "Arsène Wenger is a Football Manager best known for his time at Arsenal, where he pursued players like Zlatan Ibrahimović.",
+        "appearance_count": 1
+    }
+]

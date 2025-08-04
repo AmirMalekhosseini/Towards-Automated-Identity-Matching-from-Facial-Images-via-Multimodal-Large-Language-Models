@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Pilar Rubio",
+        "structured_info": {
+            "roles_affiliations": [
+                "Star",
+                "Self",
+                "Spouse of Sergio Ramos",
+                "Documentary Subject ('Sergio Ramos: La leyenda', 'Six Dreams')"
+            ],
+            "background": "Pilar Rubio is married to footballer Sergio Ramos since 2019 and they have four children: Sergio Ramos Rubio, Marco Ramos, Alejandro Ramos, and Aitor Ramos. She gained prominence through her public relationship and appearances in documentaries alongside her husband."
+        },
+        "summary": "Pilar Rubio is a Spanish personality known for being the spouse of footballer Sergio Ramos and for appearing alongside him in several documentaries, including 'Sergio Ramos: La leyenda' and 'Six Dreams'.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Sergio Ramos",
+        "structured_info": {
+            "roles_affiliations": [
+                "Paris Saint-Germain",
+                "Spain national team",
+                "Real Madrid",
+                "Footballer",
+                "Actor"
+            ],
+            "background": "Sergio Ramos is a Spanish professional footballer playing as a center-back. He spent sixteen seasons with Real Madrid, winning four UEFA Champions League titles, and currently plays for Paris Saint-Germain. He is widely considered one of the greatest defenders of all time, known for his robust playing style and goal-scoring ability. He has been the subject of multiple documentaries covering his life and career."
+        },
+        "summary": "Sergio Ramos is a highly accomplished Spanish footballer, revered as one of the greatest defenders in history. He has achieved significant success with both Real Madrid and the Spain national team, alongside appearances in documentaries detailing his career.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Sergio Ramos García",
+        "structured_info": {
+            "roles_affiliations": [
+                "Paris Saint-Germain",
+                "Real Madrid (2005-2021)",
+                "Monterrey",
+                "Sevilla F.C. (2003-2005)",
+                "Spain national team",
+                "Captain",
+                "Centre-back",
+                "Professional Footballer"
+            ],
+            "background": "Sergio Ramos is a Spanish professional footballer considered one of the greatest defenders of all time. He is renowned for aerial ability, leadership, and goalscoring. He spent sixteen seasons at Real Madrid, securing four UEFA Champions League titles, and has also achieved international success with Spain, winning two UEFA European Championships and the 2010 FIFA World Cup. He is married to Pilar Rubio and has three children."
+        },
+        "summary": "Sergio Ramos García is a highly decorated Spanish professional footballer, celebrated as one of history's best defenders. He has enjoyed a successful career with clubs like Real Madrid, Sevilla F.C., and Paris Saint-Germain, alongside significant achievements representing the Spain national team.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Antonio Puerta",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Sevilla Player"
+            ],
+            "background": "Antonio Puerta progressed through the Sevilla youth system with teammate Sergio Ramos and formed a close friendship with him during their time at the club. He tragically died in August 2007 due to cardiac arrest."
+        },
+        "summary": "Antonio Puerta was a footballer who played for Sevilla, and tragically passed away in 2007 at a young age following cardiac arrests. He came up through Sevilla’s youth system alongside Sergio Ramos, with whom he shared a close friendship.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Fernando Hierro",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Real Madrid"
+            ],
+            "background": "Known for assigning the number 4 shirt to Sergio Ramos at Real Madrid and having his games played record equalled by Ramos."
+        },
+        "summary": "Fernando Hierro is a former footballer and a significant figure at Real Madrid, notably for his association with Sergio Ramos and his influential role within the club.",
+        "appearance_count": 2
+    }
+]

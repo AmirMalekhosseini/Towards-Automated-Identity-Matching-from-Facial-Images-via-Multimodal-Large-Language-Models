@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Ali Daei",
+        "structured_info": {
+            "roles_affiliations": [
+                "Iranian football manager",
+                "Asian Football Hall of Fame Inductee (2014)",
+                "Former professional footballer",
+                "UNICEF Goodwill Ambassador (2001)",
+                "Captain of Iranian national team (2000-2006)",
+                "Member of the FIFA Football Committee (2007-2013)"
+            ],
+            "background": "Ali Daei is a widely acclaimed Iranian footballer and manager, considered one of Asia's greatest players. He formerly held the world record for most international goals (109) and played for prominent clubs such as Persepolis, Bayern Munich, and Hertha Berlin. He also participated in the 2006 FIFA World Cup qualification and its matches."
+        },
+        "summary": "Ali Daei is a legendary figure in Iranian football, recognized as a prolific goalscorer and decorated player, transitioning into a managerial role after a successful career as a professional footballer and national team captain.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Karim Bagheri",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Former Iranian national team player",
+                "Manager"
+            ],
+            "background": "Karim Bagheri is an Iranian former professional footballer who played alongside Ali Daei on the national team and is now a manager."
+        },
+        "summary": "Karim Bagheri is a former Iranian national team footballer, now transitioning into a managerial role. He's recognized for his time playing alongside Ali Daei.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Teimour Radjabov",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Teimour Radjabov was called to join Iran’s national football team alongside Ali Daei in 1993."
+        },
+        "summary": "Teimour Radjabov is a footballer who was selected to represent Iran’s national team in 1993, alongside Ali Daei.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ronaldo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Ronaldo's goal total was briefly matched or surpassed by Ali Daei's 109 goals."
+        },
+        "summary": "Ronaldo is a footballer whose goal-scoring record was notable enough to be compared with, and briefly surpassed, by Ali Daei.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ali Karimi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Ali Karimi is known in relation to the retirement of fellow footballer, Ali Daei."
+        },
+        "summary": "Ali Karimi is a footballer noted for being connected to Ali Daei’s career trajectory, specifically his retirement.",
+        "appearance_count": 1
+    }
+]

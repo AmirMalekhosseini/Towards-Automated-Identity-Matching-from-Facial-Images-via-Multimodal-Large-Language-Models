@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Emilia Clarke",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Producer",
+                "Daenerys Targaryen (Game of Thrones)",
+                "Lou Clark (Me Before You)",
+                "Sarah Connor (Terminator Genisys)",
+                "Q'ira (Solo: A Star Wars Story)",
+                "Nina (National Theatre Live: The Seagull)",
+                "Rachel Novy (The Pod Generation, The Amazing Maurice)",
+                "Partner with the Big Issue"
+            ],
+            "background": "Emilia Clarke is a British actress who began acting at age 3 and graduated from Drama Centre London. She gained international recognition for her role as Daenerys Targaryen in *Game of Thrones*, earning four Emmy nominations. She has also starred in major films including *Terminator Genisys* and *Solo: A Star Wars Story*.  Clarke is a brain injury survivor who experienced bleeds in 2011 and 2013 and is now advocating for brain injury support with The Big Issue."
+        },
+        "summary": "Emilia Clarke is a successful English actress best known for her portrayal of Daenerys Targaryen in *Game of Thrones*. She has transitioned to a diverse range of roles in film and theatre, and now uses her platform to advocate for brain injury support as a partner with The Big Issue, following her own health challenges.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Susan Dodd Clarke",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director of The Anima Foundation",
+                "Vice-president for marketing at a global management consultancy firm",
+                "Businesswoman"
+            ],
+            "background": "Susan Dodd Clarke is the mother of Emilia Clarke and possesses an interest in acting. She supports young people in Ghana through her work with The Anima Foundation."
+        },
+        "summary": "Susan Dodd Clarke is a businesswoman and marketing executive currently serving as Vice-president at a global management consultancy and Director of The Anima Foundation, a charity focused on Ghanaian youth.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Peter Roderick 'Rick' Clarke",
+        "structured_info": {
+            "roles_affiliations": [
+                "Theatre Sound Engineer"
+            ],
+            "background": "Rick Clarke is a Theatre Sound Engineer originally from Wolverhampton, and is the father of Emilia Clarke."
+        },
+        "summary": "Peter Roderick 'Rick' Clarke is a Theatre Sound Engineer from Wolverhampton, best known as the father of actress Emilia Clarke.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Kit Harington",
+        "structured_info": {
+            "roles_affiliations": [
+                "Game of Thrones",
+                "Actor"
+            ],
+            "background": "Kit Harington is best known for his role in the television series 'Game of Thrones'."
+        },
+        "summary": "Kit Harington is an actor widely recognized for his portrayal of a character in 'Game of Thrones'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Peter Dinklage",
+        "structured_info": {
+            "roles_affiliations": [
+                "Game of Thrones",
+                "Actor"
+            ],
+            "background": "Peter Dinklage is primarily recognized for his work on the television series 'Game of Thrones'."
+        },
+        "summary": "Peter Dinklage is an actor best known for his role in 'Game of Thrones'.",
+        "appearance_count": 1
+    }
+]

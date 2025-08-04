@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Philippe Coutinho",
+        "structured_info": {
+            "roles_affiliations": [
+                "Vasco da Gama",
+                "Attacking midfielder",
+                "Left winger",
+                "Brazil National Team",
+                "Barcelona",
+                "Nike",
+                "Footballer (Soccer Player)"
+            ],
+            "background": "A Brazilian professional footballer, Coutinho is known for his skill in vision, passing, dribbling, and long-range shooting. He's played for several prominent clubs including Liverpool, Barcelona, Bayern Munich and Aston Villa, and has a strong association with Nike."
+        },
+        "summary": "Philippe Coutinho is a highly skilled Brazilian footballer currently playing for Vasco da Gama. He is a versatile player, excelling as both an attacking midfielder and left winger, and has a notable history with clubs like Barcelona and Liverpool, as well as the Brazil national team.",
+        "appearance_count": 2
+    },
+    {
+        "name": "José Carlos Correia",
+        "structured_info": {
+            "roles_affiliations": [
+                "Architect",
+                "Father of Philippe Coutinho"
+            ],
+            "background": "José Carlos Correia is an architect and the youngest son of Esmeralda Coutinho."
+        },
+        "summary": "José Carlos Correia is an architect known primarily as the father of footballer Philippe Coutinho. He is the youngest son of Esmeralda Coutinho.",
+        "appearance_count": 1
+    }
+]

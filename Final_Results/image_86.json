@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Ana de Armas",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Model",
+                "Spanish-Cuban actress"
+            ],
+            "background": "Born Ana Celia de Armas Caso on April 30, 1988, in Havana, Cuba, she began her acting career in 2006. She initially worked in Cuba, then Spain, and eventually moved to Los Angeles. Notable films include 'Knock Knock', 'Blade Runner 2049', 'Hands of Stone', 'War Dogs', 'Daughter of God', and 'Deep Water'. She currently resides in Vermont."
+        },
+        "summary": "Ana de Armas is a Cuban-Spanish actress and model who launched her career in 2006, achieving recognition for roles in several films following her move from Cuba to Spain and ultimately Los Angeles. ",
+        "appearance_count": 4
+    },
+    {
+        "name": "Keanu Reeves",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Producer"
+            ],
+            "background": "Keanu Reeves is an actor and producer known for his work in films such as 'Knock Knock', where he starred with Ana de Armas. He was involved in the casting for roles in his projects, having contacted de Armas for a role."
+        },
+        "summary": "Keanu Reeves is an actor and producer recognized for his film work, including 'Knock Knock' with Ana de Armas, and demonstrated involvement in the casting process.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Mark Downie",
+        "structured_info": {
+            "roles_affiliations": [
+                "Producer"
+            ],
+            "background": "Mark Downie is known for producing the film 'Daughter of God' and originally envisioned Ana de Armas for the lead role."
+        },
+        "summary": "Mark Downie is a producer, notably known for his work on 'Daughter of God' where he had a clear creative vision for casting.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Edgar Ramírez",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Edgar Ramírez is an actor known for his role in 'Hands of Stone' alongside Ana de Armas."
+        },
+        "summary": "Edgar Ramírez is an actor with a prominent role in the film 'Hands of Stone'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Miles Teller",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Known for his role in the film 'War Dogs', alongside Ana de Armas."
+        },
+        "summary": "Miles Teller is an actor recognized for his work in films like 'War Dogs'.",
+        "appearance_count": 1
+    }
+]

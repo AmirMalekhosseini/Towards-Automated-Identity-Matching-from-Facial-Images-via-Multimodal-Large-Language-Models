@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Lev Yashin",
+        "structured_info": {
+            "roles_affiliations": [
+                "Goalkeeper"
+            ],
+            "background": "Lev Yashin is widely regarded as the greatest goalkeeper in football history. He is unique in the sport for winning the Ballon d'Or."
+        },
+        "summary": "Lev Yashin was a legendary goalkeeper celebrated as the best ever, uniquely earning the Ballon d'Or for his position.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Fabrizio Romano",
+        "structured_info": {
+            "roles_affiliations": [
+                "Transfer news reporter",
+                "Football journalist"
+            ],
+            "background": "Fabrizio Romano is a journalist specializing in football transfers. He frequently reports on news relating to major clubs like Manchester United and players such as Gianluigi Donnarumma."
+        },
+        "summary": "Fabrizio Romano is a prominent football journalist focused on covering player transfers and providing breaking news within the sport, notably related to clubs like Manchester United.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Eddie Hall",
+        "structured_info": {
+            "roles_affiliations": [
+                "Strongman"
+            ],
+            "background": "Eddie Hall recently issued an apology, details of which are not provided in this information."
+        },
+        "summary": "Eddie Hall is a Strongman competitor who has recently made a public apology.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Irene Paredes",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Player"
+            ],
+            "background": "Irene Paredes generated controversy with comments regarding England."
+        },
+        "summary": "Irene Paredes is a football player who recently gained attention for controversial commentary concerning England.",
+        "appearance_count": 1
+    }
+]

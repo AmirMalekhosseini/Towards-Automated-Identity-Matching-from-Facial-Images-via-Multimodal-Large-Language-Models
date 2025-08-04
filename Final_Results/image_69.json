@@ -1,0 +1,62 @@
+[
+    {
+        "name": "J.K. Rowling",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author",
+                "Screenwriter",
+                "Philanthropist"
+            ],
+            "background": "Born Joanne Rowling in 1965 in England, J.K. Rowling is a British author and screenwriter famed for the 'Harry Potter' series. She attended the University of Exeter and briefly taught English in Portugal. She experienced financial hardship while writing the first 'Harry Potter' book, and uses the pen name 'J.K.' incorporating her grandmother's name. She has achieved significant financial success and has been a subject of controversy regarding her views on transgender rights."
+        },
+        "summary": "J.K. Rowling is a highly successful British author and screenwriter best known for creating the 'Harry Potter' series. Beyond her literary achievements, she is a philanthropist who has faced public discourse and scrutiny regarding social issues.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Joanne Rowling (J.K. Rowling)",
+        "structured_info": {
+            "roles_affiliations": [
+                "Teacher",
+                "Chartered Engineer",
+                "Author"
+            ],
+            "background": "Joanne Rowling is best known as the author of the *Harry Potter* series. She studied at Wyedean School and College and the University of Exeter. Before becoming a successful author, she worked as a teacher and a chartered engineer and experienced manuscript rejections while initially developing the *Harry Potter* series in Portugal."
+        },
+        "summary": "J.K. Rowling is a renowned author, best known for the *Harry Potter* series. Her professional background includes roles as a teacher and chartered engineer, and she pursued her passion for writing despite initial challenges.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Joanne Rowling's Mother",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother"
+            ],
+            "background": "She fostered a love of reading in her daughter, Joanne Rowling, by filling their home with books and frequently reading stories aloud, such as *The Wind in the Willows*."
+        },
+        "summary": "Joanne Rowling's Mother is notable for her role in nurturing her daughter's passion for literature through a book-rich environment and shared reading experiences.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sean Smith",
+        "structured_info": {
+            "roles_affiliations": [
+                "Biographer",
+                "Teacher"
+            ],
+            "background": "Sean Smith was a teacher of J.K. Rowling, known for describing her as a 'battlesaxe'."
+        },
+        "summary": "Sean Smith is a biographer and former teacher of J.K. Rowling, remembered for his candid characterization of her.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Lucy Shepherd",
+        "structured_info": {
+            "roles_affiliations": [
+                "Teacher"
+            ],
+            "background": "Lucy Shepherd was a teacher at J.K. Rowling's secondary school and remembered Rowling as an intelligent but shy student."
+        },
+        "summary": "Lucy Shepherd is a teacher best known as J.K. Rowling's former secondary school teacher, recalling her as a bright, yet reserved student.",
+        "appearance_count": 1
+    }
+]

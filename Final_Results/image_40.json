@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Brad Pitt",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Producer",
+                "Film Producer"
+            ],
+            "background": "Born William Bradley Pitt in Shawnee, Oklahoma, in 1963, he studied journalism at the University of Missouri before becoming a highly acclaimed actor and producer. He has won numerous awards including Academy Awards, Golden Globes, and a Primetime Emmy Award, and is known for roles in films like *Thelma & Louise*, *Seven*, *Ocean's Eleven*, and *Once Upon A Time in Hollywood*. "
+        },
+        "summary": "Brad Pitt is a highly decorated and prolific American actor and film producer with a career spanning several decades. He is recognized for both his critically acclaimed performances and successful film productions and has become a prominent figure in popular culture.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Doug Pitt",
+        "structured_info": {
+            "roles_affiliations": [
+                "Brother of Brad Pitt",
+                "Philanthropist",
+                "Founder of the Doug Pitt Foundation"
+            ],
+            "background": "Born in 1966, Doug Pitt is primarily known for his philanthropic endeavors."
+        },
+        "summary": "Doug Pitt is a philanthropist and the brother of actor Brad Pitt, recognized for founding the Doug Pitt Foundation and dedicating himself to charitable work.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jane Etta Hillhouse",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Brad Pitt",
+                "School Counselor"
+            ],
+            "background": "Jane Etta Hillhouse is known for being the mother of actor Brad Pitt and for her profession as a school counselor."
+        },
+        "summary": "Jane Etta Hillhouse is a school counselor and the mother of actor Brad Pitt.",
+        "appearance_count": 1
+    },
+    {
+        "name": "William Alvin Pitt",
+        "structured_info": {
+            "roles_affiliations": [
+                "Trucking Company Proprietor",
+                "Father of Brad Pitt"
+            ],
+            "background": "William Alvin Pitt was a businessman who owned and operated a trucking company. He is primarily known as the father of actor Brad Pitt."
+        },
+        "summary": "William Alvin Pitt was a trucking company proprietor and the father of actor Brad Pitt.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Julie Neal Pitt",
+        "structured_info": {
+            "roles_affiliations": [
+                "Sister of Brad Pitt"
+            ],
+            "background": "Julie Neal Pitt is primarily known for being the sister of actor Brad Pitt."
+        },
+        "summary": "Julie Neal Pitt is recognized as the sibling of prominent actor Brad Pitt.",
+        "appearance_count": 1
+    }
+]

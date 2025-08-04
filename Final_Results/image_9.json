@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Maryam Mirzakhani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professor",
+                "Mathematician",
+                "Professor of Mathematics at Stanford University",
+                "Fields Medal Winner"
+            ],
+            "background": "Maryam Mirzakhani was an Iranian mathematician and professor at Stanford University specializing in Teichmüller theory, hyperbolic geometry, ergodic theory, and symplectic geometry. She was the first woman to win the Fields Medal (2014) and the International Mathematical Olympiad, and her work had implications for areas like theoretical physics and cryptography."
+        },
+        "summary": "Maryam Mirzakhani was a highly accomplished Iranian mathematician and Stanford professor whose groundbreaking work in theoretical mathematics, particularly in areas like Teichmüller theory, earned her the Fields Medal in 2014 – a first for women. She sadly passed away in 2016 at the age of 40, leaving behind a legacy as a brilliant researcher and an important role model.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Roya Beheshti Zavareh",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mathematician"
+            ],
+            "background": "Roya Beheshti Zavareh is a mathematician who collaborated with Maryam Mirzakhani and excelled at the International Mathematical Olympiad. She and Mirzakhani were the first women to compete together for Iran in the National Mathematical Olympiad and jointly authored a book on number theory."
+        },
+        "summary": "Roya Beheshti Zavareh is a successful mathematician known for her collaboration with Maryam Mirzakhani, achievements in international competitions, and contributions to number theory through co-authorship of a textbook.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Benson Farb",
+        "structured_info": {
+            "roles_affiliations": [
+                "Topologist",
+                "University of Chicago",
+                "Professor"
+            ],
+            "background": "Benson Farb's research focuses on problems related to the prime number theorem for geodesics, an area of study also addressed by Maryam Mirzakhani in her doctoral work."
+        },
+        "summary": "Benson Farb is a topologist and professor at the University of Chicago whose research is connected to the mathematical problem solved by Mirzakhani regarding the distribution of geodesics.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Edward Witten",
+        "structured_info": {
+            "roles_affiliations": [
+                "Physicist",
+                "Mathematician"
+            ],
+            "background": "Edward Witten is a highly distinguished mathematician and physicist celebrated for his impactful work in string theory and mathematical physics, including collaborations with Mirzakhani and Kontsevich regarding moduli space."
+        },
+        "summary": "Edward Witten is a prominent physicist and mathematician recognized for his groundbreaking contributions to string theory, mathematical physics, and collaborative research.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Maxim Kontsevich",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mathematician"
+            ],
+            "background": "Kontsevich is a specialist in mathematical physics and dynamical systems, with research including collaborations with Mirzakhani and Witten on moduli space intersections."
+        },
+        "summary": "Maxim Kontsevich is a highly regarded mathematician known for his work in mathematical physics and dynamical systems, and his collaborations with prominent researchers such as Maryam Mirzakhani and Edward Witten.",
+        "appearance_count": 1
+    }
+]

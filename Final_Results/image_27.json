@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Cristiano Ronaldo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional footballer",
+                "Portugal national team",
+                "Manchester United",
+                "Sporting CP",
+                "Al-Nassr",
+                "Real Madrid",
+                "Juventus"
+            ],
+            "background": "Cristiano Ronaldo is a Portuguese professional footballer considered one of the greatest players of all time. He has won five Ballon d'Or awards and four European Golden Shoes, and holds numerous goal-scoring records. He overcame a childhood diagnosis of tachycardia and had a complex relationship with his father. He began his training with Nacional and Sporting CP."
+        },
+        "summary": "Cristiano Ronaldo is a highly decorated and globally recognized professional footballer for both club and country (Portugal). Renowned as one of the greatest players in history, he boasts numerous awards, records, and a successful career spanning multiple top clubs.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Lionel Messi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer"
+            ],
+            "background": "Lionel Messi is known as a prominent figure in football, frequently discussed in relation to his rivalry with Cristiano Ronaldo and recognized by passionate fan support."
+        },
+        "summary": "Lionel Messi is a professional footballer best known for his long-standing rivalry with Cristiano Ronaldo and a dedicated fanbase.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Kátia Aveiro",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Sister of Cristiano Ronaldo"
+            ],
+            "background": "Kátia Aveiro is the older sister of Cristiano Ronaldo. She faced financial hardship that led her to consider abortion, but she ultimately decided to carry her pregnancy to term."
+        },
+        "summary": "Kátia Aveiro is a singer and is primarily known as the older sister of football star Cristiano Ronaldo. She has shared personal experiences regarding a challenging financial situation during her pregnancy.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Dolores Aveiro",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Cristiano Ronaldo"
+            ],
+            "background": "Dolores Aveiro is known for her consistent support of her son, Cristiano Ronaldo's, football career and has publicly discussed overcoming past financial difficulties."
+        },
+        "summary": "Dolores Aveiro is primarily known as the mother of Cristiano Ronaldo, and is recognized for her strong support of his career and resilience in the face of past hardship.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ronald Reagan",
+        "structured_info": {
+            "roles_affiliations": [
+                "U.S. President",
+                "Actor"
+            ],
+            "background": "He was an idol of Cristiano Ronaldo's father."
+        },
+        "summary": "Ronald Reagan was a U.S. President and actor who is remembered as an idol by the father of Cristiano Ronaldo.",
+        "appearance_count": 1
+    }
+]

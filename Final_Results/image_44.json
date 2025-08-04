@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Oscar dos Santos Emboaba Júnior",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer (attacking midfielder)",
+                "Internacional",
+                "Shanghai Port FC",
+                "São Paulo FC",
+                "Couritiba",
+                "Brazil national team",
+                "Chelsea",
+                "Inter Milan",
+                "Brazil U23",
+                "Brazil U20",
+                "Kashima Antlers"
+            ],
+            "background": "Oscar is a Brazilian footballer who began his career at União Barbarense before debuting with São Paulo in 2008. He has since played for several international clubs, including Chelsea, Inter Milan, and Shanghai Port, and has represented Brazil at various levels, including the U20, U23, and senior national teams."
+        },
+        "summary": "Oscar dos Santos Emboaba Júnior, commonly known as 'Oscar,' is a prominent Brazilian attacking midfielder with experience playing for clubs in Brazil, Europe, and Asia, along with extensive representation of the Brazil national team, including participation in the Olympics and the 2014 World Cup. He has achieved success in various leagues and international tournaments.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Vinícius",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Mirassol"
+            ],
+            "background": "Vinícius is a footballer known for saving penalty attempts in shootouts while playing for Mirassol."
+        },
+        "summary": "Vinícius is a footballer currently playing for Mirassol, recognized for his performance in penalty shootouts.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Roberto Di Matteo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Chelsea F.C.",
+                "Football Manager"
+            ],
+            "background": "Roberto Di Matteo is a former manager of Chelsea F.C., known for his time at the club and positive comments on players like Oscar."
+        },
+        "summary": "Roberto Di Matteo is a Football Manager best known for his tenure as manager of Chelsea F.C.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Rafael Benítez",
+        "structured_info": {
+            "roles_affiliations": [
+                "Chelsea F.C.",
+                "Football Manager"
+            ],
+            "background": "Previously managed Chelsea F.C. and is known for his observations on player performance, such as his positive comments regarding Oscar's reaction to being substituted."
+        },
+        "summary": "Rafael Benítez is a Football Manager and former manager of Chelsea F.C.,  recognized for his tactical approach and player evaluation skills.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Eden Hazard",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Chelsea F.C."
+            ],
+            "background": "Eden Hazard is a footballer known for his time at Chelsea F.C., where he played with Oscar and was involved in a passing play resulting in a shot on goal against Tomáš Vaclík."
+        },
+        "summary": "Eden Hazard is a footballer best known for his career with Chelsea F.C.",
+        "appearance_count": 1
+    }
+]

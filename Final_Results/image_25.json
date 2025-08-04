@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Victor Hugo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Playwright",
+                "Poet",
+                "Dramatist",
+                "French Author",
+                "Writer",
+                "Politician",
+                "Freemason",
+                "Founder of *Conservateur Littéraire*"
+            ],
+            "background": "Born February 26, 1802, Victor Hugo was a key figure in the Romantic literary movement, advocating for social justice, liberty, and equality. Despite earning a law degree, he dedicated himself to writing. He was exiled during Napoleon III’s reign, during which he wrote *Les Misérables*. His works frequently showcased themes of emotion, love, beauty, and humanitarianism."
+        },
+        "summary": "Victor Hugo was a profoundly influential French Romantic writer, playwright, poet, and politician. Renowned for novels like *Les Misérables* and *Notre-Dame de Paris*, he championed humanitarian ideals, and his work often reflected Masonic principles.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Javer't",
+        "structured_info": {
+            "roles_affiliations": [
+                "Character in *Les Misérables*",
+                "Part of a Masonic allegory (within *Les Misérables*)"
+            ],
+            "background": "Javer't is a character from Victor Hugo’s *Les Misérables* who embodies justice and represents seemingly insurmountable obstacles."
+        },
+        "summary": "Javer't is a key character in *Les Misérables* known for his unwavering dedication to justice, serving as a significant figure both within the novel's narrative and as a component of its underlying Masonic allegory.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Cosette",
+        "structured_info": {
+            "roles_affiliations": [
+                "Character in *Les Misérables*"
+            ],
+            "background": "Cosette is a symbolic figure in Victor Hugo’s *Les Misérables*, representing the conclusion of revolution and embodying faith, and is part of a Masonic allegory."
+        },
+        "summary": "Cosette is a key character in *Les Misérables* who functions as a symbolic representation of faith and the end of revolutionary struggle within the novel's broader allegorical framework.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jean Valjean",
+        "structured_info": {
+            "roles_affiliations": [
+                "Character in *Les Misérables*"
+            ],
+            "background": "Jean Valjean's character embodies fortitude, and is connected to Masonic themes explored in Victor Hugo's *Les Misérables*."
+        },
+        "summary": "Jean Valjean is a central character in Victor Hugo's *Les Misérables*, notable for his resilience and connection to thematic elements within the novel.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Charles Dickens",
+        "structured_info": {
+            "roles_affiliations": [
+                "Writer"
+            ],
+            "background": "Charles Dickens is a recognized writer featured in a collection with Victor Hugo."
+        },
+        "summary": "Charles Dickens is a notable writer who is recognized alongside Victor Hugo.",
+        "appearance_count": 1
+    }
+]

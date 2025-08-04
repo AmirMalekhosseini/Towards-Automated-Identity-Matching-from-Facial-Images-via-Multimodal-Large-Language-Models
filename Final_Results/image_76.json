@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Kevin Durant",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Basketball Player",
+                "Phoenix Suns",
+                "Golden State Warriors",
+                "Brooklyn Nets",
+                "Oklahoma City Thunder",
+                "Houston Rockets",
+                "Seattle SuperSonics",
+                "Nike",
+                "ESPN"
+            ],
+            "background": "Kevin Durant is an American professional basketball player born on September 29, 1988, in Washington D.C. He began his NBA career in 2007 with the Seattle SuperSonics. He has earned numerous accolades including two NBA championships, an NBA Most Valuable Player Award, two NBA Finals MVP Awards, four NBA scoring titles, and the NBA Rookie of the Year Award. He is a 15-time NBA All-Star and a 4-time Olympic gold medalist."
+        },
+        "summary": "Kevin Durant is a highly decorated professional basketball player currently playing for the Phoenix Suns. Throughout his career, he has played for multiple teams including the Warriors, Nets, and Thunder, achieving significant success and recognition as one of the sport's premier players.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Wanda Durant",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Kevin Durant",
+                "Author"
+            ],
+            "background": "Wanda Durant is recognized for her strong support of her son, Kevin Durant's, basketball career and has authored the book 'My Life as a Basketball Wife'."
+        },
+        "summary": "Wanda Durant is best known as the supportive mother of NBA star Kevin Durant and as an author sharing her experiences as a basketball wife.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Wayne Pratt",
+        "structured_info": {
+            "roles_affiliations": [
+                "Father of Kevin Durant"
+            ],
+            "background": "Wayne Pratt reconnected with his sons and began travelling with them, notably accompanying Kevin Durant."
+        },
+        "summary": "Wayne Pratt is best known as the father of Kevin Durant and has recently re-established a close relationship with his son, including travelling with him.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Actor Durand",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "There is a disambiguation note associated with this individual, suggesting potential confusion with another person of the same or similar name, but no further details are provided."
+        },
+        "summary": "Actor Durand is identified as an actor, but currently possesses limited publicly available information beyond a note indicating a potential need for disambiguation.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Stephen Curry",
+        "structured_info": {
+            "roles_affiliations": [
+                "Basketball Player"
+            ],
+            "background": "Stephen Curry is a professional basketball player for the Warriors, and was recently the subject of retirement rumors."
+        },
+        "summary": "Stephen Curry is a prominent basketball player currently playing for the Warriors, who recently faced speculation about his potential retirement.",
+        "appearance_count": 1
+    }
+]

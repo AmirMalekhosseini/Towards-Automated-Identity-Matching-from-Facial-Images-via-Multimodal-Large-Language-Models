@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Matthew McConaughey",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Former Kindergarten Teacher",
+                "University of Texas at Austin (BS in Radio-Television-Film)",
+                "Golden Globe Award Winner (Best Actor - Motion Picture Drama)",
+                "Former Green Bay Packers Player"
+            ],
+            "background": "Born in Texas in 1969 and raised in Louisiana, McConaughey holds a Bachelor of Science degree from the University of Texas at Austin. Before his acting career, he explored various paths including professional football, legal assistance, and banking. His father was a businessman and football player."
+        },
+        "summary": "Matthew McConaughey is a celebrated American actor with a diverse background. He transitioned from a variety of early career paths, including professional football and teaching, after earning a degree from the University of Texas. He has achieved significant recognition in the film industry, including a Golden Globe Award.",
+        "appearance_count": 2
+    },
+    {
+        "name": "James Donald McConaughey",
+        "structured_info": {
+            "roles_affiliations": [
+                "former football player",
+                "oil pipe supply businessman",
+                "University of Texas at Austin football team captain",
+                "Father of Matthew McConaughey",
+                "Green Bay Packers player"
+            ],
+            "background": "Born in Mississippi in 1929 and raised in Louisiana, James McConaughey was a wide receiver and captain of the University of Texas at Austin football team, later playing professionally for the Green Bay Packers. He transitioned to a career in the oil pipe supply business."
+        },
+        "summary": "James Donald McConaughey is a former football player and businessman, best known as the father of actor Matthew McConaughey. He excelled as a wide receiver and captain at the University of Texas at Austin and briefly played for the Green Bay Packers before entering the oil industry.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jim McConaughey",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Player",
+                "Green Bay Packers",
+                "Father of Matthew McConaughey"
+            ],
+            "background": "Jim McConaughey was drafted by the Green Bay Packers in 1953 and played professional football."
+        },
+        "summary": "Jim McConaughey is a former football player for the Green Bay Packers and is notably the father of actor Matthew McConaughey.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Dandridge McRae",
+        "structured_info": {
+            "roles_affiliations": [
+                "Confederate Brigadier General",
+                "Ancestor of Matthew McConaughey"
+            ],
+            "background": "Dandridge McRae was a Confederate Brigadier General and a direct ancestor of actor Matthew McConaughey."
+        },
+        "summary": "Dandridge McRae was a Confederate Brigadier General with a notable familial connection as an ancestor of Academy Award-winning actor Matthew McConaughey.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jason London",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Jason London is known for his role in the film *Dazed and Confused*, where he appeared alongside Matthew McConaughey."
+        },
+        "summary": "Jason London is an actor recognized for his work in *Dazed and Confused*.",
+        "appearance_count": 1
+    }
+]

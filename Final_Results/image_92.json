@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Rihanna",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother",
+                "Actress",
+                "Songwriter",
+                "Businesswoman",
+                "Singer",
+                "Partner - William Morris Endeavor",
+                "Def Jam Recordings Artist"
+            ],
+            "background": "Rihanna is a Barbadian singer discovered in 2003 by Evan Rogers and subsequently signed to Def Jam Recordings after an audition with Jay-Z and L.A. Reid. She has achieved significant success with hits such as 'Pon de Replay', 'Don't Stop the Music', and 'Umbrella', and has collaborated with artists like Chris Brown and Frank Ocean. She has a net worth of $1.4 billion, is a mother of two, and is currently in a relationship with A$AP Rocky."
+        },
+        "summary": "Rihanna is a highly influential and successful Barbadian singer, actress, and businesswoman with a substantial net worth. She is recognised for her contributions to pop culture and music, alongside artists like Drake, and is currently balancing a thriving career with motherhood.",
+        "appearance_count": 5
+    },
+    {
+        "name": "L.A. Reid",
+        "structured_info": {
+            "roles_affiliations": [
+                "Music Producer",
+                "Record Executive",
+                "President of Def Jam Music Group",
+                "Former CEO and President of Def Jam Recordings"
+            ],
+            "background": "L.A. Reid is a highly influential figure in the music industry, recognized for his work with artists like Whitney Houston and Rihanna. He played a pivotal role in signing Rihanna to Def Jam Recordings, personally overseeing her audition and subsequent deal. He also extended a record deal to Chris Brown."
+        },
+        "summary": "L.A. Reid is a prominent music producer and record executive who served as President/CEO of Def Jam Recordings, where he discovered and signed major artists like Rihanna and Chris Brown. He’s known for his astute business acumen and impactful contributions to the music industry.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Drake",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Actor",
+                "Rapper",
+                "Musician"
+            ],
+            "background": "Drake is a highly influential figure in music with a career boasting 534 nominations. He has collaborated with artists such as ASAP Rocky (featured on \"Fððððin' Problems\" in 2012) and Rihanna, with whom he shares a significant collaborative partnership. He is also known for his innovative approach to music."
+        },
+        "summary": "Drake is a multi-talented artist – a singer, rapper, actor, and musician – widely recognized for his influence and innovation in the music industry, marked by significant collaborative successes and numerous accolades.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Evan Rogers",
+        "structured_info": {
+            "roles_affiliations": [
+                "Music Producer",
+                "Record Producer"
+            ],
+            "background": "American music producer based in Barbados, he discovered Rihanna in 2003 and collaborated with Carl Sturken to produce her initial demo tape, including tracks like \"Pon de Replay\" and \"The Last Time\"."
+        },
+        "summary": "Evan Rogers is an American music and record producer based in Barbados, best known for discovering and working with Rihanna on her early demo recordings.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Carl Sturken",
+        "structured_info": {
+            "roles_affiliations": [
+                "Music Producer"
+            ],
+            "background": "Carl Sturken is a music producer who partnered with Evan Rogers. He is known for his work with Rihanna, particularly on her early recordings and demo tape, where he contributed to her initial production."
+        },
+        "summary": "Carl Sturken is a music producer recognized for his early work with Rihanna, collaborating with Evan Rogers to shape her initial sound and demos.",
+        "appearance_count": 2
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Andrés Iniesta",
+        "structured_info": {
+            "roles_affiliations": [
+                "Barcelona",
+                "Vissel Kobe",
+                "Spain national team",
+                "Emirates Club",
+                "Professional footballer",
+                "Midfielder"
+            ],
+            "background": "Andrés Iniesta is a Spanish former professional footballer, widely considered one of the greatest midfielders of all time, known for his exceptional balance, ball control, agility, and composure. He achieved significant success with Barcelona and the Spain national team, including winning the 2010 FIFA World Cup, scoring the winning goal in the final."
+        },
+        "summary": "Andrés Iniesta is a celebrated Spanish former professional footballer and midfielder renowned for his skill and success with both Barcelona and the Spanish national team, most notably scoring the winning goal in the 2010 World Cup.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Pep Guardiola",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Manager",
+                "FC Barcelona"
+            ],
+            "background": "Pep Guardiola mentored players like Iniesta and is known for implementing the tiki-taka football philosophy."
+        },
+        "summary": "Pep Guardiola is a Football Manager, notably associated with FC Barcelona, and recognized for his influential role in developing players and pioneering the tiki-taka style of play.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sergio Busquets",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer",
+                "FC Barcelona"
+            ],
+            "background": "Played a key role in FC Barcelona's successes, particularly alongside Iniesta, between 2008 and 2015."
+        },
+        "summary": "Sergio Busquets is a professional footballer known for his significant contributions to FC Barcelona's achievements from 2008-2015, notably in partnership with Andres Iniesta.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Lionel Messi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional footballer",
+                "FC Barcelona",
+                "Forward",
+                "Argentina national team",
+                "Inter Miami CF"
+            ],
+            "background": "Considered one of the greatest footballers ever, often mentioned alongside peers like Iniesta."
+        },
+        "summary": "Lionel Messi is a globally renowned professional footballer, currently with Inter Miami CF, formerly of FC Barcelona and the Argentina national team. He plays as a Forward and is widely considered to be one of the best to ever play the game.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Xavi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional footballer",
+                "Spain national team",
+                "FC Barcelona",
+                "Midfielder",
+                "Football Manager"
+            ],
+            "background": "Xavi had a notable playing career, frequently partnering with Iniesta at both FC Barcelona and the Spanish national team. He is currently the manager of FC Barcelona."
+        },
+        "summary": "Xavi is a former professional footballer and current Football Manager of FC Barcelona, known for his distinguished playing career with both Barcelona and the Spain national team, particularly his partnership with Iniesta.",
+        "appearance_count": 1
+    }
+]

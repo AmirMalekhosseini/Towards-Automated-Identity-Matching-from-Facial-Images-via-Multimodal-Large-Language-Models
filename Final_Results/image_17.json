@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Mehran Modiri",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Comedian",
+                "Actor",
+                "Presenter",
+                "Director",
+                "Producer",
+                "Television Host",
+                "Film Producer"
+            ],
+            "background": "Born in Tehran, Iran in 1967, Mehran Modiri began acting at age 16 and rose to fame with the comedic series *Nowruz 72*. He participated in Operation Fath 8 during the Iran-Iraq War. He has received numerous accolades, including 10 Hafez Awards and a nomination for the Crystal Simorgh for Best Actor. He was named one of the most powerful men in Iran by Newsweek in 2009."
+        },
+        "summary": "Mehran Modiri is a highly influential and multi-talented Iranian entertainer, recognized as a singer, actor, comedian, director, and producer. He has a significant body of work in Iranian cinema and television, and has been widely celebrated for his contributions to the arts.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Reza Rashidpour",
+        "structured_info": {
+            "roles_affiliations": [
+                "Television Presenter/Host"
+            ],
+            "background": "Reza Rashidpour is an Iranian TV personality known for interviewing Narendra Modi in 2008. The interview focused on Modi's views on incorporating comedy and social commentary, particularly within his show 'I Was Kidding…!'"
+        },
+        "summary": "Reza Rashidpour is an Iranian television presenter who gained recognition for his 2008 interview with Narendra Modi, where they discussed the intersection of comedy and social commentary.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Nosrollah Radesh",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Nosrollah Radesh rose to fame through his work in television, notably *Profil 57* and *Happy Hour*. He was a key performer in early comedic shows created by Modiri during the Fajr Decade (1993-2001)."
+        },
+        "summary": "Nosrollah Radesh is an actor best known for his roles in *Profil 57* and *Happy Hour*, and for his contributions to comedic television programming during the 1990s and early 2000s.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Peyman Ghasemkhani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Writer",
+                "Director"
+            ],
+            "background": "Peyman Ghasemkhani has extensive experience in narrative comedy production, having supervised several films by director Modiri. These include *Pavarchin*, *Noghteh-Chin*, *Grand Prize*, *Bareh Night*, *Mozafar's Garden*, *Thousand-Face Man*, and *Two-Thousand-Face Man*."
+        },
+        "summary": "Peyman Ghasemkhani is a writer and director specializing in comedy, recognized for his production supervision work on a series of popular films directed by Modiri.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Modiri",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director",
+                "Television Producer",
+                "Actor",
+                "Comedian"
+            ],
+            "background": "Modiri is a pioneering figure in Iranian comedy television, known for creating shows like *Profil 57* and *Happy Hour*, and producing *Pavarchin* and *Bitter Coffee*. His work faced opposition from *Kayhan*, leading to a period of home video production in Dubai. He is an Asia Pacific Screen Awards recipient."
+        },
+        "summary": "Modiri is an award-winning Iranian director, producer, actor, and comedian, central to the development of comedic television in Iran. He faced censorship which led him to work in Dubai, but remains a significant figure in the region's entertainment landscape.",
+        "appearance_count": 1
+    }
+]

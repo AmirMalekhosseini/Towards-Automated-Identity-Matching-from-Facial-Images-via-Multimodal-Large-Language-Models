@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Leonardo Bonucci",
+        "structured_info": {
+            "roles_affiliations": [
+                "Player",
+                "Defender",
+                "Italy national team (Player & Technical Assistant)",
+                "Bari",
+                "Juventus",
+                "AC Milan",
+                "Union Berlin",
+                "Fenerbahçe",
+                "Inter Milan",
+                "Italian"
+            ],
+            "background": "Leonardo Bonucci is an Italian former professional footballer, specializing as a centre-back. Born on May 1, 1987, in Viterbo, Italy, he started his career with Viterbese and has played for several prominent clubs including Inter Milan, Juventus, AC Milan, Union Berlin, and Fenerbahçe. Known for his passing range and long ball ability, he also currently serves as a technical assistant for the Italy national team."
+        },
+        "summary": "Leonardo Bonucci is a highly experienced Italian footballer and centre-back who has played for several top clubs and the Italian national team. He is currently a player for Juventus while also fulfilling the role of a technical assistant for Italy. Beyond his sporting career, he is also the subject of astrological analysis.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Andrea Barzagli",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Andrea Barzagli is an Italian football player known for his defensive play and successful partnership with Bonucci. He won multiple titles after joining Juventus alongside Bonucci."
+        },
+        "summary": "Andrea Barzagli is an Italian footballer recognized for his strong defensive skills and title-winning career, especially his time and successes at Juventus in partnership with Bonucci.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Giorgio Chiellini",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Giorgio Chiellini is an Italian football player known for his strong defensive partnership with Leonardo Bonucci, particularly during their time at Juventus where they achieved multiple titles."
+        },
+        "summary": "Giorgio Chiellini is a highly successful Italian footballer renowned for his defensive skills and long-standing partnership with Bonucci, notably contributing to Juventus's championship wins.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Fabio Grosso",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Coach",
+                "Former Football Player (Inter Milan)"
+            ],
+            "background": "Fabio Grosso previously played for Inter Milan, notably being substituted in a game where Bonucci entered as his replacement."
+        },
+        "summary": "Fabio Grosso is a Football Coach with a background as a professional football player, including a stint with Inter Milan.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Samuel Eto'o",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Known as a footballer and has been identified as a player within a team."
+        },
+        "summary": "Samuel Eto'o is a footballer who has been recognized for his role as a player on a team.",
+        "appearance_count": 1
+    }
+]

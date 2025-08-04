@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Jennifer Aniston",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Producer",
+                "Director"
+            ],
+            "background": "Born in Sherman Oaks, California, to actors John Aniston and Nancy Dow, Jennifer Aniston has a diverse ancestral background including Greek, English, Irish, Scottish, and Italian heritage. She spent part of her childhood in Greece and later lived in New York City following her parents' divorce."
+        },
+        "summary": "Jennifer Aniston is a well-known actress, producer, and director. Beyond her professional achievements, she has notable relationships within the entertainment industry, including friendships with Paul Rudd and Matthew Perry, and connections to families of former co-stars, and was recently highlighted in a *Wall Street Journal* article regarding likability.",
+        "appearance_count": 3
+    },
+    {
+        "name": "John Aniston",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Born in Greece, John Aniston was a soap opera actor best known for his long-running role in *Days of Our Lives* which earned him an Academy Award nomination. He is also the father of actress Jennifer Aniston."
+        },
+        "summary": "John Aniston was a Greek-born actor recognized for his work in *Days of Our Lives* and for being the father of Jennifer Aniston.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Nancy Dow",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Nancy Dow is known primarily as the mother of actress Jennifer Aniston."
+        },
+        "summary": "Nancy Dow was an actress, most notably recognized as the mother of Jennifer Aniston.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Courteney Cox",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Mother of Coco Arquette"
+            ],
+            "background": "Courteney Cox is known for her approachable and friendly public image. She has a familial connection to Jennifer Aniston through her daughter, Coco Arquette."
+        },
+        "summary": "Courteney Cox is an actress and mother who is well-regarded for her likeable personality and has a close connection to Jennifer Aniston's family.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Jennifer Joanna Aniston",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Producer"
+            ],
+            "background": "Jennifer Aniston is an American actress and producer, the daughter of actors John Aniston and Nancy Dow. She achieved global recognition for her portrayal of Rachel Green on the sitcom *Friends* (1994-2004) and has received a Primetime Emmy, Golden Globe, and Screen Actors Guild Award."
+        },
+        "summary": "Jennifer Aniston is a highly acclaimed and well-compensated American actress and producer best known for her iconic role on *Friends*, and comes from a family of actors.",
+        "appearance_count": 1
+    }
+]

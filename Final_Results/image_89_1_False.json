@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Kit Harington",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Kit Harington is an English actor and a graduate of the Royal Central School of Speech & Drama. He has experience in stage productions including *War Horse*, *Doctor Faustus*, and *True West*."
+        },
+        "summary": "Kit Harington is an English actor renowned for his portrayal of Jon Snow in *Game of Thrones*. He has a background in both stage and television acting, culminating in his prominent role in the HBO series.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Robert Catesby",
+        "structured_info": {
+            "roles_affiliations": [
+                "Historical Figure",
+                "Gunpowder Plot instigator",
+                "Ancestor of Kit Harington"
+            ],
+            "background": "Robert Catesby was the key leader behind the Gunpowder Plot of 1605, a failed attempt to assassinate King James I."
+        },
+        "summary": "Robert Catesby was a 17th-century historical figure best known for orchestrating the Gunpowder Plot. He is also noted as an ancestor of actor Kit Harington.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sir David Harington",
+        "structured_info": {
+            "roles_affiliations": [
+                "Baronet",
+                "Businessman",
+                "Ancestor"
+            ],
+            "background": "Sir David Harington was a businessman and baronet with familial ties to Henry Dundas, 1st Viscount Melville, a Scottish politician."
+        },
+        "summary": "Sir David Harington was a baronet and businessman who is noted as an ancestor and for his family connection to the Scottish politician Henry Dundas, 1st Viscount Melville.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Henry Dundas, 1st Viscount Melville",
+        "structured_info": {
+            "roles_affiliations": [
+                "Politician"
+            ],
+            "background": "A Scottish politician with a familial connection to the father of actor Kit Harington."
+        },
+        "summary": "Henry Dundas, 1st Viscount Melville, was a Scottish politician. He is noted for a family link to Kit Harington's father.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ben Whishaw",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Ben Whishaw is an actor known for inspiring Kit Harington to pursue a career in drama."
+        },
+        "summary": "Ben Whishaw is a noteworthy actor who has influenced other performers, including Kit Harington, to enter the field of dramatic arts.",
+        "appearance_count": 1
+    }
+]

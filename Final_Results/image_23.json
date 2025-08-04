@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Shadmehr Aghili",
+        "structured_info": {
+            "roles_affiliations": [
+                "Musician",
+                "Singer",
+                "Singer-Songwriter",
+                "Songwriter",
+                "Composer"
+            ],
+            "background": "Shadmehr Aghili is an Iranian singer and musician currently based in the United States, known for blending pop, rock, and traditional Iranian music. He maintains an active online presence with a YouTube channel (RealShadmehrOfficial) of 111K subscribers and a website (shadmehrmusic.com), and has released numerous albums and videos."
+        },
+        "summary": "Shadmehr Aghili is a popular Iranian musician residing in the US, known for his unique fusion of musical styles and a substantial online following. He is actively promoting his music through various platforms like YouTube and his official website.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Masoud Khadem",
+        "structured_info": {
+            "roles_affiliations": [
+                "Composer",
+                "Collaborator"
+            ],
+            "background": "Masoud Khadem is a music professional known for his work on \"The Window of Loving\" and likely contributed to the music production of Shadmehr Aghili."
+        },
+        "summary": "Masoud Khadem is a composer and collaborator with credits including work on 'The Window of Loving' and a likely association with Shadmehr Aghili's music.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Barat",
+        "structured_info": {
+            "roles_affiliations": [
+                "Musician"
+            ],
+            "background": "Barat is known for being featured in the song “Shadmehr Aghili – Khoshalam برای بارات”, indicating a collaborative work with Shadmehr Aghili."
+        },
+        "summary": "Barat is a musician recognized for their contribution to Shadmehr Aghili’s song “Khoshalam برای بارات”.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jonathan Richman",
+        "structured_info": {
+            "roles_affiliations": [
+                "Musician"
+            ],
+            "background": "Jonathan Richman's musical style is considered similar to Shadmehr Aghili, and he is known for participation in jam sessions and his work with the chords of the song \"City...\""
+        },
+        "summary": "Jonathan Richman is a musician whose work shares similarities with Shadmehr Aghili and includes contributions to the song \"City...\" through jam sessions and chord arrangements.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ma Ajmalak - Bilal Al Ah...",
+        "structured_info": {
+            "roles_affiliations": [
+                "Musician",
+                "Artist"
+            ],
+            "background": "Ma Ajmalak - Bilal Al Ah... has participated in 9 jam sessions and contributed chords to a song, possibly written in a language other than English."
+        },
+        "summary": "Ma Ajmalak - Bilal Al Ah... is a musician and artist with experience in collaborative jam sessions and songwriting.",
+        "appearance_count": 1
+    }
+]

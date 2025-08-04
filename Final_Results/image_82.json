@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Lewis Hamilton",
+        "structured_info": {
+            "roles_affiliations": [
+                "GP2 Champion (2006)",
+                "Mercedes-Benz driver",
+                "Formula One (F1) race car driver",
+                "McLaren F1 team driver",
+                "Ferrari team driver (2025)"
+            ],
+            "background": "Lewis Hamilton is a British racing driver who began karting in 1993 and quickly achieved success. He progressed through Formula Renault and GP2, supported by McLaren and Mercedes-Benz, before entering Formula One. He became the first Black driver to win the F1 World Drivers' Championship in 2008 and has since tied with Michael Schumacher for the most championships won (seven)."
+        },
+        "summary": "Lewis Hamilton is one of the most successful Formula One drivers in history, holding records for career race victories and championships. Known for his rivalry with Fernando Alonso and Nico Rosberg, he has driven for McLaren and Mercedes-Benz, and will join Ferrari in 2025. He is a seven-time F1 World Champion and a pioneer in the sport, breaking barriers as the first Black driver to win the championship.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Michael Schumacher",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula One (F1) race car driver"
+            ],
+            "background": "Michael Schumacher is a highly accomplished Formula One driver, holding the record for seven F1 World Championships, tied with Lewis Hamilton."
+        },
+        "summary": "Michael Schumacher is a celebrated Formula One race car driver known for achieving seven World Championships, a record he shares with Lewis Hamilton.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Anthony Hamilton",
+        "structured_info": {
+            "roles_affiliations": [
+                "Father of Lewis Hamilton",
+                "Manager of Lewis Hamilton"
+            ],
+            "background": "Anthony Hamilton is the father and former manager of Lewis Hamilton, and was prominently involved in his son's racing career, including celebrating with him at the 2008 Brazilian Grand Prix."
+        },
+        "summary": "Anthony Hamilton is best known as the father and former manager of Formula 1 champion Lewis Hamilton, playing a key role in his son's early success.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Fernando Alonso",
+        "structured_info": {
+            "roles_affiliations": [
+                "Rival of Lewis Hamilton"
+            ],
+            "background": "Fernando Alonso is known for his rivalry with Lewis Hamilton."
+        },
+        "summary": "Fernando Alonso is a figure primarily recognized as a competitor and rival to Lewis Hamilton.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Nico Rosberg",
+        "structured_info": {
+            "roles_affiliations": [
+                "Rival of Lewis Hamilton"
+            ],
+            "background": "Nico Rosberg is primarily known for his competitive relationship with Lewis Hamilton."
+        },
+        "summary": "Nico Rosberg is a figure recognized for his rivalry with Lewis Hamilton.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Rafael Nadal",
+        "structured_info": {
+            "roles_affiliations": [
+                "Spanish tennis player",
+                "Davis Cup Finals Representative (Spain)",
+                "Professional Tennis Player"
+            ],
+            "background": "Born in Manacor, Mallorca, Spain in 1986, Rafael Nadal is widely considered one of the greatest tennis players ever. He is coached by Carlos Moya, Marc Lopez, and Gustavo Marcaccio and is particularly dominant on clay. He holds numerous records, including 22 Grand Slam men's singles titles and a record 14 French Open titles, and has completed a Career Grand Slam and earned Olympic gold medals."
+        },
+        "summary": "Rafael Nadal is a highly decorated Spanish professional tennis player and one of the sport's all-time greats, renowned for his exceptional record, especially at the French Open, and his ongoing representation of Spain in international competitions.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Roger Federer",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player",
+                "Professional Tennis Player"
+            ],
+            "background": "Widely regarded as one of the greatest tennis players of all time, Federer has a long-standing and significant rivalry with Rafael Nadal, who has defeated him in multiple Grand Slam finals on different surfaces. He has also competed against players like Victor Hănescu."
+        },
+        "summary": "Roger Federer is a highly acclaimed professional tennis player known for his remarkable career and intense rivalry with Rafael Nadal. He is consistently recognized as one of the sport's all-time greats.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Novak Djokovic",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player",
+                "Professional Tennis Player"
+            ],
+            "background": "A Serbian professional tennis player known for his significant rivalry with Rafael Nadal, who has defeated him in multiple Grand Slam finals. He has frequently competed against Nadal during championship runs."
+        },
+        "summary": "Novak Djokovic is a Serbian professional tennis player renowned for his competitive career and notable rivalry with Rafael Nadal, having faced him in multiple Grand Slam finals.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Andre Agassi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player",
+                "Professional Tennis Player"
+            ],
+            "background": "Andre Agassi is an American tennis player with a notable record, ranking fourth in Open Era wins alongside Rafael Nadal. He competed in and reached the first round of a major tournament."
+        },
+        "summary": "Andre Agassi is a highly accomplished American professional tennis player, recognized for his impressive win record in the Open Era.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Robin Söderling",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player"
+            ],
+            "background": "Robin Söderling is known for his competitive tennis career, where he notably reached the second round of a tournament and was defeated by Rafael Nadal in 2009."
+        },
+        "summary": "Robin Söderling is a tennis player remembered for a notable performance in a 2009 tournament, including a match against Rafael Nadal.",
+        "appearance_count": 2
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Tom Cruise",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Producer",
+                "Film Director",
+                "Writer",
+                "Stunt Performer",
+                "Stunt Pilot",
+                "Pilot"
+            ],
+            "background": "Born July 3, 1962, in Syracuse, New York, Tom Cruise is an American actor and producer of Irish, German, and English ancestry. He is renowned for performing his own stunts in action and sci-fi films such as *Mission: Impossible* and *Top Gun*. He has been married three times – to Mimi Rogers, Nicole Kidman, and Katie Holmes – and has three children. He has received numerous accolades including three Golden Globe Awards and an Honorary Palme d'Or."
+        },
+        "summary": "Tom Cruise is a highly successful and iconic American actor, producer, and filmmaker known for his dedication to performing his own stunts and starring in blockbuster action and sci-fi films like *Mission: Impossible* and *Top Gun*. He has achieved significant commercial success and critical acclaim throughout his career.",
+        "appearance_count": 6
+    },
+    {
+        "name": "Katie Holmes",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Director",
+                "Spouse of Tom Cruise (2006-2012)"
+            ],
+            "background": "An American actress and director who was married to Tom Cruise from 2006 to 2012."
+        },
+        "summary": "Katie Holmes is an American actress and director, widely known for her work in film and television and for her former marriage to actor Tom Cruise.",
+        "appearance_count": 3
+    },
+    {
+        "name": "William Mapother",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Cousin of Tom Cruise"
+            ],
+            "background": "William Mapother is an actor and a cousin of Tom Cruise, with whom he has collaborated on five films. He has been described as a 'coward'."
+        },
+        "summary": "William Mapother is an actor best known for being a cousin of Tom Cruise and having appeared in five of his films.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Emilio Estevez",
+        "structured_info": {
+            "roles_affiliations": [
+                "Member of the 'Brat Pack'",
+                "Actor"
+            ],
+            "background": "Estevez is known for his roles in iconic 1980s films like 'The Breakfast Club' and 'St. Elmo's Fire'."
+        },
+        "summary": "Emilio Estevez is an actor best known as a member of the 'Brat Pack' and for his work in popular 1980s films.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Molly Ringwald",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Member of the \"Brat Pack\""
+            ],
+            "background": "Molly Ringwald gained recognition through iconic 1980s films, including prominent appearances in 'The Breakfast Club' and 'St. Elmo's Fire'."
+        },
+        "summary": "Molly Ringwald is an actress best known as a member of the 'Brat Pack' and for her roles in defining 1980s films like 'The Breakfast Club' and 'St. Elmo's Fire'.",
+        "appearance_count": 1
+    }
+]

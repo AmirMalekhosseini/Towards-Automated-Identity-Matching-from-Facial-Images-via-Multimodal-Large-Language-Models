@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Xavi Hernández",
+        "structured_info": {
+            "roles_affiliations": [
+                "Coach",
+                "FC Barcelona",
+                "Potential Juventus Coach"
+            ],
+            "background": "Xavi Hernández is a former and potential future coach of FC Barcelona, where he previously led the team to the 2022-2023 League title and Spanish Super Cup during a two-and-a-half-year tenure. He recently departed Barcelona and is currently considering a coaching offer from Juventus."
+        },
+        "summary": "Xavi Hernández is a successful football coach who recently coached FC Barcelona to a League title. He is now being considered for the head coach position at Juventus after leaving Barcelona.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Marc Pérez",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author",
+                "Writer"
+            ],
+            "background": "Marc Pérez is an author."
+        },
+        "summary": "Marc Pérez is an author and writer.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Marc Casadó",
+        "structured_info": {
+            "roles_affiliations": [
+                "Player - FC Barcelona"
+            ],
+            "background": "Marc Casadó is a current player for FC Barcelona. He has been mentioned as a potential transfer to Juventus should Xavi Hernández become their coach."
+        },
+        "summary": "Marc Casadó is a Barcelona player who may be targeted by Juventus if Xavi Hernández takes over as their coach.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Pau Víctor",
+        "structured_info": {
+            "roles_affiliations": [
+                "Player",
+                "FC Barcelona"
+            ],
+            "background": "Pau Víctor is a Barcelona player who has been linked with a potential transfer to Juventus should Xavi Hernández become their coach."
+        },
+        "summary": "Pau Víctor is a footballer currently playing for FC Barcelona, and is a potential Juventus target depending on their future coaching staff.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Leo Messi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Inter Miami CF",
+                "Former FC Barcelona Player",
+                "Player"
+            ],
+            "background": "Leo Messi is a professional footballer currently playing for Inter Miami CF, having previously played for FC Barcelona."
+        },
+        "summary": "Leo Messi is a well-known footballer transitioning from a celebrated career with FC Barcelona to his current role with Inter Miami CF.",
+        "appearance_count": 2
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Roger Federer",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Tennis Player",
+                "Former professional tennis player",
+                "Wilson RF01 association",
+                "Gentlemen's Singles Tennis Player"
+            ],
+            "background": "Federer held the world No. 1 ranking for a record 310 weeks (including 237 consecutive weeks) and won 103 singles titles, including 20 major men’s singles titles – a record eight Wimbledon titles and a joint-record five US Open titles. He is considered one of the 'Big Three' in men’s tennis alongside Nadal and Djokovic. He is also an Olympic gold medalist, winning in men's doubles with Stan Wawrinka in 2008."
+        },
+        "summary": "Roger Federer is a highly celebrated and decorated former professional tennis player, widely regarded as one of the greatest of all time. He dominated the sport for years, holding the No. 1 ranking for a record period and accumulating 20 Grand Slam singles titles, including a record eight Wimbledon championships. He is known for his association with the Wilson RF01 racquet and his significant impact on the world of tennis.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Rafael Nadal",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player",
+                "Professional tennis player"
+            ],
+            "background": "Rafael Nadal is a dominant force in men's tennis, part of the 'Big Three' with Federer and Djokovic. He holds 22 Grand Slam titles and achieved a remarkable debut at age 17."
+        },
+        "summary": "Rafael Nadal is a highly accomplished professional tennis player, renowned as one of the greatest of all time and a key member of the 'Big Three' in men's tennis, boasting 22 Grand Slam titles.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Novak Djokovic",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player",
+                "Professional tennis player"
+            ],
+            "background": "Djokovic is a dominant force in men's tennis, recognized as part of the 'Big Three' with Roger Federer and Rafael Nadal. He currently holds the record for most Grand Slam titles with 24, exceeding Federer's previous record."
+        },
+        "summary": "Novak Djokovic is a highly accomplished professional tennis player and a key member of the 'Big Three' in men's tennis. He is currently the all-time leader in Grand Slam titles won, surpassing Roger Federer.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Pete Sampras",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player",
+                "Former Tennis Player",
+                "Previous Champion"
+            ],
+            "background": "Pete Sampras held the record for most major men’s singles titles (14) before being surpassed by Roger Federer. He did not formally announce his retirement immediately after his last match at the 2002 US Open."
+        },
+        "summary": "Pete Sampras is a former champion and highly accomplished tennis player who previously held the record for most major men’s singles titles, ultimately surpassed by Federer. He concluded his career following the 2002 US Open but did not immediately announce his retirement.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Andy Murray",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player"
+            ],
+            "background": "Andy Murray is known for his rivalry with Roger Federer, notably defeating him at the 2010 London Olympics."
+        },
+        "summary": "Andy Murray is a professional tennis player recognized for a significant rivalry with Roger Federer, highlighted by his Olympic victory over Federer in 2010.",
+        "appearance_count": 1
+    }
+]

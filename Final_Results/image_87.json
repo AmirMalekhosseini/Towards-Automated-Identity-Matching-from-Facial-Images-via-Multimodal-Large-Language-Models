@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Lily Collins",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Celebrity"
+            ],
+            "background": "Born on March 18, 1989, in Guildford, England, Lily Collins is the subject of a detailed astrological chart analysis on AstroCharts, revealing her planetary dominants and compatibility potential."
+        },
+        "summary": "Lily Collins is a celebrity and actress known for her presence on AstroCharts, where her birth chart (March 18, 1989) is analyzed.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Lana Del Rey",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer-Songwriter",
+                "Celebrity"
+            ],
+            "background": "Born June 21, 1985, and featured on the AstroCharts webpage."
+        },
+        "summary": "Lana Del Rey is a singer-songwriter and celebrity, born in 1985. She is known for her musical career and has a presence on platforms like AstroCharts.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Marilyn Monroe",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Celebrity"
+            ],
+            "background": "Born June 1, 1926, and prominently featured on AstroCharts."
+        },
+        "summary": "Marilyn Monroe was a celebrated actress and cultural icon, born in 1926, who maintains a presence in modern astrological resources like AstroCharts.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Adam Sandler",
+        "structured_info": {
+            "roles_affiliations": [
+                "Comedian",
+                "Actor",
+                "Celebrity"
+            ],
+            "background": "Born on September 9, 1966, and publicly featured on AstroCharts."
+        },
+        "summary": "Adam Sandler is a well-known actor and comedian, born in 1966, with a public profile highlighted by a feature on AstroCharts.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Ozzy Osbourne",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Celebrity",
+                "Musician"
+            ],
+            "background": "Born on December 3, 1948."
+        },
+        "summary": "Ozzy Osbourne is a singer, musician, and celebrity born on December 3, 1948.",
+        "appearance_count": 2
+    }
+]

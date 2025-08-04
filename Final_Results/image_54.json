@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Scarlett Johansson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Producer",
+                "Director",
+                "Singer",
+                "Model",
+                "Recording Artist",
+                "Voice actress",
+                "Member of the Academy of Motion Picture Sciences",
+                "Democratic Party Member"
+            ],
+            "background": "Born November 22, 1984, in Manhattan, New York City, to Melanie Sloan and Karsten Johansson. Her mother is Jewish and her father is Danish. Began her career with early appearances on *Late Night with Conan O'Brien* and in films like *North*. She has received numerous accolades throughout her career including a BAFTA Award, an Honorary César, and a star on the Hollywood Walk of Fame. She is married to Colin Jost and has a child, Rose Dauriac, with Romain Dauriac."
+        },
+        "summary": "Scarlett Johansson is a highly acclaimed American actress, producer, director, and singer, known for her versatile performances in a wide range of films including those within the Marvel Cinematic Universe as Black Widow; and critical films such as *Lost in Translation* and *Jojo Rabbit*. She has received numerous awards and recognition for her work in the film industry.",
+        "appearance_count": 6
+    },
+    {
+        "name": "Melanie Sloan",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Scarlett Johansson",
+                "Mother"
+            ],
+            "background": "Melanie Sloan is from a Jewish family originally from the Bronx."
+        },
+        "summary": "Melanie Sloan is best known as the mother of actress Scarlett Johansson. She comes from a Jewish family with roots in the Bronx.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Karsten Johansson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Father of Scarlett Johansson",
+                "Architect"
+            ],
+            "background": "Karsten Johansson is a Danish architect born in Copenhagen."
+        },
+        "summary": "Karsten Johansson is a Copenhagen-born architect and the father of actress Scarlett Johansson.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Robert Redford",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director",
+                "Actor"
+            ],
+            "background": "Robert Redford directed *The Horse Whisperer* (1998), recognizing Scarlett Johansson’s maturity during the film’s production."
+        },
+        "summary": "Robert Redford is a director and actor known for his work on films like *The Horse Whisperer*, where he notably observed the professional maturity of his star, Scarlett Johansson.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Hunter Johansson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Twin brother of Scarlett Johansson"
+            ],
+            "background": "Born three minutes after his twin sister, Scarlett Johansson, and is her paternal half-brother."
+        },
+        "summary": "Hunter Johansson is primarily known as the twin brother of actress Scarlett Johansson. He was born shortly before her and shares a paternal half-sibling relationship.",
+        "appearance_count": 1
+    }
+]

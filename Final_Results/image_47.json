@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Saeid Marouf",
+        "structured_info": {
+            "roles_affiliations": [
+                "Iranian Volleyball Team Captain",
+                "Captain of the Iranian national team",
+                "Siena",
+                "Zenit Kazan",
+                "Fenerbahçe",
+                "Beijing Baic Motor P.J.",
+                "Peykan Tehran Volleyball Club",
+                "Ergma Villas Volley",
+                "Fenerbahçe S.K.",
+                "Professional Volleyball Player",
+                "Setter"
+            ],
+            "background": "Born October 20, 1985, Saeid Marouf is a highly decorated Iranian volleyball setter. He has been recognized as the best setter in multiple tournaments (2014 World League, 2008, 2012, & 2016 Olympic qualifying) and as most valuable player at the 2013 Asian Championship. He competed in the Rio 2016 and Tokyo 2020 Olympics. He was also named Iranian Sportsman of the year (2015–16), and 'Best Iranian volleyball player of the Year' in 2015, 2017, and 2019.  In 2021, he was named MVP of the Chinese Volleyball Super League."
+        },
+        "summary": "Saeid Marouf is a celebrated Iranian professional volleyball player renowned as a skilled setter and captain of the Iranian national team. He has achieved considerable success both domestically and internationally, earning numerous awards and representing Iran in multiple Olympic Games.",
+        "appearance_count": 7
+    },
+    {
+        "name": "Bruno Rezende",
+        "structured_info": {
+            "roles_affiliations": [
+                "Volleyball Player"
+            ],
+            "background": "Bruno Rezende is a highly-regarded volleyball player who has been recognized as a most valuable player alongside Dragan Travica. He has competed with and been recognized alongside notable players like Saeid Marouf."
+        },
+        "summary": "Bruno Rezende is a prominent volleyball player known for his high level of play and recognition as a most valuable player, often mentioned alongside top competitors like Saeid Marouf and Dragan Travica.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Dragan Travica",
+        "structured_info": {
+            "roles_affiliations": [
+                "Volleyball Player"
+            ],
+            "background": "Dragan Travica is a highly-regarded volleyball player who has been recognized as a most valuable player, competing at a high level alongside Bruno Rezende. He was once surpassed by Saeid Marouf, who was named 'Best Setter'."
+        },
+        "summary": "Dragan Travica is a distinguished volleyball player known for his skill and competitiveness, having achieved MVP status and recognition amongst top players like Bruno Rezende and Saeid Marouf.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Julio Velasco",
+        "structured_info": {
+            "roles_affiliations": [
+                "Volleyball Coach",
+                "Former coach of Iran men's national volleyball team"
+            ],
+            "background": "Julio Velasco has a strong coaching background, notably having mentored Saeid Marouf, significantly influencing his career, and leading the Iran men's national volleyball team."
+        },
+        "summary": "Julio Velasco is a prominent volleyball coach, recognized for his work with the Iran men's national volleyball team and for his influential role in the development of Saeid Marouf's career.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Ali Reza Nadi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Volleyball Coach",
+                "Former Captain"
+            ],
+            "background": "Ali Reza Nadi is a volleyball professional with experience as both a player and coach. He previously served as a captain and has a professional relationship with volleyball player Saeid Marouf."
+        },
+        "summary": "Ali Reza Nadi is an experienced volleyball coach and former captain, notable for his connection to prominent player Saeid Marouf.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Gianluigi Buffon",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer (Goalkeeper)",
+                "Former Football (Soccer) Goalkeeper",
+                "Parma",
+                "Juventus",
+                "Paris Saint-Germain",
+                "Italian national team",
+                "Italy national football team"
+            ],
+            "background": "Buffon is widely considered one of the greatest goalkeepers in football history, beginning his career with Parma in 1995. He holds numerous records, including most Serie A appearances and caps for Italy. He won the 2006 FIFA World Cup and achieved ten Serie A titles. He retired from professional play at age 45 after nearly three decades, and is known for his longevity and remarkable career."
+        },
+        "summary": "Gianluigi Buffon is an Italian football legend and one of the greatest goalkeepers of all time, having played professionally for nearly three decades for clubs like Parma, Juventus, and Paris Saint-Germain, as well as the Italian national team. He is a World Cup winner and record holder in Serie A, known for his longevity, skill, and character.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Thomas N'Kono",
+        "structured_info": {
+            "roles_affiliations": [
+                "Goalkeeper (Former)"
+            ],
+            "background": "Thomas N'Kono is a former professional goalkeeper known for inspiring Gianluigi Buffon, who modelled his playing style and positioning after N'Kono."
+        },
+        "summary": "Thomas N'Kono is a former goalkeeper renowned for his influence on one of the greatest goalkeepers of all time, Gianluigi Buffon.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Nevio Scala",
+        "structured_info": {
+            "roles_affiliations": [
+                "Parma",
+                "Football Manager",
+                "Coach"
+            ],
+            "background": "Nevio Scala is known for giving Gianluigi Buffon his Serie A debut while managing Parma in November 1995."
+        },
+        "summary": "Nevio Scala is a Football Manager and Coach, most notably recognized for launching the career of Gianluigi Buffon by giving him his Serie A debut while at Parma.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Vincenzo Guimarães",
+        "structured_info": {
+            "roles_affiliations": [
+                "Parma",
+                "Football Manager",
+                "Coach"
+            ],
+            "background": "Vincenzo Guimarães coached Gianluigi Buffon during Buffon's early career at Parma."
+        },
+        "summary": "Vincenzo Guimarães is a Football Manager and Coach associated with Parma, notable for having worked with a young Gianluigi Buffon during his time at the club.",
+        "appearance_count": 1
+    },
+    {
+        "name": "William Vecchi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Coach",
+                "Parma"
+            ],
+            "background": "William Vecchi coached Gianluigi Buffon during Buffon's formative years at Parma."
+        },
+        "summary": "William Vecchi is a football coach currently with Parma, notable for having coached a young Gianluigi Buffon early in his career.",
+        "appearance_count": 1
+    }
+]

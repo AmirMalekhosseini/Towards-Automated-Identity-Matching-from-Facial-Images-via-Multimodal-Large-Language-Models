@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Michael Phelps",
+        "structured_info": {
+            "roles_affiliations": [
+                "Most Decorated Olympian",
+                "Mental Health Advocate",
+                "Inspirational Speaker",
+                "Athlete",
+                "Founder of the Michael Phelps Foundation",
+                "Former Competitive Swimmer",
+                "American Competitive Swimmer"
+            ],
+            "background": "Born June 30, 1985, in Baltimore, Maryland, Michael Phelps is an American swimmer and the most decorated Olympian of all time, with a total of 28 Olympic medals (23 gold, 3 silver, 2 bronze). He has set numerous Olympic and world records and was named World Swimmer of the Year eight times. He has publicly shared his journey overcoming personal challenges."
+        },
+        "summary": "Michael Phelps is a highly accomplished American swimmer and the most decorated Olympian in history. Beyond his athletic achievements, he is now a dedicated mental health advocate, inspirational speaker, and founder of the Michael Phelps Foundation, promoting healthy lifestyles.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Shawn Ellis",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author",
+                "Resilience Strategist",
+                "Motivational Speaker"
+            ],
+            "background": "Shawn Ellis is a speaker and strategist specializing in resilience, helping leaders and teams adapt to change. He is also the author of 'Mastering the Moments, Creator of 5 C's of Change, Thrive'."
+        },
+        "summary": "Shawn Ellis is a motivational speaker, resilience strategist, and author dedicated to guiding leaders and teams through change and fostering resilience.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Joe Roberts",
+        "structured_info": {
+            "roles_affiliations": [
+                "Former USA Gymnast",
+                "Leadership Development Expert"
+            ],
+            "background": "Joe Roberts overcame personal challenges including homelessness and addiction to become a resilience and change expert, earning the nickname 'The Skidrow CEO'."
+        },
+        "summary": "Joe Roberts is a former USA Gymnast and now a Leadership Development Expert who draws on his experience overcoming homelessness and addiction to teach resilience and navigating change.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Nina Sossamon-Pogue",
+        "structured_info": {
+            "roles_affiliations": [
+                "USA Gymnast",
+                "Inspirational Speaker",
+                "Emmy-winning News Anchor",
+                "Corporate Leader"
+            ],
+            "background": "Nina Sossamon-Pogue is a multi-faceted professional with a background spanning athletics, broadcasting, and the corporate world. She is known for her transparency in discussing both successes and failures, using these experiences to inspire resilience in others."
+        },
+        "summary": "Nina Sossamon-Pogue is an accomplished individual who has excelled as a gymnast, news anchor, speaker, and corporate leader, leveraging her life experience to motivate and inspire others through her vulnerability and stories of overcoming challenges.",
+        "appearance_count": 1
+    },
+    {
+        "name": "April Hernandez Castillo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Speaker",
+                "Author",
+                "Actor"
+            ],
+            "background": "April Hernandez Castillo is recognized for her personal journey as a 'Freedom Writer,' emphasizing her experience overcoming adversity and promoting messages of hope and resilience."
+        },
+        "summary": "April Hernandez Castillo is a Speaker, Author, and Actor known for sharing her powerful story of overcoming challenges as a 'Freedom Writer' and inspiring others through messages of hope and resilience.",
+        "appearance_count": 1
+    }
+]

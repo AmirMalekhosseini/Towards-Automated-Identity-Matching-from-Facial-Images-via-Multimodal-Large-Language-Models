@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Andrew Garfield",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Producer",
+                "Peter Parker / Spider-Man",
+                "Soundtrack"
+            ],
+            "background": "A British-American actor trained at the Royal Central School of Speech and Drama, Garfield gained recognition for roles in films like *Boy A*, *The Social Network*, and *The Amazing Spider-Man*. He has received nominations for an Academy Award and a Tony Award, and is known for his intense and nuanced performances. His grandparents were Jewish immigrants to London."
+        },
+        "summary": "Andrew Garfield is a highly acclaimed English-American actor best known for his portrayal of Peter Parker/Spider-Man, as well as roles in critically acclaimed films and stage productions. He has received multiple awards and nominations for his work and is regarded for his dedication to complex character work.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Andy Garfield",
+        "structured_info": {
+            "roles_affiliations": [
+                "Composer"
+            ],
+            "background": "This Andy Garfield is distinguished from actor Andrew Garfield."
+        },
+        "summary": "Andy Garfield is a composer who is differentiated from the actor Andrew Garfield.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Lynn Garfield",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Andrew Garfield"
+            ],
+            "background": "Born in Essex, England, and currently resides in Los Angeles, California."
+        },
+        "summary": "Lynn Garfield is the mother of actor Andrew Garfield. She was born in Essex, England and now lives in Los Angeles, California.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Richard Garfield",
+        "structured_info": {
+            "roles_affiliations": [
+                "Father of Andrew Garfield"
+            ],
+            "background": "Richard Garfield is an emigrant from the United Kingdom who relocated to the United States."
+        },
+        "summary": "Richard Garfield is best known as the father of actor Andrew Garfield. He emigrated to the United States from the United Kingdom.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jonathan Larson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Subject of *Tick, Tick... Boom!*"
+            ],
+            "background": "Jonathan Larson is known as the inspiration and subject of the musical drama *Tick, Tick... Boom!*, portrayed by Andrew Garfield."
+        },
+        "summary": "Jonathan Larson is a figure central to the musical *Tick, Tick... Boom!*, with his life and work brought to the screen in a recent film adaptation.",
+        "appearance_count": 1
+    }
+]

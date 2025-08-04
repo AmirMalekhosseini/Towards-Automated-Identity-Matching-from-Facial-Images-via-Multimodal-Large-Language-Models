@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Albert Einstein",
+        "structured_info": {
+            "roles_affiliations": [
+                "Physicist",
+                "Refugee from Nazi Germany"
+            ],
+            "background": "Einstein published four groundbreaking physics papers at age 39, and is renowned for developing the special theory of relativity and the equation E=mc². His estimated IQ ranges from 160-205. Though widely regarded as an anti-racist and human rights advocate, recently translated diaries reveal he held racist views regarding people from China, Japan, Sri Lanka, and India."
+        },
+        "summary": "Albert Einstein was a highly influential physicist of the modern era, best known for his theories of relativity. Despite his public stance on human rights, newly discovered diary entries reveal complex and problematic racist viewpoints.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Russell T. Warne",
+        "structured_info": {
+            "roles_affiliations": [
+                "Researcher",
+                "Psychologist",
+                "Author"
+            ],
+            "background": "Russell T. Warne is a researcher and psychologist who authors content directly related to his work and insights."
+        },
+        "summary": "Russell T. Warne is a researcher, psychologist, and author known for publishing his expertise and related insights.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Brian M. Hughes",
+        "structured_info": {
+            "roles_affiliations": [],
+            "background": "The candidate was mentioned in connection with case studies."
+        },
+        "summary": "Brian M. Hughes is an individual referenced in relation to case studies, with no further details provided.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Malcolm Gladwell",
+        "structured_info": {
+            "roles_affiliations": [
+                "Journalist",
+                "Author"
+            ],
+            "background": "Malcolm Gladwell was referenced in connection with discussions about IQ testing."
+        },
+        "summary": "Malcolm Gladwell is a journalist and author noted for being mentioned in relation to debates on IQ testing.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ruud Weijermars",
+        "structured_info": {
+            "roles_affiliations": [
+                "IQ testing"
+            ],
+            "background": "Ruud Weijermars is associated with the field of IQ testing."
+        },
+        "summary": "Ruud Weijermars is known for his involvement with IQ testing.",
+        "appearance_count": 1
+    }
+]

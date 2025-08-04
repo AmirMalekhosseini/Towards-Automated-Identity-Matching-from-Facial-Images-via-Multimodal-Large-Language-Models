@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Alireza Ghorbani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Traditional Vocalist"
+            ],
+            "background": "Alireza Ghorbani is an Iranian vocalist who started his career with Quran recitation. He is a prolific performer both in Iran and internationally, and has experience composing music for television."
+        },
+        "summary": "Alireza Ghorbani is an Iranian singer and traditional vocalist with a background in Quran recitation, who has gained recognition for performances in Iran, internationally (including at the Queen Elizabeth Theatre in Vancouver), and his composition work for TV.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Khosro Soltani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mentor (to Alireza Ghorbani)"
+            ],
+            "background": "Khosro Soltani was an early mentor to Alireza Ghorbani."
+        },
+        "summary": "Khosro Soltani is known for being one of the first mentors to Alireza Ghorbani.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Behrooz Abedini",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mentor (to Alireza Ghorbani)"
+            ],
+            "background": "Behrooz Abedini was an early mentor to Alireza Ghorbani."
+        },
+        "summary": "Behrooz Abedini is known for being one of the first mentors to Alireza Ghorbani.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Mahdi Fallahi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mentor to Alireza Ghorbani"
+            ],
+            "background": "Mahdi Fallahi was an early mentor to Alireza Ghorbani."
+        },
+        "summary": "Mahdi Fallahi is known for being one of the first mentors to Alireza Ghorbani.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Homayoun Osoumi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mentor (to Alireza Ghorbani)"
+            ],
+            "background": "Homayoun Osoumi was an early mentor to Alireza Ghorbani."
+        },
+        "summary": "Homayoun Osoumi is recognized as one of the first mentors of Alireza Ghorbani.",
+        "appearance_count": 1
+    }
+]

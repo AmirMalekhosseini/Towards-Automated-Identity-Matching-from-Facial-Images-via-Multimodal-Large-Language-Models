@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Elizabeth Olsen",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Producer",
+                "Celebrity",
+                "Marvel Cinematic Universe (Wanda Maximoff / Scarlet Witch)",
+                "New York University (Alumna)",
+                "Moscow Art Theatre School (Alumna)"
+            ],
+            "background": "Elizabeth Olsen is an American actress and producer, recognized for her roles in independent films like *Martha Marcy May Marlene* and *Wind River*, as well as blockbuster franchises such as the Marvel Cinematic Universe where she plays Wanda Maximoff / Scarlet Witch. She is the younger sister of Mary-Kate and Ashley Olsen and a graduate of New York University’s Tisch School of the Arts and the Moscow Art Theatre School. She is married to Robbie Arnett and has two children."
+        },
+        "summary": "Elizabeth Olsen is a highly accomplished actress known for her diverse filmography and critically acclaimed portrayal of Wanda Maximoff / Scarlet Witch in the Marvel Cinematic Universe. She has demonstrated versatility across independent and mainstream cinema, supported by training from prestigious acting institutions and a family background in the entertainment industry.",
+        "appearance_count": 6
+    },
+    {
+        "name": "Mary-Kate Olsen",
+        "structured_info": {
+            "roles_affiliations": [
+                "Fashion Designer",
+                "Actress",
+                "Businesswoman",
+                "Equestrian",
+                "Television Actress",
+                "Sister of Elizabeth Olsen",
+                "Sister of Ashley Olsen"
+            ],
+            "background": "Mary-Kate Olsen began acting at age four with her twin sister Ashley, achieving childhood fame in film and television. While continuing her fashion career, she has also received critical acclaim for roles in films like *Martha Marcy May Marlene* and *Godzilla*, and television series such as *Love & Death*."
+        },
+        "summary": "Mary-Kate Olsen is a businesswoman and fashion designer who initially gained recognition as a child actress alongside her sister Ashley. Despite transitioning primarily to fashion, she has continued acting and has received praise for her work in independent films and television.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Ashley Olsen",
+        "structured_info": {
+            "roles_affiliations": [
+                "Fashion designer",
+                "Actress",
+                "Businesswoman",
+                "Twin sister of Mary-Kate Olsen",
+                "Sister of Elizabeth Olsen"
+            ],
+            "background": "Ashley Olsen rose to fame as a child actress alongside her twin sister, Mary-Kate Olsen, in film and television. She is part of the prominent Olsen family and transitioned from acting to focus on fashion design and business."
+        },
+        "summary": "Ashley Olsen is a businesswoman and fashion designer best known for her early career as a child actress alongside her twin sister, Mary-Kate Olsen. She is also the sister of actress Elizabeth Olsen.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Robbie Arnett",
+        "structured_info": {
+            "roles_affiliations": [
+                "Spouse (of Elizabeth Olsen)"
+            ],
+            "background": "Robbie Arnett is known for being the spouse of actress Elizabeth Olsen."
+        },
+        "summary": "Robbie Arnett is primarily known as the spouse of Elizabeth Olsen.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Martha Marcy May Marlene",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Known for her role in the 2011 film *Martha Marcy May Marlene*."
+        },
+        "summary": "Martha Marcy May Marlene is an actress recognized for her role in the film *Martha Marcy May Marlene*.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Matthew Langford Perry",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Comedian",
+                "Producer",
+                "Screenwriter",
+                "Director",
+                "Executive Producer",
+                "Co-creator",
+                "Co-writer",
+                "Founder of Perry House"
+            ],
+            "background": "A dual-citizen American and Canadian actor, Perry rose to fame for his iconic role as Chandler Bing on *Friends*. He also appeared in films and television shows such as *Studio 60 on the Sunset Strip* and *17 Again*. His upbringing was influenced by his parents’ careers in journalism and Canadian politics. He publicly battled addiction and later founded a rehab facility, Perry House."
+        },
+        "summary": "Matthew Perry was a celebrated American-Canadian actor, comedian, and producer best known for his role as Chandler Bing on the hit TV series *Friends*. Beyond his acting career, he was a writer, director, and dedicated to helping others overcome addiction, founding Perry House. He tragically passed away in 2023 at the age of 54.",
+        "appearance_count": 2
+    },
+    {
+        "name": "John Bennett Perry",
+        "structured_info": {
+            "roles_affiliations": [
+                "Journalist",
+                "Producer",
+                "Actor",
+                "Comedian",
+                "Former Model"
+            ],
+            "background": "John Bennett Perry is a journalist and former model, best known as the father of actor Matthew Perry."
+        },
+        "summary": "John Bennett Perry is a versatile individual with a background in journalism and modeling, who also worked as an actor, comedian, and producer. He is primarily recognized as the father of Matthew Perry.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Suzanne Marie Morrison",
+        "structured_info": {
+            "roles_affiliations": [
+                "Canadian broadcast journalist",
+                "Press Secretary to Pierre Trudeau"
+            ],
+            "background": "Suzanne Morrison is a Canadian journalist who served as Press Secretary to Prime Minister Pierre Trudeau. She is also known as the mother of actor Matthew Perry."
+        },
+        "summary": "Suzanne Marie Morrison is a Canadian journalist and former Press Secretary to Pierre Trudeau, notable also as the mother of Matthew Perry.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Pierre Trudeau",
+        "structured_info": {
+            "roles_affiliations": [
+                "Prime Minister of Canada"
+            ],
+            "background": "Pierre Trudeau served as Prime Minister of Canada, and Suzanne Marie Morrison was his press secretary."
+        },
+        "summary": "Pierre Trudeau was the Prime Minister of Canada, and had Suzanne Marie Morrison as his press secretary.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Justin Trudeau",
+        "structured_info": {
+            "roles_affiliations": [
+                "Prime Minister of Canada"
+            ],
+            "background": "Justin Trudeau was mentioned in relation to Matthew Perry's experiences with feelings of isolation."
+        },
+        "summary": "Justin Trudeau is the current Prime Minister of Canada and was referenced in connection to Matthew Perry's personal struggles with feeling like an outsider.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Prince Andrew, Duke of York",
+        "structured_info": {
+            "roles_affiliations": [
+                "Member of the British Royal Family",
+                "Third child of Queen Elizabeth II and Prince Philip, Duke of Edinburgh",
+                "Duke of York",
+                "UK Special Representative for International Trade and Investment (until 2011)",
+                "Royal Navy helicopter pilot and instructor",
+                "Captain of a warship"
+            ],
+            "background": "Born in 1960, Prince Andrew served in the Falklands War and married Sarah Ferguson in 1986, with whom he has two daughters. He faced serious allegations of sexual assault, leading to his removal from public duties in 2020 and settlement of a civil lawsuit. He has multiple other titles and names including Andrew Albert Christian Edward, Andrew Mountbatten-Windsor, Andrew Inverness, and Baron Killyleigh."
+        },
+        "summary": "Prince Andrew, Duke of York, is a member of the British Royal Family and third child of Queen Elizabeth II. He had a military career, served as a trade representative, and later faced significant controversy and removal from public roles due to sexual assault allegations.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Queen Elizabeth II",
+        "structured_info": {
+            "roles_affiliations": [
+                "Queen of the United Kingdom",
+                "Mother of Prince Andrew",
+                "Mother of King Charles III"
+            ],
+            "background": "Queen Elizabeth II was the longest-reigning British monarch. In 2022, she removed Prince Andrew from his charitable patronages."
+        },
+        "summary": "Queen Elizabeth II was the long-reigning monarch of the United Kingdom and the mother of both King Charles III and Prince Andrew. She notably removed Prince Andrew's charitable patronages in 2022.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Princess Beatrice",
+        "structured_info": {
+            "roles_affiliations": [
+                "Daughter of Prince Andrew and Sarah Ferguson",
+                "Daughter of Prince Andrew, Duke of York and Sarah, Duchess of York"
+            ],
+            "background": "Princess Beatrice is the daughter of Prince Andrew, Duke of York, and Sarah, Duchess of York."
+        },
+        "summary": "Princess Beatrice is a member of the British royal family as the daughter of Prince Andrew and Sarah, Duchess of York.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Prince Philip, Duke of Edinburgh",
+        "structured_info": {
+            "roles_affiliations": [
+                "Consort to Queen Elizabeth II",
+                "Father to Prince Andrew"
+            ],
+            "background": "Prince Philip is known as the father of Prince Andrew and served as the consort to Queen Elizabeth II."
+        },
+        "summary": "Prince Philip, Duke of Edinburgh, was the consort to Queen Elizabeth II and the father of Prince Andrew.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sarah Ferguson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Former wife of Prince Andrew"
+            ],
+            "background": "Sarah Ferguson was married to Prince Andrew from 1986 to 1996."
+        },
+        "summary": "Sarah Ferguson is known primarily for being the former wife of Prince Andrew, having been married from 1986-1996.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Roya Mirelmi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Roya Mirelmi is an Iranian actress born on September 1, 1978. She is notable for her work in Iranian cinema and television, having collaborated with prominent directors like Fereydoun Jeirani and Mehran Modiri. She won a Hafez Award for Best Actress in a Comedy Television Series for her role in *Bachelors*."
+        },
+        "summary": "Roya Mirelmi is a celebrated Iranian actress recognized for her performances in films and the popular TV series *Bachelors*, for which she received a Hafez Award. She has a significant body of work collaborating with many well-known Iranian directors.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Fereydoun Jeirani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Fereydoun Jeirani is a film director known for directing *Dreamy* (2014), which featured Roya Mirelmi."
+        },
+        "summary": "Fereydoun Jeirani is a director who is best known for his work on the 2014 film *Dreamy*.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Keyvan Alimohammadi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Keyvan Alimohammadi directed the film *Shahre Ghesh Cinema* (2020) starring Roya Mirelmi."
+        },
+        "summary": "Keyvan Alimohammadi is a film director, best known for directing *Shahre Ghesh Cinema* (2020).",
+        "appearance_count": 1
+    },
+    {
+        "name": "Akbar Heidari",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Akbar Heidari is a film director, most notably known for directing *Shahre Ghesh Cinema* (2020) which featured Roya Mirelmi."
+        },
+        "summary": "Akbar Heidari is a director who directed the 2020 film *Shahre Ghesh Cinema* starring Roya Mirelmi.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Soheil Moafagh",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Soheil Moafagh directed the film *Cloture* (2025), which features Roya Mirelmi."
+        },
+        "summary": "Soheil Moafagh is a director, best known for directing the 2025 film *Cloture* starring Roya Mirelmi.",
+        "appearance_count": 1
+    }
+]

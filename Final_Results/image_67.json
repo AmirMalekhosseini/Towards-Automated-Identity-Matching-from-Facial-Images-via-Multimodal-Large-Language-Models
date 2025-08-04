@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Kobe Bryant",
+        "structured_info": {
+            "roles_affiliations": [
+                "Basketball Player",
+                "Los Angeles Lakers",
+                "NBA Star"
+            ],
+            "background": "Kobe Bryant is a 36-year-old NBA star known for his dedication and excellence, embodied in his 'Mamba Mentality'. He recently sustained a rotator cuff injury, raising questions about his potential recovery and future in the sport."
+        },
+        "summary": "Kobe Bryant is a highly influential and accomplished basketball player for the Los Angeles Lakers who is facing challenges related to a shoulder injury, potentially impacting his career.",
+        "appearance_count": 3
+    },
+    {
+        "name": "wpadmin",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author"
+            ],
+            "background": "wpadmin is an author who has written articles on sports injuries, specifically focusing on Kobe Bryant's shoulder injury and preventing baseball sliding injuries."
+        },
+        "summary": "wpadmin is an author specializing in sports-related injury analysis and prevention, demonstrated through published articles on basketball and baseball injuries.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Dennis Schröder",
+        "structured_info": {
+            "roles_affiliations": [
+                "Sacramento Kings (NBA)",
+                "German national team",
+                "SG Braunschweig",
+                "Atlanta Hawks",
+                "Phantoms Braunschweig",
+                "Professional basketball player"
+            ],
+            "background": "Dennis Schröder is a German professional basketball player currently with the Sacramento Kings. He has a history playing in both the NBA and German leagues (SG Braunschweig, Phantoms Braunschweig), and with the Atlanta Hawks. He was the MVP of the 2023 FIBA Basketball World Cup and won a bronze medal at the 2022 EuroBasket."
+        },
+        "summary": "Dennis Schröder is a prominent German professional basketball player currently playing for the Sacramento Kings. He's recognized for his accomplishments representing Germany internationally, including a 2023 FIBA World Cup MVP award and carrying the flag at the 2024 Olympics.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Anna-Maria Wagner",
+        "structured_info": {
+            "roles_affiliations": [
+                "Judoka",
+                "German Olympic Team"
+            ],
+            "background": "Anna-Maria Wagner was selected as a flag bearer for Germany at the 2024 Olympics, sharing the honor with Dennis Schröder."
+        },
+        "summary": "Anna-Maria Wagner is a Judoka representing Germany in the Olympics and has been chosen as a flag bearer for her country at the 2024 Games.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Ademola Okulaja",
+        "structured_info": {
+            "roles_affiliations": [
+                "Basketball player",
+                "Former German national player"
+            ],
+            "background": "Ademola Okulaja is known for his career as a professional basketball player, representing Germany nationally. He also has a significant personal connection to the sport, serving as a father figure to fellow basketball player Dennis Schröder."
+        },
+        "summary": "Ademola Okulaja is a former German national basketball player, notable for his athletic career and his mentorship role in the life of NBA player Dennis Schröder.",
+        "appearance_count": 1
+    }
+]

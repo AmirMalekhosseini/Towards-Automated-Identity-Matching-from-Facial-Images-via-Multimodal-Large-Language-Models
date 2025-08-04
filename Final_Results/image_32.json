@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Johnny Depp",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Musician",
+                "Producer",
+                "Director",
+                "Style Icon",
+                "Hollywood Icon"
+            ],
+            "background": "Born June 9, 1963, in Owensboro, Kentucky, Johnny Depp began his career pursuing music before becoming a prominent actor. He gained recognition through *21 Jump Street* and achieved widespread acclaim for roles like Captain Jack Sparrow and Edward Scissorhands. He's a recipient of a Golden Globe and Screen Actors Guild Award, and has frequently collaborated with director Tim Burton."
+        },
+        "summary": "Johnny Depp is a highly acclaimed American actor, musician, and producer known for his versatile and often eccentric roles in films like *Pirates of the Caribbean* and *Edward Scissorhands*. He is also recognized as a style icon and was recently a central figure in a high-profile defamation trial.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Tim Burton",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director",
+                "Film Director"
+            ],
+            "background": "Tim Burton is a film director known for his frequent collaborations with Johnny Depp on films such as *Edward Scissorhands*, *Sleepy Hollow*, *Charlie and the Chocolate Factory*, *Corpse Bride*, and *Sweeney Todd*."
+        },
+        "summary": "Tim Burton is a film director recognized for his distinctive visual style and long-standing creative partnership with Johnny Depp, resulting in a series of highly successful and iconic films.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Edward Scissorhands",
+        "structured_info": {
+            "roles_affiliations": [
+                "Film Character"
+            ],
+            "background": "Edward Scissorhands is a fictional character brought to life by Johnny Depp in a film directed by Tim Burton."
+        },
+        "summary": "Edward Scissorhands is a memorable film character portrayed by Johnny Depp in a Tim Burton directed movie. He is known for his unique appearance and the scissor blades for hands.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sweeney Todd",
+        "structured_info": {
+            "roles_affiliations": [
+                "Character"
+            ],
+            "background": "Sweeney Todd is a character famously portrayed by actor Johnny Depp."
+        },
+        "summary": "Sweeney Todd is a character, recognized for being played by Johnny Depp.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jack Sparrow",
+        "structured_info": {
+            "roles_affiliations": [
+                "Character in the 'Pirates of the Caribbean' film series"
+            ],
+            "background": "Jack Sparrow is a fictional character famously portrayed by actor Johnny Depp."
+        },
+        "summary": "Jack Sparrow is a notable character known for being portrayed by Johnny Depp, primarily associated with the 'Pirates of the Caribbean' franchise.",
+        "appearance_count": 1
+    }
+]

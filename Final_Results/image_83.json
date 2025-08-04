@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Fernando Alonso Díaz",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula One driver",
+                "Aston Martin",
+                "McLaren",
+                "Ferrari",
+                "Renault",
+                "Toyota"
+            ],
+            "background": "A Spanish racing driver, Fernando Alonso is a two-time Formula One World Champion (2005, 2006 with Renault), with 32 Grand Prix wins. He also has a successful career in endurance racing, including winning the 2018-19 FIA World Endurance Championship and two 24 Hours of Le Mans titles with Toyota."
+        },
+        "summary": "Fernando Alonso Díaz is a highly accomplished Spanish racing driver currently competing in Formula One for Aston Martin. He is a two-time World Champion and has demonstrated success in both Formula One and endurance racing, achieving wins at the 24 Hours of Le Mans and the FIA World Endurance Championship.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Luis María de Mavillanova",
+        "structured_info": {
+            "roles_affiliations": [
+                "Karting Team Owner",
+                "Sponsor"
+            ],
+            "background": "Luis María de Mavillanova played a crucial role in the early career of Fernando Alonso, providing financial support - including his first kart - to Alonso and his family in 1990."
+        },
+        "summary": "Luis María de Mavillanova is a karting team owner and sponsor best known for his early support of Formula 1 driver Fernando Alonso, providing key financial assistance that enabled Alonso's initial karting endeavors.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Mike Wilson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Racing Talent Scout"
+            ],
+            "background": "Mike Wilson is known for identifying promising racing talent, notably recognizing Fernando Alonso's potential and facilitating a testing opportunity for him in Parma, Italy."
+        },
+        "summary": "Mike Wilson is a racing talent scout with a proven eye for potential, having played a key role in the early career development of Formula 1 driver Fernando Alonso.",
+        "appearance_count": 1
+    },
+    {
+        "name": "José Luis Echevarria",
+        "structured_info": {
+            "roles_affiliations": [
+                "Counselor",
+                "Mechanic"
+            ],
+            "background": "José Luis Echevarria has experience supporting motorsports, specifically assisting in the early career development of Formula 1 driver Fernando Alonso in karting and providing mechanical support to his team."
+        },
+        "summary": "José Luis Echevarria is a Counselor and Mechanic with a background in motorsports, having played a role in supporting Fernando Alonso's karting career.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Lorenza Alonso",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Fernando Alonso"
+            ],
+            "background": "Lorenza Alonso initially expressed reservations about her son Fernando Alonso's pursuit of a racing career, but ultimately became a supportive presence, actively engaging with his racing data and performance."
+        },
+        "summary": "Lorenza Alonso is the mother of Formula 1 driver Fernando Alonso. Though initially cautious about his racing ambitions, she grew to be a strong supporter, even involvement in analysing his on-track performance.",
+        "appearance_count": 1
+    }
+]

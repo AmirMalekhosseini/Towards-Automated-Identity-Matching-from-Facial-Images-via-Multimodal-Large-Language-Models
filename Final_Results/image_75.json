@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Lisa Kudrow",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Writer",
+                "Producer",
+                "Comedian",
+                "Creator",
+                "Executive Producer",
+                "Friends (Phoebe/Ursula Buffay)",
+                "Web Therapy (Fiona Wallace)",
+                "Guest Appearance on *RuPaul's Drag Race*",
+                "Award Winner & Nominee"
+            ],
+            "background": "Born July 30, 1963, in Encino, California, to a travel agent and a doctor with Jewish familial roots from Belarus, Russia, and Hungary. Lisa Kudrow holds a degree in biology from Vassar College and was a varsity tennis player in high school and college."
+        },
+        "summary": "Lisa Kudrow is an American actress, writer, and producer best known for her iconic role as Phoebe Buffay on the sitcom *Friends*, for which she won a Screen Actors Guild Award and received an Emmy nomination. She is also recognized for creating, writing, and starring in *Web Therapy*, earning her multiple awards and nominations, and for appearances in various films and television shows.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Courteney Cox",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Web Therapy",
+                "Friends",
+                "Cougar Town"
+            ],
+            "background": "Cox achieved significant fame co-starring in *Friends* alongside Lisa Kudrow and Jennifer Aniston, becoming one of the highest-paid television actresses. She also received a Webby Award nomination for her guest appearance in a web series."
+        },
+        "summary": "Courteney Cox is a highly successful actress best known for her role on *Friends* and later *Cougar Town*. She is also recognized for her work in web series and has received accolades for her performances.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Jon Lovitz",
+        "structured_info": {
+            "roles_affiliations": [
+                "Comedian",
+                "Actor"
+            ],
+            "background": "Jon Lovitz is known for his work in comedy and has a childhood connection with Lisa Kudrow."
+        },
+        "summary": "Jon Lovitz is a comedian and actor, and a childhood friend of Lisa Kudrow.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Robin Wright",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Attended Portera Middle School alongside Lisa Kudrow."
+        },
+        "summary": "Robin Wright is an actress who notably attended school with Lisa Kudrow.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Illya Kudrow",
+        "structured_info": {
+            "roles_affiliations": [],
+            "background": "Illya Kudrow's maternal great-grandmother was of Belarusian, German, Hungarian, and Polish Jewish descent and a Holocaust survivor."
+        },
+        "summary": "Illya Kudrow's family history includes a maternal great-grandmother who survived the Holocaust and had roots in several Eastern and Central European countries.",
+        "appearance_count": 1
+    }
+]

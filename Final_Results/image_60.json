@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Ben Stiller",
+        "structured_info": {
+            "roles_affiliations": [
+                "Writer",
+                "Producer",
+                "Actor",
+                "Director",
+                "Comedian",
+                "Star of 'The Ben Stiller Show'"
+            ],
+            "background": "Born November 30, 1965, in New York City, Ben Stiller is the son of Jerry Stiller and Anne Meara. He is an Emmy Award-winning actor, director, and comedian known for comedies such as 'Zoolander' and 'Meet the Fockers' and his work on 'The Ben Stiller Show,' including a 2012 reunion."
+        },
+        "summary": "Ben Stiller is a versatile entertainer – a writer, producer, actor, director, and comedian – famous for his comedic roles in films like 'Zoolander' and for creating/starring in 'The Ben Stiller Show'. He continues a family legacy in comedy as the son of Jerry Stiller.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Jerry Stiller",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Comedian",
+                "Frank Costanza (*Seinfeld*)",
+                "Arthur Spooner (*The King of Queens*)",
+                "Stiller and Meara (comedy duo)",
+                "Regular - 'The Ben Stiller Show'",
+                "Father of Ben Stiller"
+            ],
+            "background": "Jerry Stiller was an American comedian and actor who gained prominence in the 1960s with television appearances and the comedy duo Stiller and Meara with his wife, Anne Meara. He later starred in roles in popular series like *Seinfeld* and *The King of Queens*. He received a star on the Hollywood Walk of Fame in 2007 and passed away on May 11, 2020."
+        },
+        "summary": "Jerry Stiller was a celebrated comedian and actor with a career spanning several decades, best known for his comedic roles in television, including Frank Costanza on *Seinfeld* and Arthur Spooner on *The King of Queens*. He was also the father of actor and director Ben Stiller.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Anne Meara",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Comedian",
+                "Regular on 'The Ben Stiller Show'",
+                "Member of Stiller and Meara"
+            ],
+            "background": "Anne Meara was a celebrated comedian who gained national recognition in the 1950s and 60s as one half of the comedy duo “Stiller and Meara” with her husband, Jerry Stiller. They also starred in their own TV show, *Take Five with Stiller and Meara*."
+        },
+        "summary": "Anne Meara was a highly successful comedian and actress, best known for her work with husband Jerry Stiller as the duo 'Stiller and Meara'. She is also the mother of actor Ben Stiller.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Lana Del Rey",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Songwriter"
+            ],
+            "background": "Lana Del Rey is a singer-songwriter recognized for her distinctive cinematic musical style."
+        },
+        "summary": "Lana Del Rey is a well-known singer and songwriter celebrated for her unique and cinematic approach to music.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Paul Mescal",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Paul Mescal is an Irish actor recognized for his breakout role in 'Normal People'."
+        },
+        "summary": "Paul Mescal is a rising Irish actor best known for his performance in 'Normal People'.",
+        "appearance_count": 1
+    }
+]

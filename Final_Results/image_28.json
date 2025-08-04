@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Neymar da Silva Santos Júnior",
+        "structured_info": {
+            "roles_affiliations": [
+                "Soccer Player",
+                "Al-Hilal Player",
+                "Al-Hilal",
+                "Brazil National Team Captain",
+                "Brazil National Team",
+                "Barcelona Player",
+                "Paris Saint-Germain Player",
+                "Santos Captain",
+                "Santos FC",
+                "Forward"
+            ],
+            "background": "Neymar is a Brazilian professional footballer celebrated for his exceptional dribbling, technical skills, playmaking, and finishing. He began his career at Santos in 2009, achieving Olympic gold with Brazil in 2016. He holds the record for most goals scored for Brazil, surpassing Pelé, and is the all-time assist leader for the national team. He has played for Santos, Barcelona, Paris Saint-Germain, and Al-Hilal. He is currently recovering from an ACL injury and is set to return to Santos."
+        },
+        "summary": "Neymar da Silva Santos Júnior is a world-renowned Brazilian soccer player currently returning to Santos after a period with Al-Hilal. He's a highly decorated forward and captain of the Brazil national team, known for breaking scoring records and previously playing for prestigious clubs like Barcelona and Paris Saint-Germain. He is widely considered one of the greatest players of all time and was at one point the most expensive soccer transfer in history.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Lionel Messi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Soccer Player"
+            ],
+            "background": "Lionel Messi is recognized as a top footballer, having been a key component of a formidable attacking force alongside Neymar and Luis Suárez at Barcelona. He has consistently been a high-ranking contender for individual accolades, finishing third in the Ballon d'Or alongside Neymar and frequently being compared to both Neymar and Cristiano Ronaldo."
+        },
+        "summary": "Lionel Messi is a renowned footballer and soccer player historically recognized for his performance at Barcelona alongside Neymar and Suárez, and for consistently being among the world's top players as evidenced by Ballon d'Or nominations and comparisons to contemporaries like Neymar and Cristiano Ronaldo.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Pelé",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Player",
+                "Soccer Player",
+                "Santos Player"
+            ],
+            "background": "Pelé is a legendary footballer for Brazil, renowned for his prolific goalscoring record. He remains a significant figure in the sport, frequently used as a benchmark for evaluating current players like Neymar."
+        },
+        "summary": "Pelé is a celebrated football legend and former Santos player whose scoring records have long been a standard for Brazilian football, with Neymar recently equaling one of his key achievements.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Luis Suárez",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Luis Suárez gained prominence as a key member of a formidable attacking trio alongside Neymar and Lionel Messi during his time at Barcelona."
+        },
+        "summary": "Luis Suárez is a footballer best known for his successful partnership with Lionel Messi and Neymar while playing for Barcelona.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Pepe",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Player",
+                "Santos Player"
+            ],
+            "background": "Pepe began his football career alongside Neymar at Santos."
+        },
+        "summary": "Pepe is a football player who played for Santos and is known for beginning his career with Neymar.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Rami Malek",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Producer",
+                "Mr. Robot (Elliot Alderson)",
+                "Bohemian Rhapsody (Freddie Mercury)",
+                "Oppenheimer",
+                "Partner of Lucy Boynton (2017-2023)"
+            ],
+            "background": "Rami Malek is an American actor of Egyptian descent, recognized for his performances in both television and film. He has received numerous prestigious awards, including an Academy Award, BAFTA, Golden Globe, Primetime Emmy Award, and Screen Actors Guild Awards."
+        },
+        "summary": "Rami Malek is an award-winning American actor of Egyptian descent best known for his leading roles in *Mr. Robot* and *Bohemian Rhapsody*. He has recently appeared in *Oppenheimer* and was in a long-term relationship with Lucy Boynton.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Freddie Mercury",
+        "structured_info": {
+            "roles_affiliations": [
+                "Musician",
+                "Songwriter",
+                "Singer",
+                "Queen lead singer"
+            ],
+            "background": "Freddie Mercury is famously known as the lead vocalist for the band Queen and was the subject of the biographical film 'Bohemian Rhapsody', portrayed by Rami Malek."
+        },
+        "summary": "Freddie Mercury was a highly influential musician, songwriter, and singer, best known as the lead vocalist of the iconic band Queen. He received further recognition through the biographical film 'Bohemian Rhapsody'.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Elliot Alderson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Character in Mr. Robot",
+                "Cybersecurity Engineer",
+                "Hacker"
+            ],
+            "background": "Elliot Alderson is a fictional character portrayed by Rami Malek in the TV series *Mr. Robot*. He is a cybersecurity engineer and hacker who struggles with clinical depression."
+        },
+        "summary": "Elliot Alderson is a central character in the USA Network series *Mr. Robot*, known for being a highly skilled but troubled cybersecurity engineer and hacker.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Christopher Nolan",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director",
+                "Oppenheimer (film)"
+            ],
+            "background": "Christopher Nolan is a director known for his work on the film *Oppenheimer*, which featured Rami Malek as David Hill."
+        },
+        "summary": "Christopher Nolan is the director of *Oppenheimer*, a film in which Rami Malek played David Hill.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Nelly Malek",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother"
+            ],
+            "background": "Nelly Malek is of Egyptian descent and is known as the mother of actor Rami Malek."
+        },
+        "summary": "Nelly Malek is a mother of Egyptian heritage, and is primarily known as the mother of award-winning actor Rami Malek.",
+        "appearance_count": 1
+    }
+]

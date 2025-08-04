@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Woody Harrelson",
+        "structured_info": {
+            "roles_affiliations": [
+                "Celebrity",
+                "Actor"
+            ],
+            "background": "Woody Harrelson was featured in an article and page headline highlighting celebrities with larger head sizes."
+        },
+        "summary": "Woody Harrelson is a well-known actor and celebrity who was recently noted for his physical appearance in an online article.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Kristina Killgrove",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author"
+            ],
+            "background": "Kristina Killgrove is an author who recently wrote an article titled 'New, big-headed archaic humans discovered: Who is Homo juluensis?' published on December 2, 2024."
+        },
+        "summary": "Kristina Killgrove is an author specializing in paleoanthropology, evidenced by her recent publication on *Homo juluensis*.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Homo juluensis",
+        "structured_info": {
+            "roles_affiliations": [
+                "Species",
+                "Member of the Homo genus"
+            ],
+            "background": "Homo juluensis is a recently identified species characterized by a large head. Phylogenetic analyses suggest associations with Denisovans, Homo floresiensis, and Homo luzonensis."
+        },
+        "summary": "Homo juluensis is a newly discovered hominin species within the Homo genus, noted for its large cranial size and potential evolutionary links to other archaic human groups like Denisovans and island populations.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Denisovan",
+        "structured_info": {
+            "roles_affiliations": [
+                "Ancient human species"
+            ],
+            "background": "The Denisovans are a genetically distinct group of ancient hominins identified through DNA found in remains from Denisova Cave (Siberia) and more recently, off the coast of Taiwan. Research relating to remains found off Taiwan connects Denisovans to *Homo longi*."
+        },
+        "summary": "Denisovans were a distinct group of ancient humans discovered through genetic analysis, with remains found in Siberia and Taiwan, potentially representing a connection to *Homo longi*.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Homo longi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Newly identified species of ancient human"
+            ],
+            "background": "Also known as 'Dragon Man,' *Homo longi* is distinguished by its large skull and was discovered from fossils found in China. It is hypothesized this species migrated from Africa into Asia around 300,000 years ago, though its classification as a distinct species remains a point of debate."
+        },
+        "summary": "Homo longi is a recently identified ancient human species, nicknamed 'Dragon Man,' characterized by a large skull and fossil evidence found in China. Its origins trace back to migrations out of Africa approximately 300,000 years ago, but its status as a unique species is still under discussion.",
+        "appearance_count": 1
+    }
+]

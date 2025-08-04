@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Sydney Sweeney",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Producer",
+                "Celebrity",
+                "Public Figure",
+                "Euphoria",
+                "The White Lotus"
+            ],
+            "background": "Born September 12, 1997, in Spokane, Washington, Sydney Sweeney began her acting career in 2009. She was valedictorian of her class at Saint George’s School and briefly worked at Universal Studios Hollywood. She has received two Primetime Emmy Award nominations and was featured in *Forbes*’ 2023 “30 Under 30” and *Time* 100 Next 2022."
+        },
+        "summary": "Sydney Sweeney is a rising American actress and producer known for her captivating performances in critically acclaimed television series such as *Euphoria* and *The White Lotus*. She has established herself as a prominent figure in Hollywood, with recent roles including appearances in *Anyone But You*, *Madame Web*, and *Immaculate*.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Dt. Polen Akkulıç",
+        "structured_info": {
+            "roles_affiliations": [
+                "Dentist",
+                "Founder of Lema Dental Clinic"
+            ],
+            "background": "Dt. Akkulıç actively shares dental health information through articles and blog posts, focusing on innovations and current developments in the field, with recent content examining celebrity dental aesthetics."
+        },
+        "summary": "Dt. Polen Akkulıç is a dentist and the founder of Lema Dental Clinic who also contributes to public knowledge of dental health through articles and online content.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Izmir Tourism Professionals / Dentists at Vidantis Dental Clinic",
+        "structured_info": {
+            "roles_affiliations": [
+                "Dentists",
+                "Medical Tourism Specialists",
+                "Vidantis Dental Clinic"
+            ],
+            "background": "A team of dental professionals based in Izmir, Turkey, specializing in cosmetic dentistry (smile makeovers) and providing dental tourism services."
+        },
+        "summary": "Izmir Tourism Professionals/Dentists at Vidantis Dental Clinic are a group of specialists focused on providing advanced dental treatments, including smile makeovers, to international patients through dental tourism.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Quentin Tarantino",
+        "structured_info": {
+            "roles_affiliations": [
+                "Filmmaker",
+                "Director"
+            ],
+            "background": "Known for collaborating with various actors, including Sweeney who appeared in *Once Upon a Time in Hollywood*."
+        },
+        "summary": "Quentin Tarantino is a filmmaker and director. He is known for his work in the film industry and collaboration with actors like Sweeney on *Once Upon a Time in Hollywood*.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Edén Spencer",
+        "structured_info": {
+            "roles_affiliations": [
+                "Character in *The Handmaid's Tale*"
+            ],
+            "background": "Edén Spencer is a character in *The Handmaid's Tale*, depicted as a devout and compliant individual within the Republic of Gilead and portrayed by Sydney Sweeney."
+        },
+        "summary": "Edén Spencer is a character from *The Handmaid's Tale* known for her piety and obedience, brought to life by actress Sydney Sweeney.",
+        "appearance_count": 1
+    }
+]

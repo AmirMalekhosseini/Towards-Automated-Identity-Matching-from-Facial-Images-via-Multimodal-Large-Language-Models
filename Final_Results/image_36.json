@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Homayoun Shajarian",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer",
+                "Instrumentalist",
+                "Composer",
+                "Musician",
+                "Vocalist of Persian traditional music",
+                "Collaborator with Sami Yusuf"
+            ],
+            "background": "An Iranian musician and the son of Mohammad-Reza Shajarian, Homayoun Shajarian began his musical career in the 1990s. He specializes in Persian traditional vocal Avaz and plays the Kamancheh, with tutelage from Ardeshir Kamkar. He was formerly married to Guitta Khansari and has a daughter, Yasmine Shajarian."
+        },
+        "summary": "Homayoun Shajarian is a prominent Iranian singer, composer, and instrumentalist specializing in Persian traditional music. He is known for his vocal performances, proficiency with the Kamancheh, and collaborations, including work with Sami Yusuf, and has released several albums and singles.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Sami Yusuf",
+        "structured_info": {
+            "roles_affiliations": [
+                "Singer-songwriter",
+                "Musician"
+            ],
+            "background": "British Pakistani musician of Iranian descent known for performing in multiple languages and blending traditional folk with contemporary music. He was married to Guitta Khansari (div. 2015) and is the father of Yasmine Shajarian. He has collaborated with Mohammad Reza Shajarian."
+        },
+        "summary": "Sami Yusuf is a British Pakistani singer-songwriter and musician of Iranian descent celebrated for his multilingual performances and unique musical fusion. He is known for his collaboration with Mohammad Reza Shajarian and is father to Yasmine Shajarian.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Guitta Khansari",
+        "structured_info": {
+            "roles_affiliations": [
+                "Spouse of Sami Yusuf",
+                "Mother of Yasmine Shajarian"
+            ],
+            "background": "Previously married to Sami Yusuf."
+        },
+        "summary": "Guitta Khansari is known for her relationship with Sami Yusuf, having been his spouse, and as the mother of Yasmine Shajarian.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Yasmine Shajarian",
+        "structured_info": {
+            "roles_affiliations": [
+                "Daughter of Sami Yusuf",
+                "Daughter of Guitta Khansari"
+            ],
+            "background": "Born in Tehran on November 6, 2007."
+        },
+        "summary": "Yasmine Shajarian is the daughter of musicians Sami Yusuf and Guitta Khansari, born in Tehran in 2007.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Mohammad Reza Shajarian",
+        "structured_info": {
+            "roles_affiliations": [
+                "Musician",
+                "Father of Homayoun Shajarian"
+            ],
+            "background": "Mohammad Reza Shajarian was a highly acclaimed musician known for collaborations with artists such as Sami Yusuf, and associated albums including 'Tune of Faith', 'Can't Go on Living Without You', and 'Turmoil of Lovers'."
+        },
+        "summary": "Mohammad Reza Shajarian was a celebrated musician and father of Homayoun Shajarian, recognized for his notable collaborations and album contributions.",
+        "appearance_count": 1
+    }
+]

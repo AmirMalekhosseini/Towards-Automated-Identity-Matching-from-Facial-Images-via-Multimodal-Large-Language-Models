@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Carlos Alcaraz",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Tennis Player",
+                "Attacking Midfielder (Everton)",
+                "Deportes Infantes de Villa Elisa",
+                "Racing Club",
+                "Professional Footballer"
+            ],
+            "background": "Carlos Alcaraz is a Spanish professional tennis player currently ranked among the world's best, having reached No. 1 by the ATP. He began as a promising junior, qualifying for the 2021 Australian Open as the youngest player in over a decade. He has since won major titles including the 2022 US Open and 2023 Wimbledon. He is also a professional footballer, playing as an attacking midfielder for Everton, having come through the youth systems at Deportes Infantes de Villa Elisa and Racing Club. He is coached by Juan Carlos Ferrero and supported by his family."
+        },
+        "summary": "Carlos Alcaraz is a highly successful athlete who excels in both professional tennis and football. He is best known for his accomplishments in tennis, including major championship wins and a current top ranking in the sport. He also has a professional football career as an attacking midfielder.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Juan Carlos Ferrero",
+        "structured_info": {
+            "roles_affiliations": [
+                "Coach",
+                "Tennis Coach",
+                "Head Coach of Carlos Alcaraz"
+            ],
+            "background": "Juan Carlos Ferrero has been the head coach of Carlos Alcaraz since 2019, playing a key role in Alcaraz's development including introducing him to IMG and the sport of tennis. He is known for implementing a strict training regime."
+        },
+        "summary": "Juan Carlos Ferrero is a highly regarded tennis coach, best known as the head coach of Carlos Alcaraz since 2019. He is credited with contributing significantly to Alcaraz's career through rigorous training and early guidance, as showcased in 'Carlos Alcaraz: My Way'.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Novak Djokovic",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player",
+                "Professional Tennis Player"
+            ],
+            "background": "Djokovic is widely considered one of the greatest tennis players of all time, and was a young qualifier comparable to Carlos Alcaraz in 2005. He has had several matches against Alcaraz including wins and losses. He won his fifth major title at the French Open in 2025."
+        },
+        "summary": "Novak Djokovic is a highly-regarded professional tennis player celebrated as one of the best of all time. He has a competitive history with Carlos Alcaraz, including both wins and defeats, and recently secured his fifth major title at the French Open in 2025.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Álvaro Alcaraz",
+        "structured_info": {
+            "roles_affiliations": [
+                "Brother of Carlos Alcaraz Garfia",
+                "Hitting Partner"
+            ],
+            "background": "Álvaro Alcaraz frequently travels with his brother, Carlos Alcaraz, and their father to tennis tournaments. He supports Carlos as a hitting partner."
+        },
+        "summary": "Álvaro Alcaraz is the older brother of professional tennis player Carlos Alcaraz, and serves as his hitting partner, regularly accompanying him to tournaments.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Jannik Sinner",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player"
+            ],
+            "background": "Jannik Sinner is a professional tennis player who has competed in major finals, including the French Open and China Open where he faced Carlos Alcaraz."
+        },
+        "summary": "Jannik Sinner is a prominent tennis player known for his competitive matches against Carlos Alcaraz, having been defeated by him in both the French Open and China Open finals.",
+        "appearance_count": 2
+    }
+]

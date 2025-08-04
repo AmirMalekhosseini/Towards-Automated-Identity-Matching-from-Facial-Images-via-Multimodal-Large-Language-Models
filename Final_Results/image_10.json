@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Novak Djokovic",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Tennis Player",
+                "ATP No. 1 (record 428 weeks)"
+            ],
+            "background": "Novak Djokovic is a Serbian professional tennis player born on May 22, 1987. He turned professional in 2003 and has been coached by Jelena Genčić and Nikola Pilić. He admired Pete Sampras's playing style. He currently has a career record of 1150-231 and has earned $188,934,053 in prize money."
+        },
+        "summary": "Novak Djokovic is a highly decorated Serbian professional tennis player and current world No. 1, holding the record for the most weeks ranked at the top position. He has amassed a record 24 major singles titles and numerous other accolades throughout his career.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Roger Federer",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player"
+            ],
+            "background": "Roger Federer's era of dominance in tennis was significantly impacted by the rise of Novak Djokovic. He is frequently mentioned alongside Rafael Nadal when discussing this period."
+        },
+        "summary": "Roger Federer is a renowned tennis player whose longstanding success was challenged and redefined by the emergence of Novak Djokovic.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Rafael Nadal",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player"
+            ],
+            "background": "Rafael Nadal is a prominent tennis player whose period of dominance was notably impacted by the rise of Novak Djokovic. He is historically known alongside Federer as a rival to Djokovic."
+        },
+        "summary": "Rafael Nadal is a professional tennis player recognized as one of the sport’s greats, frequently discussed in relation to his rivalry with Novak Djokovic.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jelena Genčić",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Player",
+                "Tennis Coach"
+            ],
+            "background": "Jelena Genčić is a Yugoslavian tennis player and coach known for her unorthodox training methods. She is best known for her early work with Novak Djokovic, where she focused on developing his backhand and fundamental skills."
+        },
+        "summary": "Jelena Genčić is a Yugoslavian tennis professional who distinguished herself as a player and coach, most notably as an early mentor to Novak Djokovic, contributing significantly to his foundational tennis development.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Nikola Pilić",
+        "structured_info": {
+            "roles_affiliations": [
+                "Tennis Coach"
+            ],
+            "background": "Nikola Pilić is a tennis coach known for his work at a tennis academy in Germany, where he mentored Novak Djokovic and focused on his technical development, specifically flexibility."
+        },
+        "summary": "Nikola Pilić is a tennis coach recognized for mentoring Novak Djokovic and refining his technique, particularly flexibility, at his German tennis academy.",
+        "appearance_count": 1
+    }
+]

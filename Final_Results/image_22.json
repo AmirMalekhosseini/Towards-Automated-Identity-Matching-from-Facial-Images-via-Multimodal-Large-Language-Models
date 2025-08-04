@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Shahram Khazaei",
+        "structured_info": {
+            "roles_affiliations": [
+                "Assistant Professor, Department of Mathematical Sciences, Sharif University of Technology",
+                "Researcher, KTH Royal Institute of Technology",
+                "Postdoctoral Researcher, KTH Royal Institute of Technology"
+            ],
+            "background": "Dr. Khazaei specializes in cryptography, including symmetric cryptography, protocols, electronic voting, privacy, and anonymity. He holds a PhD in Computer Science from EPFL (supervised by Arjen Lenstra and Willi Meier) and degrees from Sharif University of Technology (BSc in Electrical Engineering, MSc in Telecommunication Engineering)."
+        },
+        "summary": "Shahram Khazaei is an Assistant Professor at Sharif University of Technology specializing in cryptography and related privacy technologies. He completed his PhD at EPFL and held research positions at KTH Royal Institute of Technology.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Arjen Lenstra",
+        "structured_info": {
+            "roles_affiliations": [
+                "PhD Supervisor",
+                "Affiliation with LACAL, EPFL",
+                "Affiliation with EPFL, Switzerland"
+            ],
+            "background": "Arjen Lenstra supervised the doctoral work of Shahram Khazaei at EPFL."
+        },
+        "summary": "Arjen Lenstra is a PhD Supervisor affiliated with both LACAL and EPFL in Switzerland, having recently supervised the PhD research of Shahram Khazaei.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Douglas Wikström",
+        "structured_info": {
+            "roles_affiliations": [
+                "Collaborator",
+                "Co-worker",
+                "KTH Royal Institute of Technology"
+            ],
+            "background": "Douglas Wikström collaborated with Shahram Khazaei on research pertaining to electronic voting schemes and mix-nets, both at KTH Royal Institute of Technology and during Khazaei’s postdoctoral research in Switzerland."
+        },
+        "summary": "Douglas Wikström is a collaborator and co-worker who has worked closely with Shahram Khazaei at KTH Royal Institute of Technology and during Khazaei's postdoctoral work, focusing on electronic voting and mix-net technologies.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Bruno Hioni Escaías",
+        "structured_info": {
+            "roles_affiliations": [
+                "Italian fashion taste expert",
+                "Author"
+            ],
+            "background": "Bruno Hioni Escaías is recognized for his expertise in defining and contextualizing *smart casual* style across various settings."
+        },
+        "summary": "Bruno Hioni Escaías is an Italian fashion expert and author known for his insights into *smart casual* aesthetics.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Topman",
+        "structured_info": {
+            "roles_affiliations": [
+                "Clothing brand representative",
+                "Designer"
+            ],
+            "background": "Topman focuses on the versatility of *smart casual* attire, promoting its suitability for various events."
+        },
+        "summary": "Topman is a designer and representative of a clothing brand specializing in versatile *smart casual* wear.",
+        "appearance_count": 1
+    }
+]

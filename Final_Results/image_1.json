@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Iñaki Peña Sotorres",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional footballer",
+                "FC Barcelona",
+                "Goalkeeper"
+            ],
+            "background": "Iñaki Peña began his football career in Alicante CF's youth system in 2004 before joining Barcelona in 2012."
+        },
+        "summary": "Iñaki Peña Sotorres is a Spanish professional footballer and goalkeeper currently playing for FC Barcelona. He developed through the Alicante CF youth setup before joining Barcelona in 2012.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jasper Cillessen",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "FC Barcelona",
+                "Goalkeeper"
+            ],
+            "background": "Jasper Cillessen previously served as the starting goalkeeper for FC Barcelona before losing his position in the first team."
+        },
+        "summary": "Jasper Cillessen is a professional footballer and former starting goalkeeper for FC Barcelona.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Marc-André ter Stegen",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "FC Barcelona",
+                "Goalkeeper"
+            ],
+            "background": "Marc-André ter Stegen is the starting goalkeeper for FC Barcelona and recently faced an injury."
+        },
+        "summary": "Marc-André ter Stegen is a professional footballer and the primary goalkeeper for FC Barcelona, currently recovering from an injury.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Neto",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "FC Barcelona",
+                "Goalkeeper"
+            ],
+            "background": "Neto is a goalkeeper for FC Barcelona who has been noted in relation to the playing time given to Iñaki Peña."
+        },
+        "summary": "Neto is a footballer and goalkeeper currently playing for FC Barcelona. He is relevant in discussions surrounding goalkeeper rotations at the club.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Michael Schumacher",
+        "structured_info": {
+            "roles_affiliations": [
+                "UNICEF Goodwill Ambassador",
+                "UNESCO champion for sport and ability",
+                "Formula One driver",
+                "Racing Driver (German)",
+                "Formula One Driver for Jordan Grand Prix, Benetton Formula, Scuderia Ferrari, and Mercedes F1 Team"
+            ],
+            "background": "Michael Schumacher is a German retired racing driver born January 3, 1969, widely considered one of the greatest Formula One drivers of all time. He is a seven-time Formula One World Champion, holding numerous records including wins, pole positions, and podium finishes. He experienced a serious head injury in 2013."
+        },
+        "summary": "Michael Schumacher is a highly decorated German racing driver and Formula One legend, known for winning seven World Championships and setting numerous records. Beyond racing, he is involved in humanitarian work as a UNICEF Goodwill Ambassador and UNESCO champion.",
+        "appearance_count": 6
+    },
+    {
+        "name": "Lewis Hamilton",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula One Racing Driver",
+                "Racing Driver"
+            ],
+            "background": "Lewis Hamilton is a highly accomplished Formula One driver, holding the record for most World Drivers' Championships, tied with Michael Schumacher at seven championships."
+        },
+        "summary": "Lewis Hamilton is a celebrated Formula One driver renowned for his seven World Drivers' Championships, a record shared with Michael Schumacher.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Kimi Räikkönen",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula One Racing Driver",
+                "McLaren-Mercedes",
+                "Formula One Driver"
+            ],
+            "background": "Kimi Räikkönen is a Formula One driver who notably competed with Michael Schumacher and challenged for the Formula One World Championship, narrowly missing out on the 2005 title."
+        },
+        "summary": "Kimi Räikkönen is a Formula One driver known for his competitiveness, particularly his rivalry with Michael Schumacher and a close challenge for the 2005 World Championship while driving for McLaren-Mercedes.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Juan Pablo Montoya",
+        "structured_info": {
+            "roles_affiliations": [
+                "Formula One Racing Driver",
+                "Williams",
+                "Formula One Driver"
+            ],
+            "background": "Juan Pablo Montoya is a Formula One driver known for his rivalry with Michael Schumacher. He was a championship contender and achieved a second-place finish at the 2003 US Grand Prix."
+        },
+        "summary": "Juan Pablo Montoya is a Formula One driver who competed for Williams and challenged for the World Drivers’ Championship, notably finishing second at the 2003 US Grand Prix.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Corinna Schumacher",
+        "structured_info": {
+            "roles_affiliations": [
+                "Spouse of Michael Schumacher"
+            ],
+            "background": "Corinna Schumacher is publicly known primarily through her relationship with Michael Schumacher. No specific professional role or affiliation beyond this is detailed in the provided information."
+        },
+        "summary": "Corinna Schumacher is known as the spouse of Michael Schumacher. Information regarding her own independent career or activities is not currently available.",
+        "appearance_count": 2
+    }
+]

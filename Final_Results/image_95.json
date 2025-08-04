@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Ronaldo de Assis Moreira",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Footballer",
+                "Former professional footballer"
+            ],
+            "background": "Brazilian attacking midfielder/left winger, born March 21, 1980, in Porto Alegre, Brazil. He played for clubs including Grêmio, Paris Saint-Germain, and Barcelona. He's widely considered one of the greatest players of all time, possessing exceptional skills, creativity, and dribbling ability."
+        },
+        "summary": "Ronaldo de Assis Moreira is a Brazilian former professional footballer, celebrated as one of the greatest players ever. He achieved significant accolades including two FIFA World Player of the Year awards, a Ballon d'Or, and uniquely, victories in a World Cup, Copa América, Champions League, Copa Libertadores, and Ballon d'Or.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Ronaldo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer",
+                "Retired Footballer"
+            ],
+            "background": "Brazilian professional footballer (striker) considered one of the greatest players ever. He won two FIFA World Cups with Brazil (1994 and 2002) and is renowned for his exceptional technique, speed, and finishing. He played for prominent clubs including PSV, Barcelona, Inter Milan, Real Madrid, AC Milan, Corinthians, and Flamengo."
+        },
+        "summary": "Ronaldo is a highly acclaimed Brazilian footballer, widely regarded as one of the best of all time. He achieved significant international success, winning two World Cups, and enjoyed a distinguished club career playing for several European and Brazilian powerhouses.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Zac Efron",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Zac Efron is identified as a key figure within 'Dominant Planets Statistics'."
+        },
+        "summary": "Zac Efron is an actor noted for being a focal point within the analysis of 'Dominant Planets Statistics'.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Pelé",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer (Retired)",
+                "Brazilian professional footballer"
+            ],
+            "background": "Widely regarded as the greatest footballer of all time, Pelé scored over 1000 career goals and achieved victory in three FIFA World Cups (1958, 1962, and 1970)."
+        },
+        "summary": "Pelé is a legendary Brazilian footballer considered by many to be the greatest of all time, renowned for his prolific goal-scoring record and three FIFA World Cup championships.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Lionel Messi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Footballer"
+            ],
+            "background": "Lionel Messi is an Argentinian professional footballer widely regarded as one of the greatest players in the history of the sport."
+        },
+        "summary": "Lionel Messi is a highly acclaimed Argentinian footballer, consistently ranked among the best players ever to play the game.",
+        "appearance_count": 1
+    }
+]

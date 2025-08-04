@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Christopher Nolan",
+        "structured_info": {
+            "roles_affiliations": [
+                "Writer",
+                "Producer",
+                "Filmmaker",
+                "Screenwriter",
+                "Film Director",
+                "Cinematographer",
+                "Camera Operator",
+                "Director"
+            ],
+            "background": "Christopher Nolan is a British-American filmmaker, educated at University College London (UCL). He's renowned for directing and writing complex, structurally innovative films such as *Inception*, *Dunkirk*, *Interstellar*, *Memento*, and *Oppenheimer*, often incorporating non-linear storytelling and encouraging audience interpretation."
+        },
+        "summary": "Christopher Nolan is a highly acclaimed and influential filmmaker known for producing complex, thought-provoking Hollywood blockbusters characterized by non-linear narratives and technically impressive visuals.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Leonardo DiCaprio is an actor renowned for his roles in critically acclaimed films including *Tenenet*, *Inception*, *Interstellar*, and *Dunkirk*."
+        },
+        "summary": "Leonardo DiCaprio is a well-known actor with a distinguished career featuring prominent roles in several highly-regarded films.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Quentin Tarantino",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Quentin Tarantino is highly regarded as a significant figure in cinema, known for his influential directorial work."
+        },
+        "summary": "Quentin Tarantino is an influential director recognized as a major force in modern cinema.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Martin Scorsese",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Martin Scorsese is a highly influential and respected figure in cinema history."
+        },
+        "summary": "Martin Scorsese is an acclaimed director considered one of the most influential filmmakers of all time.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Steven Spielberg",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director"
+            ],
+            "background": "Steven Spielberg is a highly influential and respected figure in cinema history."
+        },
+        "summary": "Steven Spielberg is a renowned director widely considered one of the most influential filmmakers of all time.",
+        "appearance_count": 1
+    }
+]

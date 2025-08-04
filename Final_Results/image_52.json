@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Luuk de Jong",
+        "structured_info": {
+            "roles_affiliations": [
+                "PSV Eindhoven",
+                "PSV (Football Club)",
+                "Ajax",
+                "Newcastle United",
+                "Borussia Mönchengladbach",
+                "Sevilla",
+                "Dutch National Team"
+            ],
+            "background": "Luuk de Jong is a Dutch professional footballer born August 27, 1990, who plays as a striker. He is a four-time national champion and a 38-time international player, known for his experience, leadership, and goal-scoring ability. He recently rejoined PSV Eindhoven after a period with Sevilla. "
+        },
+        "summary": "Luuk de Jong is an experienced Dutch footballer currently playing as a striker for PSV Eindhoven. He has a successful career with multiple clubs, including Ajax, Newcastle United, Borussia Mönchengladbach, and Sevilla, and is a proven goal scorer with consistent national team appearances.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Joop Munsterman",
+        "structured_info": {
+            "roles_affiliations": [
+                "Chairman"
+            ],
+            "background": "Joop Munsterman is the Chairman of a football club and has been involved in transfer discussions, specifically regarding player Luuk de Jong. He has expressed dissatisfaction with comments made by de Jong."
+        },
+        "summary": "Joop Munsterman is a football club Chairman recently involved in player transfer negotiations and public relations issues with Luuk de Jong.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Steve McClaren",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Manager"
+            ],
+            "background": "Steve McClaren is a football manager who publicly voiced concerns regarding comments made by Luuk de Jong about a potential transfer, alongside Joop Munsterman."
+        },
+        "summary": "Steve McClaren is a football manager known for recently commenting on transfer-related statements made by player Luuk de Jong.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Peter Herrmann",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Manager"
+            ],
+            "background": "Peter Herrmann managed Borussia Mönchengladbach during a phase of Luuk de Jong's career there."
+        },
+        "summary": "Peter Herrmann is a Football Manager who previously worked with Luuk de Jong at Borussia Mönchengladbach.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Lucien Favre",
+        "structured_info": {
+            "roles_affiliations": [
+                "Football Manager",
+                "Borussia Mönchengladbach"
+            ],
+            "background": "Lucien Favre managed Borussia Mönchengladbach during a period when Luuk de Jong played for the club, overseeing 23 appearances by de Jong."
+        },
+        "summary": "Lucien Favre is a Football Manager previously associated with Borussia Mönchengladbach, notably during the time Luuk de Jong was a player there.",
+        "appearance_count": 1
+    }
+]

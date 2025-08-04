@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Angelina Jolie",
+        "structured_info": {
+            "roles_affiliations": [
+                "Filmmaker",
+                "Special Envoy to the United Nations High Commissioner for Refugees (UNHCR)",
+                "Actress",
+                "UNHCR Goodwill Ambassador (2001-)",
+                "UNICEF (Employer)",
+                "Chairperson of U.S. Committee for Refugees and Immigrants (2005-2007)",
+                "Member of the Clinton Foundation (2007-)"
+            ],
+            "background": "Born June 4, 1975, in Los Angeles, California, to actors Jon Voight and Marceline Bertrand, Angelina Jolie is an award-winning actress and filmmaker with a long-standing commitment to humanitarian work. She is a mother of six children and has familial ties to former Dutch Prime Minister Wim Kok."
+        },
+        "summary": "Angelina Jolie is a highly acclaimed actress and filmmaker who is equally recognized for her extensive humanitarian work with organizations like UNHCR and UNICEF. She has received awards for her acting roles and actively uses her platform to advocate for refugee and immigration causes.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Jon Voight",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Father of Angelina Jolie"
+            ],
+            "background": "Jon Voight is primarily known as the father of actress Angelina Jolie. He has appeared in films with his daughter, including *Lookin' to Get Out* (1982)."
+        },
+        "summary": "Jon Voight is an actor and the father of Angelina Jolie, with a notable public connection to his daughter's life and career.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Brad Pitt",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Producer",
+                "Former Partner of Angelina Jolie",
+                "Spouse to Angelina Jolie (2014–2019)"
+            ],
+            "background": "Brad Pitt is an actor and producer who was married to Angelina Jolie from 2014 to 2019. He was previously engaged to Jolie in 2012 and received a Best Actor nomination for his performance in 'Moneyball'."
+        },
+        "summary": "Brad Pitt is a well-known actor and producer, notably recognized for his high-profile relationship and marriage to Angelina Jolie.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Marceline Bertrand",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Mother of Angelina Jolie"
+            ],
+            "background": "Marceline Bertrand is primarily known as the mother of Angelina Jolie."
+        },
+        "summary": "Marceline Bertrand is an actress best known for being the mother of Angelina Jolie.",
+        "appearance_count": 2
+    },
+    {
+        "name": "James Haven",
+        "structured_info": {
+            "roles_affiliations": [
+                "Brother of Angelina Jolie"
+            ],
+            "background": "James Haven is primarily known as the elder brother of actress Angelina Jolie."
+        },
+        "summary": "James Haven is best known for being the brother of Angelina Jolie.",
+        "appearance_count": 2
+    }
+]

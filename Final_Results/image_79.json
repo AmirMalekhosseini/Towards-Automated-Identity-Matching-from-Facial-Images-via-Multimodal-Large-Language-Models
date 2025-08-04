@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Anyah Le Gilmore-Jones",
+        "structured_info": {
+            "roles_affiliations": [
+                "Social Media Marketing Expert",
+                "Reviewer",
+                "Co-author"
+            ],
+            "background": "Anyah has contributed to wikiHow as a reviewer and co-author, specifically on the article 'What Does Ugly Hot Mean?'"
+        },
+        "summary": "Anyah Le Gilmore-Jones is a Social Media Marketing Expert with experience in content creation and review, demonstrated by her contributions as a reviewer and co-author for wikiHow.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Luke Smith",
+        "structured_info": {
+            "roles_affiliations": [
+                "Co-author"
+            ],
+            "background": "Luke Smith is an MFA holder who co-authored the wikiHow article 'What Does Ugly Hot Mean?'"
+        },
+        "summary": "Luke Smith is a co-author, notably having contributed to a wikiHow article on the meaning of 'Ugly Hot'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "TikTok Content Creator",
+        "structured_info": {
+            "roles_affiliations": [
+                "TikTok content creator"
+            ],
+            "background": "This content creator gained recent attention after being featured in a TikTok video associated with the #uglyhot trend and a related wikiHow article. The video received significant engagement with 27.6K likes and 725 comments, and the creator is notable for having pink hair and wearing a dark coloured top."
+        },
+        "summary": "This TikTok content creator rose to prominence through a viral video exploring the #uglyhot aesthetic, demonstrating engagement with current internet trends.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Joaquin Phoenix",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Joaquin Phoenix was noted in a wikiHow article for his unconventional attractiveness, being featured in their 'Celebrity Examples of Ugly Hotness' section."
+        },
+        "summary": "Joaquin Phoenix is an actor recognized for his distinctive and unconventional appearance, highlighted in a wikiHow article discussing unconventional attractiveness.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Timothée Chalamet",
+        "structured_info": {
+            "roles_affiliations": [
+                "Celebrity",
+                "Cultural Icon (as a 'crush' subject)"
+            ],
+            "background": "Timothée Chalamet is frequently discussed in popular culture as a celebrity and object of affection, notably referenced as a 'biggest crush' in contemporary slang."
+        },
+        "summary": "Timothée Chalamet is a widely recognized celebrity who has gained significant attention as a popular 'crush' and cultural icon, particularly amongst younger demographics.",
+        "appearance_count": 1
+    }
+]

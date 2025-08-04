@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Jennifer Lawrence",
+        "structured_info": {
+            "roles_affiliations": [
+                "Writer",
+                "Actress",
+                "Producer"
+            ],
+            "background": "Jennifer Lawrence began her acting career in 2006 and quickly rose to prominence with acclaimed roles in films like \"Winter's Bone\" and \"The Hunger Games.\" She is a self-described self-educated individual and has received accolades including a Young Artist Award and an Academy Award (the first person born in the 1990s to achieve this). She was the world’s highest-paid actress in 2015 and 2016 and has had films grossing over $6 billion worldwide."
+        },
+        "summary": "Jennifer Lawrence is a highly successful American actress, writer, and producer who gained international recognition for her work in critically and commercially successful films. She is considered one of the most influential people of her generation and a significant figure in contemporary cinema.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Tom Shales",
+        "structured_info": {
+            "roles_affiliations": [
+                "Journalist",
+                "TV Critic at The Washington Post"
+            ],
+            "background": "Known for his opinion that Jennifer Lawrence excels at stealing scenes in her performances."
+        },
+        "summary": "Tom Shales is a journalist and television critic for The Washington Post, noted for his insightful commentary on performances, such as his observation of Jennifer Lawrence's talent for scene-stealing.",
+        "appearance_count": 1
+    },
+    {
+        "name": "David Hinckley",
+        "structured_info": {
+            "roles_affiliations": [
+                "Journalist at the New York Daily News"
+            ],
+            "background": "David Hinckley has written about the performance of Jennifer Lawrence."
+        },
+        "summary": "David Hinckley is a journalist for the New York Daily News who has covered topics such as Jennifer Lawrence's work.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Guillermo Arriaga",
+        "structured_info": {
+            "roles_affiliations": [
+                "Screenwriter",
+                "Director"
+            ],
+            "background": "Guillermo Arriaga is a filmmaker known for directing the feature film 'The Burning Plain,' which featured Jennifer Lawrence."
+        },
+        "summary": "Guillermo Arriaga is a screenwriter and director, best known for his work on the film 'The Burning Plain'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Kim Basinger",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Known for her role playing the older version of Jennifer Lawrence's character in \"The Burning Plain\"."
+        },
+        "summary": "Kim Basinger is an actress recognized for her performance in films such as \"The Burning Plain\", where she portrayed the older iteration of Jennifer Lawrence's character.",
+        "appearance_count": 1
+    }
+]

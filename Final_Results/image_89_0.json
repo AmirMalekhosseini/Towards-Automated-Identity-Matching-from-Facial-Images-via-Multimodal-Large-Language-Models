@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Kit Harington",
+        "structured_info": {
+            "roles_affiliations": [
+                "Writer",
+                "Producer",
+                "Actor"
+            ],
+            "background": "Born Christopher Catesby Harington in London, he gained prominence for portraying Jon Snow in *Game of Thrones* (2011-2019). He is related to nobility through his uncle, Sir Nicholas John Harington, the 14th Baronet Harington, and was named after playwright Christopher Marlowe."
+        },
+        "summary": "Kit Harington is a British actor, writer, and producer best known for his leading role as Jon Snow in *Game of Thrones*. He comes from a family with ties to both the arts and British aristocracy.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Emilia Clarke",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Known for her work with Kit Harington, notably suggesting a prominent on-screen relationship in *Game of Thrones*."
+        },
+        "summary": "Emilia Clarke is an actress recognized for her role in *Game of Thrones*, having a notable on-screen partnership with Kit Harington.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Richard Madden",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Richard Madden has been publicly seen with fellow actors Kit Harington and others in a recent photo gallery."
+        },
+        "summary": "Richard Madden is an actor who was recently featured in a photo gallery alongside Kit Harington and other performers.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jason Momoa",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Seen in a photograph alongside Kit Harington and other actors."
+        },
+        "summary": "Jason Momoa is an actor who was recently featured in a photo with fellow actors, including Kit Harington.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Sophie Turner",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress"
+            ],
+            "background": "Sophie Turner gained recognition as a trending personality during the 2019 Emmy Awards, and has had a professional headshot featured."
+        },
+        "summary": "Sophie Turner is an actress who gained prominence in 2019, being featured as a trending name during the Emmy Awards.",
+        "appearance_count": 1
+    }
+]

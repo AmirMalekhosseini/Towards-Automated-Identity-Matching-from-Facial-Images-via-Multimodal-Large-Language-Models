@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Keanu Reeves",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Musician",
+                "Producer",
+                "Creator (BRZRKR)",
+                "Co-founder (Company Films)",
+                "Co-writer"
+            ],
+            "background": "Born in Beirut, Lebanon in 1964, Keanu Reeves is a Canadian actor with Hawaiian, Chinese, and English ancestry. His parents were a geologist and a showgirl/costume designer. He had a nomadic upbringing and faced family challenges throughout his life and is known for his philanthropic work."
+        },
+        "summary": "Keanu Reeves is a versatile Canadian actor, musician, and producer best known for iconic roles in *The Matrix* and *John Wick* franchises. Beyond acting, he is involved in creative projects like the comic *BRZRKR*, and has a strong reputation for his generosity and influence.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Paul Aaron",
+        "structured_info": {
+            "roles_affiliations": [
+                "Broadway Director",
+                "Hollywood Director",
+                "Father of Keanu Reeves"
+            ],
+            "background": "Paul Aaron is a director who relocated his family from New York to Hawaii in 1970 with his wife and children."
+        },
+        "summary": "Paul Aaron is a Broadway and Hollywood director best known as the father of actor Keanu Reeves. He moved his family to Hawaii in 1970.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Patricia Taylor",
+        "structured_info": {
+            "roles_affiliations": [
+                "Costume Designer",
+                "Performer",
+                "Mother of Keanu Reeves"
+            ],
+            "background": "Patricia Taylor is of Hawaiian/Chinese descent and remarried Robert Miller in 1976."
+        },
+        "summary": "Patricia Taylor is a costume designer and performer best known as the mother of actor Keanu Reeves. She is of Hawaiian/Chinese descent and remarried Robert Miller in 1976.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Samuel Nowlin Reeves Jr.",
+        "structured_info": {
+            "roles_affiliations": [
+                "Father of Keanu Reeves",
+                "Businessman"
+            ],
+            "background": "Samuel Reeves Jr. was of English and Hawaiian descent and resided in Hawaii with his family."
+        },
+        "summary": "Samuel Nowlin Reeves Jr. was a businessman and is best known as the father of actor Keanu Reeves. He had English and Hawaiian ancestry and lived in Hawaii.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Samuel Nowlin Reeves",
+        "structured_info": {
+            "roles_affiliations": [
+                "Geologist",
+                "Father of Keanu Reeves"
+            ],
+            "background": "Born in Hawaii and worked as a geologist."
+        },
+        "summary": "Samuel Nowlin Reeves is a geologist best known as the father of actor Keanu Reeves. He was born in Hawaii.",
+        "appearance_count": 1
+    }
+]

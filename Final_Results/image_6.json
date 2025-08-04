@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Maurice Keen",
+        "structured_info": {
+            "roles_affiliations": [
+                "Historian"
+            ],
+            "background": "A specialist in medieval history, Keen clarified the understanding of the term 'gentleman' in the 14th century, linking it to the French nobility."
+        },
+        "summary": "Maurice Keen is a historian recognized for his work on medieval terminology, specifically relating the 14th-century understanding of 'gentleman' to the nobility of France.",
+        "appearance_count": 1
+    },
+    {
+        "name": "John Selden",
+        "structured_info": {
+            "roles_affiliations": [
+                "Jurist"
+            ],
+            "background": "John Selden was a key figure in the historical understanding of the term 'gentleman', notably commenting on its connection to nobility in the 19th century."
+        },
+        "summary": "John Selden was a jurist known for his work analyzing the historical and social meaning of 'gentleman', particularly its relationship to the nobility.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Richard Bratwait",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author"
+            ],
+            "background": "Richard Bratwait was known for possessing exemplary gentlemanly qualities and is associated with the work *The Complete English Gentleman*."
+        },
+        "summary": "Richard Bratwait was an author recognized for his embodiment of gentlemanly virtues, notably through his connection to *The Complete English Gentleman*.",
+        "appearance_count": 1
+    },
+    {
+        "name": "James Henry Lawrence",
+        "structured_info": {
+            "roles_affiliations": [
+                "Historian"
+            ],
+            "background": "James Henry Lawrence is a historian specializing in 19th-century social structures, particularly the concepts of social rank within monarchies."
+        },
+        "summary": "James Henry Lawrence is a historian with expertise in 19th-century monarchical social rank.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Geoffrey Chaucer",
+        "structured_info": {
+            "roles_affiliations": [
+                "English Poet",
+                "Scholar",
+                "Diplomat",
+                "Author"
+            ],
+            "background": "Geoffrey Chaucer is celebrated as the father of English literature, renowned primarily for his work, *The Canterbury Tales*. He contributed to discussions on social definitions, notably offering a perspective on what constitutes a gentleman."
+        },
+        "summary": "Geoffrey Chaucer was a pivotal figure in English literature – a poet, scholar, and diplomat – best remembered as the author of *The Canterbury Tales* and a contributor to early social discourse.",
+        "appearance_count": 1
+    }
+]

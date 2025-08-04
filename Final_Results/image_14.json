@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Léon Marchand",
+        "structured_info": {
+            "roles_affiliations": [
+                "Swimmer",
+                "Representing France",
+                "Arizona State University",
+                "Toulouse club"
+            ],
+            "background": "Léon Marchand is a French swimmer who has competed in the 2020 Summer Olympics and the 2022 NCAA Championships. He holds French records in the 400m individual medley and has set NCAA records in the 200-yard individual medley. He studied computer science at Toulouse III – Paul Sabatier University and Arizona State University, and has been coached by Nicolas Castel and Bob Bowman."
+        },
+        "summary": "Léon Marchand is a highly decorated French swimmer. He achieved significant success at the Paris 2024 Olympic Games, winning four gold medals, and is also a record-holder in both French and NCAA swimming. He balances his athletic career with studies in computer science.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Bob Bowman",
+        "structured_info": {
+            "roles_affiliations": [
+                "Arizona State University",
+                "Coach"
+            ],
+            "background": "Bob Bowman is a highly accomplished swim coach, currently coaching Léon Marchand and previously coaching Michael Phelps."
+        },
+        "summary": "Bob Bowman is a prominent swimming coach currently at Arizona State University, best known for his work with Olympic champions Michael Phelps and Léon Marchand.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Nicolas Castel",
+        "structured_info": {
+            "roles_affiliations": [
+                "Coach",
+                "Toulouse club"
+            ],
+            "background": "Previously coached Léon Marchand until 2021."
+        },
+        "summary": "Nicolas Castel is a coach currently affiliated with the Toulouse club, known for having previously coached Léon Marchand until 2021.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Caeleb Dressel",
+        "structured_info": {
+            "roles_affiliations": [
+                "Swimmer"
+            ],
+            "background": "Caeleb Dressel is a swimmer who previously held a record later broken by Léon Marchand."
+        },
+        "summary": "Caeleb Dressel is a swimmer notable for formerly holding a record that was subsequently surpassed.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Hugo González",
+        "structured_info": {
+            "roles_affiliations": [
+                "Swimmer"
+            ],
+            "background": "Hugo González is a competitive swimmer who recently placed second to Léon Marchand in the 400-yard individual medley."
+        },
+        "summary": "Hugo González is a swimmer known for his strong performance, having recently finished just behind Léon Marchand in a major competition.",
+        "appearance_count": 1
+    }
+]

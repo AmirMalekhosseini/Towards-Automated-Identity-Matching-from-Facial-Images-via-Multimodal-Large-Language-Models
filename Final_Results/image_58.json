@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Al Pacino",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Producer",
+                "Director",
+                "Member of the Actors Studio"
+            ],
+            "background": "Al Pacino is a highly acclaimed and award-winning American actor with a career spanning over six decades. He is known for iconic roles in films like 'The Godfather' trilogy, 'Scarface', 'Scent of a Woman', 'Serpico', and *The Irishman* (as Jimmy Hoffa). He trained at the Actors Studio and has collaborated with directors like Martin Scorsese."
+        },
+        "summary": "Al Pacino is a prolific and highly decorated American actor, director, and producer with a six-decade career marked by landmark performances in some of cinema's most influential films. He is an iconic figure, having earned numerous accolades including an Academy Award, Emmy Awards, and a Tony Award.",
+        "appearance_count": 5
+    },
+    {
+        "name": "Harvey Keitel",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Supporting Actor"
+            ],
+            "background": "Harvey Keitel is a prominent American actor known for his collaborations with directors Martin Scorsese and Robert De Niro, and for co-starring with Al Pacino."
+        },
+        "summary": "Harvey Keitel is a highly regarded American actor with a distinguished career marked by work with notable directors and actors like Scorsese, De Niro, and Pacino.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Robert De Niro",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Producer",
+                "Frank Sheeran (role in *The Irishman*)"
+            ],
+            "background": "A highly accomplished actor with collaborations with Martin Scorsese and Harvey Keitel, De Niro has a notable history of co-starring with Al Pacino in films like *Heat* (1995) and *Righteous Kill* (2008)."
+        },
+        "summary": "Robert De Niro is a renowned actor and producer known for his prolific career, frequent collaborations with prominent filmmakers, and memorable roles, including Frank Sheeran in *The Irishman*.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Beverly D'Angelo",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Beverly D'Angelo is an actor recognized for her roles in films such as 'Coal Miner's Daughter' and 'Hair'."
+        },
+        "summary": "Beverly D'Angelo is an actor best known for her work in prominent films like 'Coal Miner's Daughter' and 'Hair'.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Lucila Polak",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor"
+            ],
+            "background": "Lucila Polak is known for her connection to Al Pacino."
+        },
+        "summary": "Lucila Polak is an actor who is publicly known for her relationship with Al Pacino.",
+        "appearance_count": 1
+    }
+]

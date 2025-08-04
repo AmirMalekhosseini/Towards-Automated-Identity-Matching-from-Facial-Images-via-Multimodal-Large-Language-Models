@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Leonardo DiCaprio",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actor",
+                "Film Producer",
+                "Producer",
+                "Environmentalist",
+                "UN Messenger of Peace",
+                "Founder of Appian Way Productions"
+            ],
+            "background": "Leonardo DiCaprio is an American actor and film producer with a career spanning decades. He began performing at a young age and gained prominence with roles in 'What's Eating Gilbert Grape' and 'Titanic'. He has received numerous accolades, including a Golden Globe and Academy Award for *The Revenant*."
+        },
+        "summary": "Leonardo DiCaprio is a highly acclaimed American actor and producer known for his versatile roles in critically and commercially successful films. Beyond his acting career, he is a dedicated environmentalist and a UN Messenger of Peace, and runs his own production company, Appian Way Productions.",
+        "appearance_count": 3
+    },
+    {
+        "name": "Brad Pitt",
+        "structured_info": {
+            "roles_affiliations": [
+                "Producer",
+                "Actor",
+                "Cliff Booth (character in *Once Upon a Time in Hollywood*)"
+            ],
+            "background": "Brad Pitt is an acclaimed actor who starred in *Once Upon a Time in Hollywood* alongside Leonardo DiCaprio, playing the role of Cliff Booth, a stunt double and war veteran. He received awards and critical acclaim for his performance."
+        },
+        "summary": "Brad Pitt is a highly regarded actor and producer recognized for his performance as Cliff Booth in *Once Upon a Time in Hollywood*, for which he received critical acclaim and awards.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Margot Robbie",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Actor",
+                "Sharon Tate (portrayal in *Once Upon a Time in Hollywood*)"
+            ],
+            "background": "Margot Robbie is an actress known for her role in *Once Upon a Time in Hollywood*, where she starred alongside Leonardo DiCaprio and Brad Pitt and portrayed Sharon Tate."
+        },
+        "summary": "Margot Robbie is a recognized actress who gained prominence for her work in *Once Upon a Time in Hollywood*, notably for her portrayal of Sharon Tate.",
+        "appearance_count": 2
+    },
+    {
+        "name": "George DiCaprio",
+        "structured_info": {
+            "roles_affiliations": [
+                "Artist",
+                "Publisher",
+                "Father of Leonardo DiCaprio"
+            ],
+            "background": "George DiCaprio began his career involved in the underground comix scene, working on titles like 'Empire' and distributing 'Zap Comix'."
+        },
+        "summary": "George DiCaprio is an artist and publisher, most notably known as the father of Leonardo DiCaprio. He has a background in the underground comix movement, contributing to and distributing influential titles.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Irmelin Indenbirken",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mother of Leonardo DiCaprio"
+            ],
+            "background": "A German immigrant of Ukrainian heritage, Irmelin Indenbirken is known as the mother of actor Leonardo DiCaprio."
+        },
+        "summary": "Irmelin Indenbirken is a German-Ukrainian immigrant primarily known for being the mother of actor Leonardo DiCaprio.",
+        "appearance_count": 1
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Emma Stone",
+        "structured_info": {
+            "roles_affiliations": [
+                "Actress",
+                "Producer",
+                "Film Producer",
+                "Singer",
+                "Soundtrack"
+            ],
+            "background": "Born Emily Jean Stone in Scottsdale, Arizona, in 1988, she overcame childhood anxiety through therapy and theatre. She began performing at age 11 and initially pursued sketch comedy while taking vocal lessons."
+        },
+        "summary": "Emma Stone is a highly acclaimed actress, producer, and singer who has achieved significant success in film, winning two Academy Awards. She began her career as a child performer and is recognized for roles in prominent films like *La La Land*, *Easy A*, and *Poor Things*.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Jeffrey Charles Stone",
+        "structured_info": {
+            "roles_affiliations": [
+                "Founder of a general-contracting company"
+            ],
+            "background": "He is the father of actress Emma Stone."
+        },
+        "summary": "Jeffrey Charles Stone is an entrepreneur and the founder of a general-contracting company, best known as the father of actress Emma Stone.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Krista Jean Stone",
+        "structured_info": {
+            "roles_affiliations": [
+                "Homemaker",
+                "Mother of Emma Stone"
+            ],
+            "background": "Krista's maternal grandfather came from a Swedish family who changed their surname to Stone."
+        },
+        "summary": "Krista Jean Stone is a homemaker best known as the mother of actress Emma Stone. She has Swedish ancestry through her maternal grandfather.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Jeffrey Charles “Jeff” Stone",
+        "structured_info": {
+            "roles_affiliations": [
+                "Contracting Company Founder",
+                "CEO"
+            ],
+            "background": "Jeff Stone is primarily known as the father of actress Emma Stone. He is also the founder and CEO of a contracting company."
+        },
+        "summary": "Jeffrey ‘Jeff’ Stone is a businessman and the father of actress Emma Stone. He founded and currently leads a contracting company.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Krista Jean Yeager",
+        "structured_info": {
+            "roles_affiliations": [
+                "Homemaker",
+                "Mother of Emma Stone"
+            ],
+            "background": "Krista Jean Yeager is known primarily as the mother of actress Emma Stone."
+        },
+        "summary": "Krista Jean Yeager is a homemaker best known for being the mother of acclaimed actress Emma Stone.",
+        "appearance_count": 1
+    }
+]

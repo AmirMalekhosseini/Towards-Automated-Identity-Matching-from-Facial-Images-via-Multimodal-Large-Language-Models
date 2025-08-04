@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Siavash Shahshahani",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professor Emeritus at Sharif University of Technology",
+                "Head of the Mathematics Department at Sharif University of Technology",
+                "Professor at Khwarizmi University",
+                "Affiliated with Northwestern University",
+                "Affiliated with University of Wisconsin-Madison",
+                "Affiliated with University of Michigan",
+                "Iran University of Science and Technology (Department of Physics)",
+                "University of California, Berkeley (PhD)",
+                "University of Tehran (Bachelor’s)",
+                "MIT (PhD)",
+                "Mathematician",
+                "Researcher in theoretical physics (statistical mechanics)",
+                "Photographer"
+            ],
+            "background": "An Iranian mathematician born in Tehran in 1942/43. He earned a Bachelor's degree from the University of Tehran and PhDs in theoretical physics from MIT and mathematics from the University of California, Berkeley under Stephen Smale. His research spans Geometry, Topology, Differentiable Manifolds, and percolation theory, including work on second-order ordinary differential equations on manifolds. He has been involved in the development of Iran’s national internet infrastructure. Also known as Siavash Mirshams Shahshahani, and proficient in English, French, and Spanish."
+        },
+        "summary": "Siavash Shahshahani is a highly accomplished Iranian mathematician and theoretical physicist, currently a Professor Emeritus at Sharif University of Technology. He received doctorates from both MIT and UC Berkeley (under Stephen Smale) and has contributed significantly to fields like geometry, topology, and percolation theory. Beyond academia, he played a role in developing Iran’s national internet and is also a photographer.",
+        "appearance_count": 6
+    },
+    {
+        "name": "Stephen Smale",
+        "structured_info": {
+            "roles_affiliations": [
+                "Mathematician",
+                "University of California, Berkeley",
+                "PhD Advisor",
+                "PhD Supervisor"
+            ],
+            "background": "Stephen Smale is a mathematician affiliated with the University of California, Berkeley. He advised and supervised Siavash Shahshahani's PhD work there."
+        },
+        "summary": "Stephen Smale is a mathematician at the University of California, Berkeley, known for his work as a PhD advisor and supervisor, notably for Siavash Shahshahani.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Saeid Roustaei",
+        "structured_info": {
+            "roles_affiliations": [
+                "Researcher"
+            ],
+            "background": "Saeid Roustaei's research focuses on percolation theory."
+        },
+        "summary": "Saeid Roustaei is a researcher specializing in percolation theory.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Roknoddin Yousefi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author"
+            ],
+            "background": "Roknoddin Yousefi is an author specializing in industrial manufacturing and numerical solutions. He has published 'Secrets of Industrial Manufacturing' and 'Calculation of Numerical Solutions'."
+        },
+        "summary": "Roknoddin Yousefi is an author known for his works on industrial manufacturing and numerical methods.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Abbas Mahmoodi",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author"
+            ],
+            "background": "Abbas Mahmoodi has authored publications including 'End of the Road / Destination', published by Kharezmi Publications."
+        },
+        "summary": "Abbas Mahmoodi is an author with published work through Kharezmi Publications, including the publication 'End of the Road / Destination'.",
+        "appearance_count": 1
+    }
+]

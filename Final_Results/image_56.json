@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Napoleon Bonaparte",
+        "structured_info": {
+            "roles_affiliations": [
+                "Political Leader",
+                "Military Commander",
+                "Historical Figure"
+            ],
+            "background": "A prominent figure during the French Revolution, Napoleon Bonaparte led France through a series of successful military campaigns in the Napoleonic Wars. He is remembered for his influence on French history and a deep connection to the French people."
+        },
+        "summary": "Napoleon Bonaparte was a highly influential French political and military leader who rose to prominence during the French Revolution and shaped the course of European history through the Napoleonic Wars.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Zinedine Zidane",
+        "structured_info": {
+            "roles_affiliations": [
+                "Player",
+                "Football Manager",
+                "Coach (Real Madrid Castilla, Real Madrid, French U21)",
+                "Qatar 2022 World Cup Bid Ambassador"
+            ],
+            "background": "Zinedine Zidane is a former French professional footballer who played for clubs including Cannes, Bordeaux, Juventus, and Real Madrid, as well as the French national team. He is regarded as one of the greatest players ever and transitioned to management, achieving significant success with Real Madrid, winning multiple Champions League titles as both a player and a manager."
+        },
+        "summary": "Zinedine Zidane is a highly decorated football figure, celebrated both as a player and a manager. He had a distinguished playing career before transitioning to coaching, where he led Real Madrid to unprecedented success, including three consecutive Champions League titles.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Daniel",
+        "structured_info": {
+            "roles_affiliations": [
+                "Author"
+            ],
+            "background": "Daniel is the author of the blog post \"20 Influential French Figures in History,\" which was published on April 3, 2024."
+        },
+        "summary": "Daniel is an author who recently published a blog post detailing 20 influential figures in French history.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Issandra",
+        "structured_info": {
+            "roles_affiliations": [
+                "French Tutor",
+                "Superprof Tutor"
+            ],
+            "background": "Issandra is a highly-rated French tutor on Superprof, achieving a 5-star rating from 12 reviews. She charges $30 per hour and provides a free introductory lesson."
+        },
+        "summary": "Issandra is a well-regarded French tutor on Superprof, known for her excellent ratings and affordable lessons with a free trial option.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Clara",
+        "structured_info": {
+            "roles_affiliations": [
+                "French Tutor"
+            ],
+            "background": "Clara is a highly-rated (5 stars based on 16 reviews) French tutor on Superprof, offering lessons at a rate of $70/hour and providing a free introductory lesson."
+        },
+        "summary": "Clara is a French tutor on Superprof known for excellent ratings and affordable, trial lessons.",
+        "appearance_count": 1
+    }
+]

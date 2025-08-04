@@ -1,0 +1,61 @@
+[
+    {
+        "name": "David Schwimmer",
+        "structured_info": {
+            "roles_affiliations": [
+                "Director",
+                "Actor",
+                "Ross Geller (character in Friends)"
+            ],
+            "background": "Born in New York City to a family with legal and Jewish heritage, Schwimmer moved to Los Angeles at age 10. He is a graduate of Northwestern University and gained prominence for his iconic role as Ross Geller in *Friends*, earning an Emmy nomination for the performance. He has also appeared in *The People v. O.J. Simpson: American Crime Story*."
+        },
+        "summary": "David Schwimmer is a New York-born actor and director best known for his portrayal of Ross Geller on the television series *Friends*. He has successfully transitioned between acting and directing roles, and has received Emmy recognition for his work.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Dee Koorey",
+        "structured_info": {
+            "roles_affiliations": [
+                "Instructor at the Australian Writers’ Centre",
+                "Author"
+            ],
+            "background": "Dee Koorey is an expert in English language usage, style, and grammar, demonstrated through writing the 'Do's and Don'ts' column for the Australian Writers’ Centre blog and exploring nuances in style guides."
+        },
+        "summary": "Dee Koorey is an author and instructor at the Australian Writers’ Centre specializing in English language, style, and grammar, as evidenced by her regular column and focus on precise language use.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Stairfax and Associated Press",
+        "structured_info": {
+            "roles_affiliations": [
+                "Grammar Guidance Provider"
+            ],
+            "background": "Stairfax and Associated Press is an organization known for providing guidance and rules on grammar, with a particular focus on pluralization and apostrophe usage standardization."
+        },
+        "summary": "Stairfax and Associated Press is a grammar guidance provider specializing in establishing standards for pluralization and apostrophe use.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Dad",
+        "structured_info": {
+            "roles_affiliations": [
+                "Parent",
+                "Grammatical Example Subject"
+            ],
+            "background": "This individual is known primarily as an example subject in a linguistic demonstration concerning apostrophe usage with possessives. They were also reportedly present at an unspecific event."
+        },
+        "summary": "The 'Dad' in question is notable for being used as a case study in grammar lessons focused on possessive apostrophes and for having attended an event.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Therapist",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Consultant"
+            ],
+            "background": "The Therapist is being considered for consultation regarding issues with apostrophe usage, with a focus on understanding the root causes of the problem."
+        },
+        "summary": "The Therapist is a professional consultant being evaluated for their expertise in understanding and resolving underlying issues, specifically in the context of resolving a question about apostrophe use.",
+        "appearance_count": 1
+    }
+]

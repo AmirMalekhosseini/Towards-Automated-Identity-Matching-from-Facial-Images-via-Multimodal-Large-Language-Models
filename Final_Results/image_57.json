@@ -1,0 +1,65 @@
+[
+    {
+        "name": "LeBron James",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Basketball Player",
+                "NBA Player",
+                "U.S. National Team Member",
+                "Los Angeles Lakers (LAL)",
+                "Miami Heat",
+                "Cleveland Cavaliers (drafted by)"
+            ],
+            "background": "Born December 30, 1984, LeBron James is widely regarded as one of the greatest basketball players ever. He holds the NBA's all-time leading scorer title, has won 4 NBA championships, and secured 3 Olympic gold medals. He has earned recognition as a 3x Sports Illustrated Sportsperson of the Year and a 2x National High School Player of the Year. Currently in his 21st season, he recently exercised his player option for the 2025-26 season."
+        },
+        "summary": "LeBron James is a highly decorated professional basketball player currently playing for the Los Angeles Lakers, considered one of the all-time greats in the sport with numerous championships, scoring records, and Olympic medals. He recently extended his contract and continues to perform at a high level, evidenced by recent game performances.",
+        "appearance_count": 4
+    },
+    {
+        "name": "Arthur Kaluma",
+        "structured_info": {
+            "roles_affiliations": [
+                "Basketball Player",
+                "Los Angeles Lakers",
+                "NBA Player"
+            ],
+            "background": "Arthur Kaluma is currently listed on the roster of the Los Angeles Lakers."
+        },
+        "summary": "Arthur Kaluma is an NBA player and basketball player for the Los Angeles Lakers.",
+        "appearance_count": 2
+    },
+    {
+        "name": "Bronny James",
+        "structured_info": {
+            "roles_affiliations": [
+                "Basketball Player"
+            ],
+            "background": "Bronny James is the son of LeBron James, a professional basketball player."
+        },
+        "summary": "Bronny James is a basketball player and is well-known as the son of NBA star LeBron James.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Vincent Carter",
+        "structured_info": {
+            "roles_affiliations": [
+                "Basketball Player"
+            ],
+            "background": "Holds the record for most minutes played in league history (tied with another Vincent Carter)."
+        },
+        "summary": "Vincent Carter is a basketball player known for his longevity and holding a record for most minutes played in league history.",
+        "appearance_count": 1
+    },
+    {
+        "name": "Rui Hachimura",
+        "structured_info": {
+            "roles_affiliations": [
+                "Professional Basketball Player",
+                "Los Angeles Lakers"
+            ],
+            "background": "Rui Hachimura is a featured member of the Los Angeles Lakers team roster."
+        },
+        "summary": "Rui Hachimura is a professional basketball player currently playing for the Los Angeles Lakers.",
+        "appearance_count": 1
+    }
+]
